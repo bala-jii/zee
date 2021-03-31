@@ -1,0 +1,74 @@
+{
+    "extName": {
+        "message": "Marketo Sales Connect for Chrome",
+        "description": "Extension name."
+    },
+    "extShortName": {
+        "message": "MSC",
+        "description": "Short extension name."
+    },
+    "extDescription": {
+        "message": "Marketo Sales Connect for Chrome works with Gmail and Salesforce to help sales professionals quickly interact with prospects.",
+        "description": "Extension description."
+    },
+    "extBrowserActionTitle": {
+        "message": "Marketo Sales Connect Settings",
+        "description": "Extension Browser Action Default Title."
+    },
+    "extSalesSuccessPlatform": {
+        "message": "Sales Success Platform",
+        "description": "Popup header."
+    },
+    "extCompany": {
+        "message": "Marketo Sales Connect",
+        "description": "Company name"
+    },
+    "extSettings": {
+        "message": "Settings",
+        "description": "Popup title"
+    },
+    "extShowNiko": {
+        "message": "Show Niko as I browse web pages",
+        "description": "Setting option for web pages"
+    },
+    "extShow": {
+        "message": "Show",
+        "description": "Show text"
+    },
+    "extNextToEmail": {
+        "message": "next to emails to quickly message them",
+        "description": "Setting option for email"
+    },
+    "extLiveFeed": {
+        "message": "Live Feed",
+        "description": "Marketo Sales Connect live feed"
+    },
+    "extYouHaveNewTrackingEvent": {
+        "message": "You have $COUNT$ new tracking event(s).",
+        "description": "New tracking event count",
+        "placeholders": {
+            "count": {
+                "content": "$1",
+                "example": "10"
+            }
+        }
+    },
+    "extYouHaveUnseenAlerts": {
+        "message": "You have $COUNT$ unseen alerts.",
+        "description": "Unseen alerts count",
+        "placeholders": {
+            "count": {
+                "content": "$1",
+                "example": "10"
+            }
+        }
+    },
+    "extGo": {
+        "message": "Go",
+        "description": "Go button text"
+    },
+    "extAllIsWell": {
+        "message": "All is well...",
+        "description": "No events found"
+    }
+}
