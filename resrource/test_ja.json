@@ -1,74 +1,74 @@
 {
     "extName": {
-        "message": "à_Marketo Sales Connect for Chrome_海",
-        "description": "à_Extension name._海"
+        "message": "Chrome 用 Marketo Sales Connect",
+        "description": "拡張機能名."
     },
     "extShortName": {
-        "message": "à_MSC_海",
-        "description": "à_Short extension name._海"
+        "message": "MSC",
+        "description": "短縮拡張機能名."
     },
     "extDescription": {
-        "message": "à_Marketo Sales Connect for Chrome works with Gmail and Salesforce to help sales professionals quickly interact with prospects._海",
-        "description": "à_Extension description._海"
+        "message": "Chrome 用 Marketo Sales Connect Gmail と Salesforce と連動し、セールスの専門家が見込み顧客と迅速にやり取りするのをサポートします.",
+        "description": "拡張機能の説明."
     },
     "extBrowserActionTitle": {
-        "message": "à_Marketo Sales Connect Settings_海",
-        "description": "à_Extension Browser Action Default Title._海"
+        "message": "Marketo Sales Connect の設定",
+        "description": "拡張ブラウザアクションのデフォルトタイトル."
     },
     "extSalesSuccessPlatform": {
-        "message": "à_Sales Success Platform_海",
-        "description": "à_Popup header._海"
+        "message": "セールス成功のプラットフォーム",
+        "description": "ポップアップヘッダー."
     },
     "extCompany": {
-        "message": "à_Marketo Sales Connect_海",
-        "description": "à_Company name_海"
+        "message": "Marketo セールスの連携",
+        "description": "企業名"
     },
     "extSettings": {
-        "message": "à_Settings_海",
-        "description": "à_Popup title_海"
+        "message": "設定",
+        "description": "ポップアップのタイトル"
     },
     "extShowNiko": {
-        "message": "à_Show Niko as I browse web pages_海",
-        "description": "à_Setting option for web pages_海"
+        "message": "ウェブページ閲覧時に Niko を表示",
+        "description": "ウェブページの設定オプション"
     },
     "extShow": {
-        "message": "à_Show_海",
-        "description": "à_Show text_海"
+        "message": "表示",
+        "description": "テキストの表示"
     },
     "extNextToEmail": {
-        "message": "à_next to emails to quickly message them_海",
-        "description": "à_Setting option for email_海"
+        "message": "メールの隣にすぐメッセージを表示",
+        "description": "メールの設定オプション"
     },
     "extLiveFeed": {
-        "message": "à_Live Feed_海",
-        "description": "à_Marketo Sales Connect live feed_海"
+        "message": "ライブフィード",
+        "description": "Marketo Sales Connectのライブフィード"
     },
     "extYouHaveNewTrackingEvent": {
-        "message": "à_You have $COUNT$ new tracking event(s)._海",
-        "description": "à_New tracking event count_海",
+        "message": "$COUNT$ 件の新規追跡イベントがあります.",
+        "description": "新規追跡イベント数",
         "placeholders": {
             "count": {
-                "content": "à_$1_海",
-                "example": "à_10_海"
+                "content": "$1",
+                "example": "10"
             }
         }
     },
     "extYouHaveUnseenAlerts": {
-        "message": "à_You have $COUNT$ unseen alerts._海",
-        "description": "à_Unseen alerts count_海",
+        "message": "$COUNT$ 個の未確認アラートがあります.",
+        "description": "未確認アラート数",
         "placeholders": {
             "count": {
-                "content": "à_$1_海",
-                "example": "à_10_海"
+                "content": "$1",
+                "example": "10"
             }
         }
     },
     "extGo": {
-        "message": "à_Go_海",
-        "description": "à_Go button text_海"
+        "message": "移動",
+        "description": "ボタンのテキストに移動"
     },
     "extAllIsWell": {
-        "message": "à_All is well..._海",
-        "description": "à_No events found_海"
+        "message": "すべて順調...",
+        "description": "イベントが見つかりません"
     }
 }
