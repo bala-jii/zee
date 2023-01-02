@@ -1,0 +1,74 @@
+{
+  "extName": {
+    "message": "à_Marketo Sales Connect for Chrome_海",
+    "description": "à_Extension name._海"
+  },
+  "extShortName": {
+    "message": "à_MSC_海",
+    "description": "à_Short extension name._海"
+  },
+  "extDescription": {
+    "message": "à_Marketo Sales Connect for Chrome works with Gmail and Salesforce to help sales professionals quickly interact with prospects._海",
+    "description": "à_Extension description._海"
+  },
+  "extBrowserActionTitle": {
+    "message": "à_Marketo Sales Connect Settings_海",
+    "description": "à_Extension Browser Action Default Title._海"
+  },
+  "extSalesSuccessPlatform": {
+    "message": "à_Sales Success Platform_海",
+    "description": "à_Popup header._海"
+  },
+  "extCompany": {
+    "message": "à_Marketo Sales Connect_海",
+    "description": "à_Company name_海"
+  },
+  "extSettings": {
+    "message": "à_Settings_海",
+    "description": "à_Popup title_海"
+  },
+  "extShowNiko": {
+    "message": "à_Show Niko as I browse web pages_海",
+    "description": "à_Setting option for web pages_海"
+  },
+  "extShow": {
+    "message": "à_Show_海",
+    "description": "à_Show text_海"
+  },
+  "extNextToEmail": {
+    "message": "à_next to emails to quickly message them_海",
+    "description": "à_Setting option for email_海"
+  },
+  "extLiveFeed": {
+    "message": "à_Live Feed_海",
+    "description": "à_Marketo Sales Connect live feed_海"
+  },
+  "extYouHaveNewTrackingEvent": {
+    "message": "à_You have $COUNT$ new tracking event(s)._海",
+    "description": "à_New tracking event count_海",
+    "placeholders": {
+      "count": {
+        "content": "à_$1_海",
+        "example": "à_10_海"
+      }
+    }
+  },
+  "extYouHaveUnseenAlerts": {
+    "message": "à_You have $COUNT$ unseen alerts._海",
+    "description": "à_Unseen alerts count_海",
+    "placeholders": {
+      "count": {
+        "content": "à_$1_海",
+        "example": "à_10_海"
+      }
+    }
+  },
+  "extGo": {
+    "message": "à_Go_海",
+    "description": "à_Go button text_海"
+  },
+  "extAllIsWell": {
+    "message": "à_All is well..._海",
+    "description": "à_No events found_海"
+  }
+}
