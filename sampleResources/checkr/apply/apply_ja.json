@@ -396,7 +396,7 @@
         "screeningLocation": "Screening location",
         "businessHours": "Business hours",
         "passExpiration": "Pass expiration",
-        "status": "Status"
+        "status": "ステータス"
       },
       "commonQuestions": {
         "title": "Common Questions",
@@ -880,7 +880,7 @@
     "removeDocuments": "Remove Documents",
     "show": "Show",
     "submitting": "Submitting",
-    "submit": "Submit",
+    "submit": "送信",
     "scheduleTest": "Schedule Test",
     "scheduleVaccine": "Schedule Vaccine",
     "testForImmunity": "Test for Immunity",
@@ -959,7 +959,7 @@
     "endDateOptional": "End date (optional)",
     "fatherName": "Father's Full Name",
     "firstName": "First name",
-    "from": "From",
+    "from": "開始",
     "fullName": "Full name",
     "gedDiplomaImg": "Please upload a copy of your GED if you have it. Without this, you will be subject to very long delays or potentially adverse action.",
     "gender": "Gender",
@@ -1223,7 +1223,7 @@
     "navigation": {
       "back": "Back",
       "save": "Save",
-      "submit": "Submit",
+      "submit": "送信",
       "continue": "Continue"
     },
     "stateLogin": {
