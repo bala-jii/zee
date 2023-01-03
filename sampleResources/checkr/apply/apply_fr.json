@@ -179,14 +179,14 @@
       "title": "Employment history",
       "instructions": {
         "oneYear": {
-          "allEmployers": "Provide details for positions from your last year of employment.",
-          "oneEmployer": "Provide details for 1 position from your last year of employment.",
-          "manyEmployers": "Provide details for up to %{maximumAllowedEmployers} positions from your last year of employment."
+          "allEmployers": "Please provide details for your last %{lookbackYears} year of employment history",
+          "oneEmployer": "Please provide details for your last %{lookbackYears} year of employment history (up to a maximum of %{maximumAllowedEmployers} employer)",
+          "manyEmployers": "Please provide details for your last %{lookbackYears} year of employment history (up to a maximum of %{maximumAllowedEmployers} employers)"
         },
         "manyYears": {
-          "allEmployers": "Provide details for positions from your last %{lookbackYears} years of employment.",
-          "oneEmployer": "Provide details for 1 position from your last %{lookbackYears} years of employment.",
-          "manyEmployers": "Provide details for up to %{maximumAllowedEmployers} positions from your last %{lookbackYears} years of employment."
+          "allEmployers": "Please provide details for your last %{lookbackYears} years' employment history",
+          "oneEmployer": "Please provide details for your last %{lookbackYears} years' employment history (up to a maximum of %{maximumAllowedEmployers} employer)",
+          "manyEmployers": "Please provide details for your last %{lookbackYears} years' employment history (up to a maximum of %{maximumAllowedEmployers} employers)"
         }
       },
       "employerRequired": "%{accountName} requires you to provide employment history within the last %{lookbackYears} year(s) in order to continue. If you do not have any employment history within the last %{lookbackYears} year(s), please contact your potential employer, %{accountName}, directly."
@@ -1003,7 +1003,7 @@
     "residentFrom": "Resident from",
     "salary": "Annual salary",
     "schoolCity": "City",
-    "schoolCurrent": "I am currently pursuing this degree",
+    "schoolCurrent": "I am currently a student here",
     "schoolDegree": "Education level",
     "schoolMajor": "Major",
     "schoolMinor": "Minor",
@@ -1151,7 +1151,6 @@
     "identityConfirmation": "Identity Confirmation"
   },
   "validations": {
-    "currentSchoolDisallowed": "This employer only accepts completed degrees.",
     "dateInThePast": "Please choose a past date.",
     "dateFormat": "Please format date correctly. e.g. %{format}.",
     "dateAfter": "Please choose a date after %{dateCompared}.",
@@ -1225,8 +1224,7 @@
       "back": "Back",
       "save": "Save",
       "submit": "Submit",
-      "continue": "Continue",
-      "submitAndContinue": "Submit and Continue"
+      "continue": "Continue"
     },
     "stateLogin": {
       "cannotFindApplication": "We can’t find an application for you in our system. Please check the information you entered to log in. It must match the information used to start your background check application.",
@@ -1331,7 +1329,7 @@
     "identityConfirmation": {
       "title": "Identity Confirmation",
       "almostThere": "Almost there!",
-      "description": "<h2>Almost there!</h2> <p>Local law requires that you confirm your identity in order to start running your background check.</p><br> <p>You can get your completed report faster by doing this online now with our secure, UK-approved vendor, <b>Yoti</b>. Or, you can choose to confirm your identity later in person.  <a href='https://help.checkr.com/hc/en-us/articles/10249601186583' target='_blank'>Learn more</a></p>"
+      "description": "<h2>Almost there!</h2> <p>Local law requires that you confirm your identity in order to start running your background check.</p><br> <p>You can get your completed report faster by doing this online now with our secure, UK-approved vendor, <b>Yoti</b>. Or, you can choose to confirm your identity later in person.  <a href='#' target='_blank'>Learn more</a></p>"
     },
     "footer": {
       "checkrPrivacyPolicyUrl": "https://checkr.com/privacy-policy",
@@ -1368,7 +1366,6 @@
     "candidateAddressStateCantBeBlank": "Candidate address state can't be blank",
     "candidateAddressStreetCantBeBlank": "Candidate address street can't be blank",
     "candidateLastNameMustContainAtLeastNumberAlphaCharacters": "Candidate last name must contain at least {{var}} alpha characters",
-    "candidateMustBeAtLeastYearsOld": "Candidate must be at least {{var}} years old",
-    "idvNotFound": "Identity verification page not found"
+    "candidateMustBeAtLeastYearsOld": "Candidate must be at least {{var}} years old"
   }
 }

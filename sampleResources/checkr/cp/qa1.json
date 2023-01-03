@@ -1,0 +1,1374 @@
+{
+  "address": "à_One Montgomery Street, Suite 2400, San Francisco, CA 94104_海",
+  "loading": "à_Loading..._海",
+  "oops": "à_Oops, something went wrong..._海",
+  "applyFor": "à_Apply for %{accountName}_海",
+  "checkrLogo": "à_Checkr logo_海",
+  "components": {
+    "Addresses": {
+      "Add": "à_Add an address_海"
+    },
+    "ApplicantInformationForm": {
+      "additionalText": "à_Please submit your full legal name_海",
+      "lockedAdditionalText": "à_If a locked field contains an error, please click the \"This isn't correct\" button below._海",
+      "title": "à_Personal information_海"
+    },
+    "ApplyForm": {
+      "sumbitErrors": {
+        "candidateMatchesAProtectProfile": {
+          "title": "à_Oh no! Something is amiss…_海",
+          "message": "à_<p>We were unable to complete your background check with the information that you provided. To proceed, please contact %{accountName}.<p>_海"
+        }
+      }
+    },
+    "ApiStatusBanner": {
+      "singleIncident": "à_System incident: %{incidentName} - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details._海",
+      "multipleIncident": "à_System incident: Checkr is currently experiencing some technical difficulties - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details._海"
+    },
+    "AuthenticateInvitationForm": {
+      "title": "à_Verify Identity_海"
+    },
+    "Article23aDisclosure": {
+      "title": "à_Article 23-A_海",
+      "label": "à_I have read and understand my rights regarding Article 23-A of the NY Corrections Law._海"
+    },
+    "CaliforniaDisclosure": {
+      "title": "à_California Disclosure_海",
+      "label": "à_I acknowledge receipt of the California Disclosure and certify that I have read and understand this document._海"
+    },
+    "CDLISConsent": {
+      "title": "à_CDLIS Consent_海",
+      "label": "à_By checking this box, I hereby authorize %{company} to request or access data pertaining to me within the Commercial Driver License Information System maintained by the American Association of Motor Vehicle Administrators (those data, “CDLIS Data”), to obtain all CDLIS Data relating to me, and to request and obtain my driver record from the jurisdiction identified in the CDLIS Data in accordance with applicable state law and the federal Driver’s Privacy Protection Act. I hereby further authorize the disclosure of my CDLIS Data and driver record to Checkr and %{company}._海"
+    },
+    "CitizenshipInformation": {
+      "title": "à_Citizenship Information_海",
+      "dualCitizenship": "à_Dual citizens: Choose your preferred citizenship_海"
+    },
+    "ConfirmInformation": {
+      "title": "à_Confirm Information_海"
+    },
+    "ConsentForm": {
+      "header": "à_Upload consent document_海",
+      "title": "à_Candidate Consent_海",
+      "text": "à_Proof of the candidate's consent is <strong>required</strong> by many educational institutions and employers in order to release candidate information. The document that you upload will be sent to the school and/or employer to expedite the verification process._海",
+      "footer": "à_Please upload a document showing proof of consent to continue._海"
+    },
+    "ContactInformationForm": {
+      "title": "à_Contact information_海",
+      "mobilePhoneRequest": "à_Checkr will contact you through text and email to complete any additional steps required for your background check._海"
+    },
+    "CreditReportDisclosure": {
+      "title": "à_Credit report disclosure_海",
+      "label": "à_I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document._海"
+    },
+    "CriminalSelfDisclosure": {
+      "title": "à_Self Disclosure Questionnaire_海",
+      "toggleText": "à_Have you ever been convicted of or entered a guilty plea to a crime?_海",
+      "addEntry": "à_Add conviction_海",
+      "header": "à_Please provide details for each misdemeanor or felony for which you answered “Yes”. If you have multiple convictions, please disclose them separately._海",
+      "instructions": {
+        "title": "à_Instructions for answering this question_海",
+        "label": "à_I understand my rights regarding criminal self-disclosure._海"
+      }
+    },
+    "CurrentAddressForm": {
+      "default": "à_Current address_海",
+      "mailing": "à_Mailing address_海"
+    },
+    "Disclosure": {
+      "title": "à_Disclosure_海",
+      "label": "à_I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document._海"
+    },
+    "DotDisclosure": {
+      "text": "à_I hereby authorize release of information from my Department of Transportation regulated drug and alcohol testing records by my previous employer to the employer listed. This release is in accordance with DOT Regulation 49 CFR Part 40, Section 40.25. I understand that information to be released in Section II-A by my previous employer, is limited to the following DOT-regulated testing items:_海",
+      "ordinal_0": "à_Alcohol tests with a result of 0.04 or higher;_海",
+      "ordinal_1": "à_Verified positive drug tests;_海",
+      "ordinal_2": "à_Refusals to be tested;_海",
+      "ordinal_3": "à_Other violations of DOT agency drug and alcohol testing regulations;_海",
+      "ordinal_4": "à_Information obtained from previous employers of a drug and alcohol rule violation;_海",
+      "ordinal_5": "à_Documentation, if any, of completion of the return-to-duty process following a rule violation._海"
+    },
+    "DriverLicenseForm": {
+      "title": "à_Driver license_海"
+    },
+    "EducationInformationForm": {
+      "title": "à_Highest completed education_海",
+      "instructions": "à_Please fill out information for the highest level degree or certification you have earned._海",
+      "noSchoolWarning": "à_To reduce delays in processing, please select a known school directly from our list if possible._海"
+    },
+    "ExpungementConsent": {
+      "title": "à_Authorization_海",
+      "label": "à_I authorize Checkr to conduct a background check on me for the purpose of identifying records that may qualify for expungement. I understand that this is not a consumer report as defined by the FCRA and is not to be used for any other purpose.<br/><br/>By clicking \"Submit\", I agree to Checkr’s <a href=\"https://checkr.com/privacy-policy\" target=\"_blank\">Privacy Policy</a> and <a href=\"https://checkr.com/terms-of-service\" target=\"_blank\">Terms of Service</a>._海"
+    },
+    "ExpungementHeader": {
+      "title": "à_Expungements_海"
+    },
+    "ExtendedEducationInformationForm": {
+      "title": "à_Education History_海",
+      "withVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "à_Have you studied anywhere else in the United States within the last year?_海",
+          "withOtherDefinedLookback": "à_Have you studied anywhere else in the United States within the last %{lookback} years?_海",
+          "withoutDefinedLookback": "à_Have you studied anywhere else in the United States?_海"
+        },
+        "context": "à_Please provide any additional education history. The information you provide will be used for the purpose of running a background check._海"
+      },
+      "withoutVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "à_Have you studied in the United States within the last year?_海",
+          "withOtherDefinedLookback": "à_Have you studied in the United States within the last %{lookback} years?_海",
+          "withoutDefinedLookback": "à_Have you studied in the United States?_海"
+        },
+        "context": "à_Please provide any education history. The information you provide will be used for the purpose of running a background check._海"
+      },
+      "currentPlacement": "à_Current student_海",
+      "entity": "à_School/University_海",
+      "addEntry": "à_Add school or university_海"
+    },
+    "ExtendedEmploymentHistoryForm": {
+      "title": "à_Employment History_海",
+      "withVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "à_Have you been employed anywhere else in the United States within the last year?_海",
+          "withOtherDefinedLookback": "à_Have you been employed anywhere else in the United States within the last %{lookback} years?_海",
+          "withoutDefinedLookback": "à_Have you been employed anywhere else in the United States?_海"
+        },
+        "context": "à_Please provide any additional employment history. The information you provide will be used for the purpose of running a background check. _海"
+      },
+      "withoutVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "à_Have you been employed in the United States within the last year?_海",
+          "withOtherDefinedLookback": "à_Have you been employed in the United States within the last %{lookback} years?_海",
+          "withoutDefinedLookback": "à_Have you been employed in the United States of America?_海"
+        },
+        "context": "à_Please provide any employment history. The information you provide will be used for the purpose of running a background check._海"
+      },
+      "currentPlacement": "à_Current employee_海",
+      "entity": "à_Employer_海",
+      "addEntry": "à_Add employer_海"
+    },
+    "Employer": {
+      "position": "à_Position_海",
+      "isInUS": "à_Is this employer located inside the United States of America?_海",
+      "contactInstructions": "à_Please provide the following contact information to verify your employment._海",
+      "ordinal_0": "à_Most recent employer_海",
+      "ordinal_1": "à_Second employer_海",
+      "ordinal_2": "à_Third employer_海",
+      "ordinal_3": "à_Fourth employer_海",
+      "ordinal_4": "à_Fifth employer_海",
+      "ordinal_5": "à_Sixth employer_海",
+      "ordinal_6": "à_Seventh employer_海",
+      "ordinal_7": "à_Eighth employer_海",
+      "ordinal_8": "à_Ninth employer_海",
+      "ordinal_9": "à_Tenth employer_海",
+      "endDateOutOfRange": "à_This employer falls outside of the requested %{lookbackYears} year history period. Please edit the date fields, or the employer will not be included as part of your employment verification._海"
+    },
+    "Employers": {
+      "Add": "à_Add another employer_海",
+      "Add_1": "à_Add second employer_海",
+      "Add_2": "à_Add third employer_海",
+      "Add_3": "à_Add fourth employer_海",
+      "Add_4": "à_Add fifth employer_海",
+      "Add_5": "à_Add sixth employer_海",
+      "Add_6": "à_Add seventh employer_海",
+      "Add_7": "à_Add eighth employer_海",
+      "Add_8": "à_Add ninth employer_海",
+      "Add_9": "à_Add tenth employer_海"
+    },
+    "EmploymentForm": {
+      "title": "à_Employment history_海",
+      "instructions": {
+        "oneYear": {
+          "allEmployers": "à_Provide details for positions from your last year of employment._海",
+          "oneEmployer": "à_Provide details for 1 position from your last year of employment._海",
+          "manyEmployers": "à_Provide details for up to %{maximumAllowedEmployers} positions from your last year of employment._海"
+        },
+        "manyYears": {
+          "allEmployers": "à_Provide details for positions from your last %{lookbackYears} years of employment._海",
+          "oneEmployer": "à_Provide details for 1 position from your last %{lookbackYears} years of employment._海",
+          "manyEmployers": "à_Provide details for up to %{maximumAllowedEmployers} positions from your last %{lookbackYears} years of employment._海"
+        }
+      },
+      "employerRequired": "à_%{accountName} requires you to provide employment history within the last %{lookbackYears} year(s) in order to continue. If you do not have any employment history within the last %{lookbackYears} year(s), please contact your potential employer, %{accountName}, directly._海"
+    },
+    "EmploymentGap": {
+      "gap": "à_Gap_海",
+      "ordinal_0": "à_Most recent employment gap_海",
+      "ordinal_1": "à_Second employment gap_海",
+      "ordinal_2": "à_Third employment gap_海",
+      "ordinal_3": "à_Fourth employment gap_海",
+      "ordinal_4": "à_Fifth employment gap_海",
+      "ordinal_5": "à_Sixth employment gap_海",
+      "ordinal_6": "à_Seventh employment gap_海",
+      "ordinal_7": "à_Eighth employment gap_海",
+      "ordinal_8": "à_Ninth employment gap_海",
+      "ordinal_9": "à_Tenth employment gap_海",
+      "Add": "à_Add another employment gap_海",
+      "Add_0": "à_Add an employment gap_海",
+      "Add_1": "à_Add second employment gap_海",
+      "Add_2": "à_Add third employment gap_海",
+      "Add_3": "à_Add fourth employment gap_海",
+      "Add_4": "à_Add fifth employment gap_海",
+      "Add_5": "à_Add sixth employment gap_海",
+      "Add_6": "à_Add seventh employment gap_海",
+      "Add_7": "à_Add eighth employment gap_海",
+      "Add_8": "à_Add ninth employment gap_海",
+      "Add_9": "à_Add tenth employment gap_海"
+    },
+    "ErrorPage": {
+      "title": "à_Oops, something went wrong..._海"
+    },
+    "FairChanceDisclosure": {
+      "title": "à_Fair Chance Ordinance Notice_海",
+      "label": "à_I have read and understand my rights regarding Fair Chance Ordinance Notice._海"
+    },
+    "FCRA": {
+      "title": "à_Summary of Your Rights_海",
+      "label": "à_I acknowledge receipt of the Summary of Your Rights Under the Fair Credit Reporting Act (FCRA) and certify that I have read and understand this document._海"
+    },
+    "footer": {
+      "faq": "à_FAQs_海",
+      "tel": "à_(844) 824 3257_海",
+      "privacyPolicy": "à_Privacy Policy_海",
+      "termsOfService": "à_Terms of Service_海",
+      "address": "à_One Montgomery Street, Suite 2400, San Francisco, CA 94104_海"
+    },
+    "Health": {
+      "instructions": {
+        "header": "à_Occupational Health Screenings_海",
+        "body": "à_The company you are applying to requires you to provide the following Health Checks. You may either upload proof of completion for these tests, or schedule them._海"
+      },
+      "exams": {
+        "header": "à_Health Screening Information_海",
+        "options": {
+          "uploadProof": "à_Required to upload proof_海"
+        }
+      },
+      "noExamSelected": "à_Tests/exams have not been selected, please select exams to continue._海"
+    },
+    "HealthScreenConsent": {
+      "title": "à_Health Screening Authorization_海",
+      "label": "à_I hereby authorize Checkr and its vendors to release to %{company} its designated agents, including Medical Review Officers, the results of the laboratory tests to which I have consented to for the purpose of determining the presence of drugs and/or alcohol in my body in connection with my application for employment. I understand and agree that %{company} will review the results of these tests in connection with making a decision concerning my potential employment. This authorization shall become effective immediately and remain in effect for one year. I understand that I have the right to receive a copy of this authorization upon request._海"
+    },
+    "Hello": {
+      "welcome": "à_Welcome to Checkr_海",
+      "message1": "à_If you would like to join our team, please go to_海",
+      "message2": "à_to check out our job opportunities._海",
+      "message3": "à_If you're applying to work for another company, please contact them for the link to start your background check._海"
+    },
+    "HipaaPrivacyConsent": {
+      "title": "à_Authorization for use & disclosure of your health information_海",
+      "label": "à_I voluntarily consent to and authorize the use and disclosure of the information provided here to %{companyName}. I certify that the information is correct, and understand that it may be used as part of my evaluation by %{companyName}. I understand that this information may be redisclosed to third parties._海"
+    },
+    "InlineConsent": {
+      "title": "à_Authorization_海",
+      "label": "à_By checking this box, I confirm that I authorize Checkr to obtain my driving record._海"
+    },
+    "InternationalAuthorizationForm": {
+      "title": "à_International Authorization_海",
+      "label": "à_Please confirm you have read and agree to the above document._海"
+    },
+    "InternationalAddressHistoryForm": {
+      "title": "à_Address History Outside of the United States_海",
+      "instructions": "à_Please provide your address history <strong>outside of the United States</strong> for the past 5 years_海"
+    },
+    "InternationalLocationBoolean": {
+      "title": "à_Location_海",
+      "label": "à_Have you lived outside of the United States in the past 5 years?_海"
+    },
+    "InvestigativeDisclosure": {
+      "title": "à_Investigative Disclosure_海",
+      "label": "à_I acknowledge receipt of the Investigative Disclosure Regarding Background Investigation and certify that I have read and understand this document._海"
+    },
+    "MailingAddressInfo": {
+      "title": "à_Enter Your Address_海",
+      "bloodDrawServiceCopy": "à_New regulations from state health departments and the CDC require a street address for people undergoing certain blood-based services. This address is used only to track communicable disease outbreaks, if applicable._海",
+      "nonElectronicLocationCopy": "à_Based on the location you have chosen we will mail you the required paperwork for completing your screening. If you prefer to complete your screening faster, choose an alternate location._海"
+    },
+    "ManualOrderConsent": {
+      "title": "à_Authorization_海",
+      "label": "à_By checking this box, I certify that: (1) this request for a background check report is made in connection with an employment purpose and no other purpose; (2) I have provided the consumer with disclosures relating to the background check, and obtained the consumer’s written authorization to obtain the report and to dispatch notices electronically, including SMS messages where applicable; (3) The disclosure and authorization forms have been reviewed by my company and legal counsel and satisfy all Fair Credit Reporting Act and other legal requirements, including a clear and conspicuous disclosure in a document that consists solely of the disclosure; (4) I understand my obligations, have complied with, and will comply with all applicable laws pertaining to Consumer Reports/Investigative Consumer Reports as defined in the Fair Credit Reporting Act as amended; (5) the report will not be used in violation of any applicable federal or state equal employment opportunity law or regulation, and its use will comply with all applicable laws; and (6) have received appropriate authorization for the transfer of the individual’s personal and criminal information outside the EU where applicable._海"
+    },
+    "ManualOrderCandidateCopy": {
+      "title": "à_Candidate copy_海",
+      "label": "à_Send background report to candidate once completed._海"
+    },
+    "LocalDisclosure": {
+      "title": "à_Credit Disclosure_海",
+      "label": "à_I acknowledge receipt of the Notice Regarding Credit Checks Per %{location} Law and certify that I have read and understand this document._海"
+    },
+    "PassportForm": {
+      "title": "à_Passport_海",
+      "alert": "à_Please provide a copy of your <strong>passport</strong>._海"
+    },
+    "PaymentForm": {
+      "title": "à_Payment_海",
+      "label": "à_<strong>By checking this box, I authorize payment in the amount of $%{price} to be made to Checkr, Inc. I acknowledge that once a background check has been initiated, no refunds will be available.</strong>_海"
+    },
+    "PersonalReferenceForm": {
+      "title": "à_Personal reference_海"
+    },
+    "ProLicenseVerificationForm": {
+      "certification": "à_%{ordinal} Certification_海",
+      "add": "à_Add another license_海",
+      "title": "à_Professional License Verification_海",
+      "titleSuffix": "à_Licensing_海",
+      "noCertifications": "à_<strong>No professional licensing information.</strong> By checking this, you certify that you have no professional license to verify._海",
+      "consent": "à_I consent to Checkr reviewing my licensing information and contacting the certifying organization to verify my professional license._海",
+      "certifyingOrganization": "à_Certifying Organization_海",
+      "certifyingOrganizationTooltip": "à_Select the certifying organization (or issuing body) that most closely matches what appears on your license._海",
+      "certifyingOrganizationWebsite": "à_Certifying Organization Website_海",
+      "licenseNumber": "à_License Number_海",
+      "additionalText": "à_Additional Text (Optional)_海",
+      "candidateUploadInfo": "à_Upload a PDF copy of your license, or a screenshot of the license from the certifying organization's website. Documents must include your name and will be used only for verification purposes._海",
+      "candidateUploadTitle": "à_Upload your license (required)_海",
+      "candidateUploadVerify": "à_Please note the company you applied for may view any documents you submit._海",
+      "profession": "à_Profession or field of work_海",
+      "professionPlaceholder": "à_e.g. Nursing, Contracting, Real Estate..._海"
+    },
+    "ProfessionalReferenceForm": {
+      "title": "à_Professional reference_海"
+    },
+    "ReferenceForm": {
+      "alert": "à_Please fill the following form with the information about the person you want to serve as references._海"
+    },
+    "Signature": {
+      "title": "à_Electronic signature_海",
+      "header": "à_By typing my name below, I consent to a background check and indicate my agreement to all of the above.<br/>By typing my name below, I also agree that all communications, agreements, notices, documents and disclosures relating to my background check will be sent electronically. I understand that my electronic signature is as valid as a handwritten signature._海"
+    },
+    "BGCMinorConsentSignature": {
+      "header": "à_Candidate: Please enter your name below_海",
+      "guardianHeader": "à_Parent/Guardian: By typing your name below, you consent to the background checks for the aforementioned candidate of which you are the legal guardian of, and indicate your agreement to all of the above._海",
+      "guardianAcknowledgement": "à_I acknowledge under legal authority that I am the legal guardian of the candidate._海"
+    },
+    "ScheduleComponent": {
+      "covidPanel": {
+        "title": "à_COVID-19 Notice_海",
+        "body": "à_Please call the clinic you select to confirm that they are available for testing, and to determine if they require any specific social distancing measures for your visit. Some might be closed temporarily, restricting services to prioritize COVID-19 testing, or requiring their clients to wear masks or other protective gear._海"
+      },
+      "screeningNames": {
+        "drugScreening": "à_Drug screening_海",
+        "occupationalHealthScreening": "à_Occupational health screening_海"
+      },
+      "greeting": "à_Hi %{name}_海",
+      "loading": "à_Loading the scheduling page._海",
+      "instructions": {
+        "part1": "à_<strong>%{company}</strong> requires that you complete %{exams} before starting work._海",
+        "part2": "à_Please choose a location below. If you have not completed the screening by <strong>%{date}</strong> your job application will be suspended._海"
+      },
+      "locations": {
+        "title": "à_Select a Location_海",
+        "details": "à_Select a convenient location to complete your screening.  No appointment necessary._海",
+        "currentLocation": "à_Use current location_海",
+        "help": "à_Need help finding a location? Call %{supportPhone}_海"
+      },
+      "confirm": {
+        "preConfirm": {
+          "title": "à_Confirm your selected location_海",
+          "details": "à_Here is the location you selected.  You may make changes by clicking \"Previous\"._海"
+        },
+        "postConfirm": {
+          "title": "à_Confirmation_海",
+          "details": "à_Please check your email / text messages for a confirmation. This includes a screening pass that you must print and bring to the site along with your photo ID._海"
+        }
+      },
+      "locationUpdate": {
+        "title": "à_Thank you!_海",
+        "details": "à_Location has been successfully updated. You can view the status of your background <a href=\"https://candidate.checkr.com/\">here</a>._海"
+      },
+      "noLocationsFound": {
+        "title": "à_No locations found for that zip code_海",
+        "details": "à_Please try a different zip code nearby. If no nearby zip codes are showing locations, <a href=\"https://checkrapplicant.zendesk.com/hc/en-us/requests/new\">contact support.</a>_海"
+      },
+      "noConnectivity": "à_We are having a hard time reaching our clinic provider at this time. You may continue without selecting a clinic and we will follow up with further instructions. Or you can try searching again later._海",
+      "electronic": {
+        "tag": "à_Get results faster_海"
+      },
+      "nonElectronic": {
+        "tag": "à_Paperwork will be mailed to you_海",
+        "confirmation": {
+          "title": "à_Are you sure?_海",
+          "body": "à_We will need to mail the paperwork to you, which takes <strong>5-7 days</strong>. You will not be able to take your screening before you receive the paperwork.<br/><br/>If  you can make it to an electronic location, you can take the screening immediately._海"
+        }
+      },
+      "infoPanel": {
+        "healthScreeningTitle": "à_Health screening information_海",
+        "screeningLocation": "à_Screening location_海",
+        "businessHours": "à_Business hours_海",
+        "passExpiration": "à_Pass expiration_海",
+        "status": "à_Status_海"
+      },
+      "commonQuestions": {
+        "title": "à_Common Questions_海",
+        "q1": "à_How long do I have to complete my screening?_海",
+        "a1": "à_You have until the close of business on <strong>%{date}</strong>. The sooner you take care of it, the sooner you’ll be able to start working._海",
+        "q2": "à_What if I can’t make it to this location?_海",
+        "a2": "à_You can use your screening pass at any location that’s able to perform your required tests. Call <strong>%{supportPhone}, press 5, then 1, then 2</strong> to reach the appropriate extension for help finding a different location. Be ready to provide the ID number starting with \"AI\" on your screening pass PDF._海",
+        "q3": "à_What should I expect during my visit?_海",
+        "a3": "à_Our <a href=\"https://checkrapplicant.zendesk.com/hc/en-us\" target=\"_blank\">Drug Screening Guide</a> and <a href=\"https://checkrapplicant.zendesk.com/hc/en-us\" target=\"_blank\">Occupational Health Screening Guide</a> have more information about what to expect for each type of screening._海"
+      }
+    },
+    "StandardConsent": {
+      "title": "à_Authorization_海",
+      "label": "à_Please check this box if you would like to receive a copy of a consumer report._海"
+    },
+    "StandardConsentLong": {
+      "title": "à_Additional Acknowledgements & Authorizations_海",
+      "label": "à_Please check this box if you would like to receive a copy of a consumer report._海"
+    },
+    "TestBanner": {
+      "text": "à_<strong>This package is for testing purposes </strong> — No background check will be run when submitted._海"
+    },
+    "TypeAheadInput": {
+      "didyoumean": "à_Did you mean_海"
+    },
+    "upload": {
+      "desktopButtonText": "à_Click to Upload_海",
+      "mobileButtonText": "à_Upload or Take a Photo_海",
+      "document": "à_%{count} documents uploaded (up to %{maxFiles})_海",
+      "document_1": "à_%{count} document uploaded (up to %{maxFiles})_海",
+      "successText": "à_Uploaded!_海",
+      "clickToSelectFiles": "à_Click to Select Files to Upload_海",
+      "tapToSelectFiles": "à_Tap to Select Files or Take a Photo_海",
+      "selectFilesToUpload": "à_Select Files to Upload_海",
+      "dragAndDrop": "à_or Drag and Drop, Copy and Paste Files_海",
+      "selectedFiles": "à_Selected Files_海",
+      "upload": "à_Upload_海",
+      "images": "à_Images_海",
+      "deselectAll": "à_Deselect All_海",
+      "filter": "à_Filter_海",
+      "files": "à_Files_海",
+      "uploadMore": "à_Upload more_海",
+      "viewEditSelected": "à_View/Edit Selected_海",
+      "uploading": "à_Uploading_海",
+      "uploaded": "à_Uploaded_海",
+      "completed": "à_Completed_海",
+      "fileError": "à_File {displayName} is not an accepted file type. The accepted file types are {types}_海",
+      "fileTooBig": "à_File {displayName} is too big. The accepted file size is less than {roundFileSize}_海",
+      "searchImages": "à_Search images_海",
+      "selectFrom": "à_Select From_海",
+      "moreFile": "à_more file_海",
+      "moreFiles": "à_more files_海",
+      "thisFolderIsEmpty": "à_This folder is empty._海",
+      "thisImageCannotBeEdited": "à_This image cannot be edited_海",
+      "ourFileUploadLimit": "à_Our file upload limit is {maxFiles} {filesText}_海",
+      "noSearchResults": "à_No search results found for {search}_海",
+      "next": "à_Next_海",
+      "dropYourFilesAnywhere": "à_Drop your files anywhere_海",
+      "done": "à_Done_海",
+      "failedWhileUploading": "à_Failed While Uploading_海",
+      "add": "à_Add_海",
+      "AnErrorOccurred": "à_An error occurred. Please try again._海",
+      "reset": "à_Reset_海",
+      "goBack": "à_Go back_海"
+    },
+    "WashingtonMvrDisclosure": {
+      "title": "à_Washington Disclosure_海",
+      "label": "à_I acknowledge receipt of the Washington Disclosure and certify that I have read and understand this document._海"
+    },
+    "VideoNotice": {
+      "text": "à_Curious about what happens next? Watch the video below for more info on the process._海"
+    }
+  },
+  "international": {
+    "InternationalConsent": {
+      "title": "à_Authorization_海",
+      "label": "à_<b>I authorize Checkr and its designated representatives to obtain my personal and criminal information and transfer it outside of the EU.</b>_海"
+    },
+    "InternationalInformationForm": {
+      "title": "à_International information_海"
+    },
+    "internationalConsentForm": {
+      "description": "à_We will send you a copy of your completed background check._海"
+    },
+    "headerText": {
+      "information": "à_In order to complete your background check internationally, we are required to collect information pertaining to the countries you have lived in. Please review the information below and make sure you are able to fill out all fields completely._海",
+      "education": "à_As part of your background check, Checkr needs to verify your education. The information you provide will be used in the verification process. Please enter the most accurate information possible. Inaccuracies can lead to longer turnaround time and potentially delaying you from starting your new position._海",
+      "employment": "à_As part of your background check, Checkr needs to verify your employment history. The information you provide will be used in the verification process. Please enter the most accurate information possible. Inaccuracies can lead to longer turnaround time, and may delay you from starting your new position._海",
+      "identity_document_validation": "à_To complete your background check, we're required to verify your identity document. Please use the ID type menu to select your document's type. Passports provide the quickest turnaround time, and are therefore recommended._海",
+      "motor_vehicle_report": "à_To complete your background check, we’re required to verify your driver information. Please use the issuing province menu to provide your license details. Driver’s license must be valid and unexpired._海"
+    },
+    "uploadText": {
+      "education": {
+        "header": "à_Verify education by document:_海",
+        "body": "à_Accepted documents include copy of the degree or a transcript/statement of marks. Documents must reflect the education institution name and will only be used for verification purposes._海"
+      },
+      "employment": {
+        "header": "à_Verify employment by document:_海",
+        "body": "à_Accepted documents include country specific tax documents or paystubs. Documents must reflect the employer name and will only be used for verification purposes._海"
+      }
+    },
+    "steps": {
+      "internationalConsentForm": "à_Authorization_海"
+    },
+    "index": {
+      "0": "à_First_海",
+      "1": "à_Second_海",
+      "2": "à_Third_海",
+      "3": "à_Fourth_海",
+      "4": "à_Fifth_海",
+      "5": "à_Sixth_海",
+      "6": "à_Seventh_海",
+      "7": "à_Eighth_海",
+      "8": "à_Ninth_海",
+      "9": "à_Tenth_海"
+    },
+    "labels": {
+      "indexedCompany": "à_{{var}} Company_海",
+      "schoolState": "à_State or Province_海",
+      "schoolName": "à_School or university name_海",
+      "employerName": "à_Company name_海",
+      "addressState": "à_State or Province_海",
+      "citizenship": "à_Country of citizenship_海",
+      "countryCode": "à_Country of residence_海",
+      "dob": "à_Date of birth ({{var}})_海",
+      "internationalConsentForm": "à_International consent form_海",
+      "startDate": "à_From:_海",
+      "endDate": "à_To:_海",
+      "idType": "à_ID type_海",
+      "idNumber": "à_ID number_海",
+      "idDocumentCountry": "à_Country of issue_海",
+      "idDocumentNumber": "à_ID number_海",
+      "idDocumentType": "à_ID type_海",
+      "state": "à_State/Province/Area_海",
+      "zipcode": "à_Postal Code_海",
+      "street": "à_Street number and name_海",
+      "position": "à_Most recent position held_海",
+      "governmentId": "à_Government ID_海",
+      "nationalId": "à_National ID_海",
+      "taxpayerId": "à_Taxpayer ID_海",
+      "photoId": "à_Photo ID_海",
+      "curpCard": "à_Curp card_海",
+      "passport": "à_Passport_海",
+      "canadaViolationDate": "à_Date of Sentence ({{var}})_海",
+      "driversLicense": "à_Driver's License_海",
+      "driverLicense": "à_Driver License_海",
+      "cityOfBirth": "à_City of birth_海",
+      "countryOfBirth": "à_Country of birth_海",
+      "phoneNumber": "à_Phone number_海",
+      "female": "à_Female_海",
+      "male": "à_Male_海",
+      "other": "à_Other_海",
+      "preferNotToSay": "à_Prefer not to say_海",
+      "number": "à_Number_海",
+      "indexedNumber": "à_{{var}} Number_海",
+      "nationalGovernmentID": "à_National or government ID_海",
+      "visa": "à_Visa_海",
+      "dateOfEntry": "à_Date of Entry ({{var}})_海",
+      "scopedRequirements": {
+        "CA": {
+          "dateOfEntry": "à_Date of Entry (Required if Country of Birth is not Canada)_海",
+          "violations": "à_Conviction_海",
+          "aliases": "à_Previous name_海"
+        }
+      },
+      "birthCertificate": "à_Birth Certificate_海",
+      "applicantLetter": "à_Applicant letter_海",
+      "notarizedId": "à_Notarized id_海",
+      "localizedFirstName": "à_Localized first name_海",
+      "localizedLastName": "à_Localized last name_海",
+      "isCitizen": "à_Is citizen_海",
+      "grandfatherFirstName": "à_Grandfather first name_海",
+      "maritalStatus": "à_Marital status_海",
+      "inCountryConsentForm": "à_In country consent form_海",
+      "outOfCountryConsentForm": "à_Out of country consent form_海",
+      "internationalConsentForm2": "à_International consent form2_海",
+      "dbsEmploymentSector": "à_Employment sector_海",
+      "title": "à_Title_海",
+      "positionAppliedFor": "à_Position applied for_海",
+      "nationalInsuranceNumber": "à_National insurance number_海",
+      "passportExpirationDate": "à_Passport expiration date_海",
+      "passportIssueDate": "à_Passport issue date_海",
+      "driverLicenseIssuingCountry": "à_Driver license issuing country_海",
+      "driversLicenseNumber": "à_Drivers license number_海",
+      "driversLicenseIssueDate": "à_Drivers license issue date_海",
+      "driversLicenseType": "à_Drivers license type_海",
+      "nationality": "à_Nationality_海",
+      "birthCertificateCountry": "à_Birth certificate country_海",
+      "birthCertificateNumber": "à_Birth certificate number_海",
+      "passportNumber": "à_Passport number_海",
+      "jurisdictionSpecificIdentifier": "à_Jurisdiction specific identifier_海",
+      "nationalIdNumber": "à_National ID Number_海",
+      "payslipDate": "à_Payslip date_海"
+    },
+    "placeholders": {
+      "schoolName": "à_School or university name_海",
+      "employerName": "à_Company name_海",
+      "dob": "à_DD/MM/YYYY_海",
+      "startDate": "à_MM/YYYY_海",
+      "endDate": "à_MM/YYYY_海",
+      "idType": "à_ID type_海",
+      "idNumber": "à_ID number_海",
+      "idDocumentType": "à_Passport_海",
+      "idDocumentNumber": "à_ID number_海",
+      "state": "à_State/Province/Area_海",
+      "zipcode": "à_Postal Code_海",
+      "canadaViolationDate": "à_DD/MM/YYYY_海",
+      "dateOfEntry": "à_DD/MM/YYYY_海",
+      "street": "à_Street number and name_海",
+      "firstName": "à_Enter first name_海",
+      "middleName": "à_Enter middle name_海",
+      "lastName": "à_Enter last name_海",
+      "degree": "à_Enter degree_海",
+      "salary": "à_Annual salary_海",
+      "minor": "à_Minor_海",
+      "major": "à_Major_海",
+      "managerPhone": "à_Enter contact phone_海",
+      "url": "à_URL_海",
+      "address": "à_Enter address_海",
+      "yearAwared": "à_Year awarded_海",
+      "nameOnDiploma": "à_Name on diploma_海",
+      "country": "à_Country..._海",
+      "cityOfBirth": "à_City of birth_海",
+      "number": "à_Enter number_海",
+      "managerName": "à_Enter contact name_海",
+      "managerTitle": "à_Enter contact title_海",
+      "managerEmail": "à_Enter contact email_海",
+      "position": "à_Position held_海",
+      "phoneNumber": "à_Phone number_海",
+      "yearAwarded": "à_Year Awarded_海",
+      "motherMaidenName": "à_Mother's maiden name_海",
+      "motherFirstName": "à_Mother's first name_海",
+      "fatherLastName": "à_Father's last name_海",
+      "fatherFirstName": "à_Father's first name_海",
+      "sex": "à_Sex_海",
+      "previousName": "à_Previous Name_海",
+      "offence": "à_Offence_海",
+      "courtLocation": "à_Court Location_海",
+      "taxpayerId": "à_Taxpayer ID_海",
+      "localizedFirstName": "à_Localized first name_海",
+      "localizedLastName": "à_Localized last name_海",
+      "grandfatherFirstName": "à_Grandfather first name_海",
+      "maritalStatus": "à_Marital status_海",
+      "dbsEmploymentSector": "à_Employment sector_海",
+      "title": "à_Title_海",
+      "positionAppliedFor": "à_Position applied for_海",
+      "nationalInsuranceNumber": "à_National insurance number_海",
+      "passportExpirationDate": "à_Passport expiration date_海",
+      "passportIssueDate": "à_Passport issue date_海",
+      "driverLicenseIssuingCountry": "à_Driver license issuing country_海",
+      "driversLicenseNumber": "à_Drivers license number_海",
+      "driversLicenseIssueDate": "à_Drivers license issue date_海",
+      "driversLicenseType": "à_Drivers license type_海",
+      "nationality": "à_Nationality_海",
+      "birthCertificateCountry": "à_Birth certificate country_海",
+      "birthCertificateNumber": "à_Birth certificate number_海",
+      "passportNumber": "à_Passport number_海",
+      "jurisdictionSpecificIdentifier": "à_Jurisdiction specific identifier_海",
+      "nationalIdNumber": "à_National ID Number_海",
+      "payslipDate": "à_Payslip date_海"
+    },
+    "dropdownLabel": {
+      "identityDocuments": {
+        "adoptionCertificate": "à_Adoption Certificate_海",
+        "bankOpeningLetter": "à_Bank Opening Letter_海",
+        "bankStatementNonEea": "à_Bank Statement Non Eea_海",
+        "benefitStatement": "à_Benefit Statement_海",
+        "biometricResidencePermit": "à_Biometric Residence Permit_海",
+        "birthCertificate": "à_Birth Certificate_海",
+        "birthCertificateAfterBirth": "à_Birth Certificate After Birth_海",
+        "birthCertificateAtBirth": "à_Birth Certificate At Birth_海",
+        "buildingSocietyOpeningLetter": "à_Building Society Opening Letter_海",
+        "buildingSocietyStatementNonEea": "à_Building Society Statement Non Eea_海",
+        "buildingSocietyStatementUkOrEea": "à_Building Society Statement Uk Or Eea_海",
+        "centralGovernmentDocument": "à_Central Government Document_海",
+        "councilTaxStatement": "à_Council Tax Statement_海",
+        "creditCardStatement": "à_Credit Card Statement_海",
+        "currentDrivingLicence": "à_Current Driving Licence_海",
+        "currentDrivingLicenceNonUk": "à_Current Driving Licence Non Uk_海",
+        "currentDrivingLicenceOldStyle": "à_Current Driving Licence Old Style_海",
+        "currentValidPassport": "à_Current Valid Passport_海",
+        "drivingLicence": "à_Driving Licence_海",
+        "eeaidCard": "à_EEAID Card_海",
+        "euNationalIdCard": "à_EU National ID Card_海",
+        "employeeIdCard": "à_Employee ID Card_海",
+        "financialStatement": "à_Financial Statement_海",
+        "fireArmsLicence": "à_Fire Arms Licence_海",
+        "hmForcesIdCard": "à_HM Forces ID Card_海",
+        "immigrationDocument": "à_Immigration Document_海",
+        "immigrationDocumentVisaWorkPermit": "à_Immigration Document Visa Work Permit_海",
+        "irishPassportCard": "à_Irish Passport Card_海",
+        "letterFromHeadTeacher": "à_Letter From Head Teacher_海",
+        "letterOfSponsorship": "à_Letter Of Sponsorship_海",
+        "localGovernmentDocument": "à_Local Government Document_海",
+        "marriageCivilPartnershipCertificate": "à_Marriage Civil Partnership Certificate_海",
+        "marriageDocument": "à_Marriage Document_海",
+        "mortgageStatement": "à_Mortgage Statement_海",
+        "nusCard": "à_NUS Card_海",
+        "officeTravelDoc": "à_Office Travel Doc_海",
+        "p45Statement": "à_P45 Statement_海",
+        "p60Statement": "à_P60 Statement_海",
+        "passCard": "à_PASS Card_海",
+        "passport": "à_Passport_海",
+        "ukAdoptionCertificate": "à_UK Adoption Certificate_海",
+        "ukGovDepartCard": "à_UK Gov Depart Card_海",
+        "ukVisa": "à_UK Visa_海",
+        "utilityBill": "à_Utility Bill_海",
+        "applicationregistrationCard": "à_Application Registration Card_海",
+        "bankStatementUkOrEea": "à_Bank Statement Uk Or Eea_海",
+        "brpWithIndefiniteorcurrentLeave": "à_BRP With Indefinite Or Current Leave_海",
+        "certificateofapplication": "à_Certificate Of Application_海",
+        "immigrationStatusDocument": "à_Immigration Status Document_海",
+        "immigrationStatusDocumentIndefiniteStay": "à_Immigration Status Document Indefinite Stay_海",
+        "passportWithIndefiniteorcurrentLeave": "à_Passport With Indefinite Or Current Leave_海",
+        "permanentResidenceCard": "à_Permanent Residence Card_海"
+      },
+      "residentialAddressDocuments": {
+        "electricity": "à_Electricity_海",
+        "gas": "à_Gas_海",
+        "water": "à_Water_海",
+        "telephone": "à_Telephone_海",
+        "mobilePhone": "à_Mobile Phone_海",
+        "tvLicence": "à_TV Licence_海",
+        "bank": "à_Bank_海",
+        "buildingSociety": "à_Building Society_海",
+        "creditCard": "à_Credit Card_海",
+        "storeCard": "à_Store Card_海",
+        "pension": "à_Pension_海",
+        "isa": "à_ISA_海",
+        "endowment": "à_Endowment_海",
+        "mortgage": "à_Mortgage_海",
+        "invoices": "à_Invoices_海",
+        "councilTax": "à_Council Tax_海",
+        "ukba": "à_UKBA_海",
+        "hmrc": "à_HMRC_海",
+        "bobCentrePlus": "à_Job Centre Plus_海",
+        "otherCentralGovernment": "à_Other Central Government_海",
+        "otherLocalGovernment": "à_Other Local Government_海",
+        "nhs": "à_NHS_海",
+        "tenancyAgreement": "à_Tenancy Agreement_海",
+        "drivingLicence": "à_Driving Licence_海",
+        "ukCounterpartDrivingLicence": "à_UK Counterpart Driving Licence_海",
+        "ukmotTaxDiskReminder": "à_UKMOT TaxDisk Reminder_海",
+        "ukv5C": "à_UKV5C_海",
+        "payslip": "à_Payslip_海",
+        "ukp45OrP60": "à_UKP45OrP60_海",
+        "insuranceDocs": "à_Insurance Docs_海",
+        "jobCentrePlus": "à_Job Centre Plus_海"
+      },
+      "licenseTypes": {
+        "unknown": "à_Unknown_海",
+        "paper": "à_Paper_海",
+        "photo": "à_Photo_海"
+      },
+      "title": {
+        "baron": "à_Baron_海",
+        "baroness": "à_Baroness_海",
+        "brigadier": "à_Brigadier_海",
+        "canon": "à_Canon_海",
+        "captain": "à_Captain_海",
+        "dr": "à_Dr_海",
+        "duchess": "à_Duchess_海",
+        "duke": "à_Duke_海",
+        "esq": "à_Esq_海",
+        "father": "à_Father_海",
+        "hon": "à_Hon_海",
+        "inspector": "à_Inspector_海",
+        "lady": "à_Lady_海",
+        "lord": "à_Lord_海",
+        "ltCol": "à_Lt Col_海",
+        "major": "à_Major_海",
+        "miss": "à_Miss_海",
+        "mostRever": "à_Most Rever_海",
+        "mr": "à_Mr_海",
+        "mrs": "à_Mrs_海",
+        "ms": "à_Ms_海",
+        "pastor": "à_Pastor_海",
+        "professor": "à_Professor_海",
+        "rabbi": "à_Rabbi_海",
+        "revDr": "à_Rev Dr_海",
+        "reverend": "à_Reverend_海",
+        "rtReveren": "à_Rt Reveren_海",
+        "sir": "à_Sir_海",
+        "sister": "à_Sister_海",
+        "squadronL": "à_SquadronL_海",
+        "wgCdr": "à_Wg Cdr_海"
+      },
+      "employmentSectors": {
+        "academyEducation": "à_Academy Education_海",
+        "accommodationAndFoodService": "à_Accommodation And Food Service_海",
+        "administrativeAndSupport": "à_Administrative And Support_海",
+        "agricultureForestryAndFishing": "à_Agriculture Forestry And Fishing_海",
+        "artsAndEntertainment": "à_Arts And Entertainment_海",
+        "centralGovernment": "à_Central Government_海",
+        "childCare": "à_Child Care_海",
+        "construction": "à_Construction_海",
+        "drivers": "à_Drivers_海",
+        "energyAndAirConditioning": "à_Energy And Air Conditioning_海",
+        "financialAndInsurance": "à_Financial And Insurance_海",
+        "fosterAdoption": "à_Foster/Adoption_海",
+        "furtherEducation": "à_Further Education_海",
+        "higherEducation": "à_Higher Education_海",
+        "independentEducation": "à_Independent Education_海",
+        "informationAndCommunication": "à_Information And Communication_海",
+        "lawEnforcementAndSecurity": "à_Law Enforcement And Security_海",
+        "leisureSportAndTourism": "à_Leisure Sport And Tourism_海",
+        "localGovernment": "à_Local Government_海",
+        "manufacturing": "à_Manufacturing_海",
+        "miningAndQuarrying": "à_Mining And Quarrying_海",
+        "nhs": "à_NHS_海",
+        "preschoolEducation": "à_Preschool Education_海",
+        "primaryEducation": "à_Primary Education_海",
+        "privateHealthcare": "à_Private Healthcare_海",
+        "professionalTechnical": "à_Professional Technical_海",
+        "publicSectorOther": "à_Public Sector- Other_海",
+        "realEstateActivities": "à_Real Estate Activities_海",
+        "recruitmentAndHr": "à_Recruitment And HR_海",
+        "retail": "à_Retail_海",
+        "secondaryEducation": "à_Secondary Education_海",
+        "socialCare": "à_Social Care_海",
+        "tradeOrRepairOfVehicles": "à_Trade Or Repair Of Vehicles_海",
+        "transportationAndStorage": "à_Transportation And Storage_海",
+        "voluntaryCharity": "à_Voluntary/Charity_海",
+        "waterAndWasteManagement": "à_Water And Waste Management_海"
+      }
+    },
+    "helperText": {
+      "citizenship": "à_Dual citizens: Choose your preferred citizenship_海"
+    },
+    "LastInternationalAddressForm": {
+      "title": "à_Last address outside the US_海",
+      "alert": "à_Please submit your <strong>most recent address outside of the United States</strong>._海"
+    },
+    "regionOverrides": {
+      "countries": {
+        "england": "à_England_海",
+        "northernIreland": "à_Northern Ireland_海",
+        "other": "à_Other_海",
+        "scotland": "à_Scotland_海",
+        "wales": "à_Wales_海"
+      },
+      "descriptions": {
+        "additionalDetails": "à_Please provide the following information as required by the Government of the United Kingdom._海",
+        "employmentDetails": "à_Please provide your potential employer's information._海",
+        "gbConstituentCountry": "à_Select which country in the United Kingdom that you'll be working in._海",
+        "proofOfIdentity": "à_Select two documents to upload as proof of your identity._海",
+        "proofOfResidence": "à_Select a document to upload as proof of your current address._海"
+      },
+      "titles": {
+        "constituentCountry": "à_Country*_海",
+        "documentType": "à_Document type*_海",
+        "nationalInsuranceDocument": "à_National insurance document_海"
+      },
+      "placeholders": {
+        "selectACountry": "à_Select a country_海",
+        "selectADocument": "à_Select a document_海"
+      },
+      "sectionHeaders": {
+        "additionalDetails": "à_Additional details*_海",
+        "employmentDetails": "à_Employment details*_海",
+        "proofOfIdentity": "à_Proof of identity*_海",
+        "proofOfResidence": "à_Proof of current address*_海",
+        "workLocation": "à_Work Location_海"
+      }
+    }
+  },
+  "buttons": {
+    "addAddress": "à_Add Address_海",
+    "applicantPaySubmit": "à_Place Order_海",
+    "changeLocation": "à_Change Location_海",
+    "confirm": "à_Confirm_海",
+    "continue": "à_Continue_海",
+    "hide": "à_Hide_海",
+    "incorrectInformation": "à_This isn't correct_海",
+    "locationSearch": "à_Search near me_海",
+    "noIHavent": "à_No, I haven't_海",
+    "no": "à_No_海",
+    "notYou": "à_Not you?_海",
+    "previous": "à_Previous_海",
+    "remove": "à_Remove_海",
+    "removeDocuments": "à_Remove Documents_海",
+    "show": "à_Show_海",
+    "submitting": "à_Submitting_海",
+    "submit": "à_Submit_海",
+    "scheduleTest": "à_Schedule Test_海",
+    "scheduleVaccine": "à_Schedule Vaccine_海",
+    "testForImmunity": "à_Test for Immunity_海",
+    "tryAgain": "à_Try Again_海",
+    "uploadDocumentation": "à_Upload Documentation_海",
+    "upload": "à_Upload_海",
+    "yes": "à_Yes_海",
+    "yesIHave": "à_Yes, I have_海",
+    "confirmLaterInPerson": "à_Confirm later in person_海",
+    "continueWithYoti": "à_Continue with Yoti_海"
+  },
+  "countries": {
+    "unitedStatesOfAmerica": "à_United States of America_海"
+  },
+  "placeholders": {
+    "offenseCategory": "à_eg. Reckless driving, larceny, etc._海",
+    "city": "à_Enter city name_海",
+    "cityLocked": "à_Select a state first_海",
+    "offenseLevel": "à_eg. Felony, misdemeanor, etc._海",
+    "county": "à_Enter county name_海",
+    "countyLocked": "à_Select a state first_海",
+    "email": "à_name@email.com_海",
+    "phone": "à_(555) 555-5555_海",
+    "sentence": "à_eg. $1,000 fine, 3 months county jail, etc._海",
+    "timeServed": "à_eg. 6 weeks county jail, 2 years state prison, etc._海",
+    "mitigatingFactors": "à_eg. 12 years ago, completed rehabilitation program, etc._海",
+    "currentPosition": "à_Current Position_海",
+    "mmYY": "à_MM/YYYY_海",
+    "mmDDYY": "à_MM/DD/YYYY_海",
+    "YYYY": "à_YYYY_海",
+    "zipcode": "à_Enter a zip code to find nearby locations_海",
+    "driverLicenseCountryOfIssue": "à_Driver license country of issue_海",
+    "driverLicenseProvinceOfIssue": "à_Driver license province of issue_海",
+    "driverLicenseNumber": "à_Driver license number_海",
+    "driverLicenseClass": "à_Driver license class_海"
+  },
+  "labels": {
+    "address": "à_Address_海",
+    "agencyLocation": "à_Staffing agency location_海",
+    "agencyLocationContract": "à_Contractor company location_海",
+    "agencyName": "à_Staffing agency name_海",
+    "agencyNameContract": "à_Contractor company name_海",
+    "agencySameAsEmployer": "à_Same as company name above_海",
+    "birthCountry": "à_Country of birth_海",
+    "birthPlace": "à_Place of birth_海",
+    "candidateDisclosurePrompt": "à_We recommend you redact unnecessary information, such as salary or grades, prior to uploading as the company you applied with may view the documents you submit._海",
+    "citizenship": "à_Citizenship_海",
+    "city": "à_City_海",
+    "cityOfConviction": "à_City of conviction_海",
+    "contractType": "à_Employment type_海",
+    "country": "à_Country_海",
+    "countryOfCitizenship": "à_Country of citizenship_海",
+    "countryOfResidence": "à_Country of residence_海",
+    "countyOfConviction": "à_County of conviction_海",
+    "creditOrDebit": "à_Credit or debit card_海",
+    "currentAddressCheckbox": "à_This is my current address_海",
+    "currentPosition": "à_Current position?_海",
+    "currentZipcode": "à_Current zip code_海",
+    "dateOfConviction": "à_Approximate conviction date_海",
+    "dlNumber": "à_Driver license number_海",
+    "dlState": "à_Driver license state_海",
+    "dob": "à_Date of birth_海",
+    "driverLicenseNumber": "à_Driver license number_海",
+    "driverLicenseProvince": "à_Driver License Province_海",
+    "email": "à_Email_海",
+    "emailOptional": "à_Email (optional)_海",
+    "employerDoNotContact": "à_<strong>Don’t contact this employer</strong>. By checking this, you will be required to provide document proof of your employment. Don't have them right now? You will receive a follow up email._海",
+    "employerName": "à_Company name_海",
+    "employerStartDate": "à_Start Date_海",
+    "employerToDate": "à_End Date_海",
+    "employerUrl": "à_Company website_海",
+    "employerUrlOptional": "à_Company website (optional)_海",
+    "employmentGapNote": "à_Why did you take an employment gap? How did you spend your time? What did you learn or what are you most proud of?_海",
+    "employmentConfirmFullLookback": "à_<strong>Your employment history does not meet the minimum %{lookbackYears} years required for this position</strong>. There are periods which are unaccounted for. By checking this box, you confirm that there are no missing job positions, and that Checkr can treat the unallocated periods as employment gaps._海",
+    "endDate": "à_End date_海",
+    "endDateOptional": "à_End date (optional)_海",
+    "fatherName": "à_Father's Full Name_海",
+    "firstName": "à_First name_海",
+    "from": "à_From_海",
+    "fullName": "à_Full name_海",
+    "gedDiplomaImg": "à_Please upload a copy of your GED if you have it. Without this, you will be subject to very long delays or potentially adverse action._海",
+    "gender": "à_Gender_海",
+    "hello": "à_Hello_海",
+    "highSchoolDiplomaImg": "à_Please upload a copy of your high school diploma if you have it. Without this, you will be subject to very long delays or potentially adverse action._海",
+    "lastName": "à_Last name_海",
+    "location": "à_Location_海",
+    "managerEmail": "à_Contact email_海",
+    "managerName": "à_Contact name_海",
+    "managerPhone": "à_Contact phone_海",
+    "managerTitle": "à_Contact title_海",
+    "middleName": "à_Middle name_海",
+    "mitigatingFactors": "à_Provide any information you would like considered regarding the listed offense(s) or evidence of rehabilitation. You can describe circumstances surrounding the offense, the time that has elapsed since the offense, your age, the number of offenses, any employment history before or after conviction, evidence of rehabilitation, and any other mitigating factors._海",
+    "mitigatingFactorsSimple": "à_Describe the conviction_海",
+    "mobilePhone": "à_Mobile phone number_海",
+    "motherMaidenName": "à_Mother's maiden name_海",
+    "name": "à_Name_海",
+    "nameOnDiploma": "à_Name on diploma_海",
+    "nameOnDiplomaOptional": "à_Name on diploma (optional)_海",
+    "nameOnGED": "à_Name on GED_海",
+    "nameOnGEDOptional": "à_Name on GED (optional)_海",
+    "noEducationHistory": "à_<strong>No education history</strong>. By checking this, you certify that you have no education to verify._海",
+    "noEmploymentHistory": "à_<strong>No employment history</strong>. By checking this, you certify that you have no employment to verify._海",
+    "noMiddleName": "à_I confirm I have no middle name._海",
+    "noSsn": "à_I confirm I have no Social security number._海",
+    "offence": "à_Offence_海",
+    "offenseCategory": "à_Describe the conviction_海",
+    "offenseLevel": "à_Level of offense_海",
+    "partialSsn": "à_Last 4 digits of Social Security Number_海",
+    "passportCountry": "à_Passport country_海",
+    "passportImage": "à_Passport image_海",
+    "passportNumber": "à_Passport number_海",
+    "phone": "à_Phone number_海",
+    "phoneOptional": "à_Phone number (optional)_海",
+    "position": "à_Last position held_海",
+    "postalCode": "à_Postal code_海",
+    "present": "à_Present_海",
+    "province": "à_Province_海",
+    "referenceRelationship": "à_Reference relationship_海",
+    "required": "à_(required)_海",
+    "residentFrom": "à_Resident from_海",
+    "salary": "à_Annual salary_海",
+    "schoolCity": "à_City_海",
+    "schoolCurrent": "à_I am currently pursuing this degree_海",
+    "schoolDegree": "à_Education level_海",
+    "schoolMajor": "à_Major_海",
+    "schoolMinor": "à_Minor_海",
+    "schoolMinorOptional": "à_Minor (optional)_海",
+    "schoolName": "à_School or university name_海",
+    "schoolNameHighSchool": "à_High school name_海",
+    "schoolNameUniversity": "à_College or university name_海",
+    "schoolState": "à_State_海",
+    "schoolUrl": "à_School website_海",
+    "schoolUrlOptional": "à_School website (optional)_海",
+    "sentence": "à_Sentenced to_海",
+    "sentenceDate": "à_Date of Sentence_海",
+    "ssn": "à_Social security number_海",
+    "ssnConfirmation": "à_Confirm social security number_海",
+    "startDate": "à_Start date_海",
+    "startDateOptional": "à_Start date (optional)_海",
+    "state": "à_State_海",
+    "stateInternational": "à_State / Province / Area_海",
+    "stateOfConviction": "à_State of conviction_海",
+    "street": "à_Street_海",
+    "testingSiteGED": "à_Testing site_海",
+    "timeServed": "à_Time served (if applicable)_海",
+    "toDate": "à_To_海",
+    "uploadEduDocs": "à_Providing documents of proof can help expedite the process and help prevent potential adverse action._海",
+    "uploadEmploymentDocs": {
+      "default": "à_<span class=\"h6\">Verify employment by document</span>:<br/>Accepted documents include W-2, 1099, or paystub. Documents must reflect the employer name and will only be used for verification purposes._海",
+      "noManager": "à_<span class=\"h6\">Please provide documentation to verify your employment</span>:<br/>Accepted documents include W-2, 1099, or paystub. Documents must reflect the employer name and will only be used for verification purposes._海",
+      "documentForStartDate": "à_Document for <strong>start date:</strong>_海",
+      "documentForEndDate": "à_Document for <strong>end date:</strong>_海",
+      "currentEmployerNote": "à_A paystub is recommended to prove current employment._海"
+    },
+    "uploadYourDiploma": "à_Upload your diploma_海",
+    "uploadYourGED": "à_Upload your GED certificate_海",
+    "yearAwarded": "à_Year Awarded_海",
+    "zipcode": "à_Zip code_海",
+    "zipcodeSearch": "à_Enter a zip code to find nearby locations_海",
+    "degree": "à_Degree_海",
+    "major": "à_Major_海",
+    "minor": "à_Minor_海",
+    "motherFirstName": "à_Mother's first name_海",
+    "fatherFirstName": "à_Father's first name_海",
+    "fatherLastName": "à_Father's last name_海",
+    "professionalLicenseNumber": "à_Professional license certificate_海",
+    "sex": "à_Sex_海",
+    "dateOfEntry": "à_Date of entry_海",
+    "previousName": "à_Previous Name_海",
+    "courtLocation": "à_Court Location_海",
+    "citizenshipCertificate": "à_Citizenship Certificate_海",
+    "militaryId": "à_Military ID_海",
+    "alienId": "à_Alien ID_海",
+    "studentId": "à_Student ID_海",
+    "driverLicenseCountryOfIssue": "à_Country of Issue_海",
+    "driverLicenseProvinceOfIssue": "à_Province of Issue_海",
+    "driverLicenseClass": "à_License class_海",
+    "driverLicenseExpirationDate": "à_License expiration date_海",
+    "powerOfAttorneyPacket": "à_Power of attorney packet_海"
+  },
+  "options": {
+    "selectADay": "à_Select a day_海",
+    "selectADegree": "à_Select an education level_海",
+    "selectAContract": "à_Select employment type_海",
+    "selectACountry": "à_Select a country_海",
+    "selectAMonth": "à_Select a month_海",
+    "selectAProvince": "à_Select a province_海",
+    "selectAState": "à_Select a state_海",
+    "selectAYear": "à_Select a year_海",
+    "notInTheUSA": "à_Not in the USA_海",
+    "noEducation": "à_No Education History_海",
+    "contracts": {
+      "fullTime": "à_Full Time_海",
+      "partTime": "à_Part Time_海",
+      "staffing": "à_Staffing Agency (Full or Part Time)_海",
+      "contract": "à_Contract_海",
+      "internship": "à_Internship/Co-op_海",
+      "selfEmployed": "à_Self-Employed_海"
+    },
+    "degrees": {
+      "highSchool": "à_High School_海",
+      "ged": "à_GED_海",
+      "associate": "à_Associate_海",
+      "associateOfArts": "à_Associate of Arts (A.A.)_海",
+      "associateOfAppliedScience": "à_Associate of Applied Science (A.A.S.)_海",
+      "associateOfScience": "à_Associate of Science (A.S.)_海",
+      "bachelor": "à_Bachelor_海",
+      "bachelorOfArts": "à_Bachelor of Arts (B.A.)_海",
+      "bachelorOfScience": "à_Bachelor of Science (B.S.)_海",
+      "master": "à_Master_海",
+      "masterOfArts": "à_Master of Arts (M.A.)_海",
+      "masterOfScience": "à_Master of Science (M.S.)_海",
+      "doctor": "à_Doctor_海",
+      "doctorOfPhilosophy": "à_Doctor of Philosophy (Ph.D.)_海",
+      "medicalDoctor": "à_Medical Doctor (M.D.)_海",
+      "jurisDoctorate": "à_Juris Doctorate (J.D.)_海",
+      "doctorOfDentalSurgery": "à_Doctor of Dental Surgery (D.D.S.)_海",
+      "doctorOfPharmacy": "à_Doctor of Pharmacy (Pharm.D.)_海",
+      "other": "à_Other_海"
+    },
+    "months": {
+      "january": "à_1 - January_海",
+      "february": "à_2 - February_海",
+      "march": "à_3 - March_海",
+      "april": "à_4 - April_海",
+      "may": "à_5 - May_海",
+      "june": "à_6 - June_海",
+      "july": "à_7 - July_海",
+      "august": "à_8 - August_海",
+      "september": "à_9 - September_海",
+      "october": "à_10 - October_海",
+      "november": "à_11 - November_海",
+      "december": "à_12 - December_海"
+    }
+  },
+  "pages": {
+    "addressHistory": "à_Address History_海",
+    "authorization": "à_Authorization_海",
+    "californiaDisclosure": "à_California Disclosure_海",
+    "candidateDetails": "à_Candidate Details_海",
+    "creditDisclosure": "à_Credit Disclosure_海",
+    "criminalSelfDisclosure": "à_Self Disclosure_海",
+    "disclosure": "à_Disclosure_海",
+    "education": "à_Education_海",
+    "employment": "à_Employment_海",
+    "fairChanceOrdinance": "à_Additional Notices_海",
+    "info": "à_Info_海",
+    "internationalAuthorization": "à_International Authorization_海",
+    "investigativeDisclosure": "à_Investigative Disclosure_海",
+    "nyArticle23a": "à_Article 23-A_海",
+    "payment": "à_Payment_海",
+    "recordDeclaration": "à_Record Declaration_海",
+    "references": "à_References_海",
+    "thankYou": "à_Thank You_海",
+    "authenticateInvitationForm": "à_Welcome_海",
+    "confirmInformation": "à_Confirm_海",
+    "washingtonMvrDisclosure": "à_Washington Disclosure_海",
+    "welcome": "à_Welcome_海",
+    "yourRights": "à_Your Rights_海",
+    "healthScreeningConfiguration": "à_Health Screening_海",
+    "proLicenseVerification": "à_Professional License Verification_海",
+    "information": "à_Information_海",
+    "identityDocumentValidation": "à_Identity Document Validation_海",
+    "identity_document_validation": "à_Identity Document Validation_海",
+    "electronicConsentForm": "à_Electronic consent form_海",
+    "identityVerification": "à_Identity Verification_海",
+    "motor_vehicle_report": "à_Driver’s License Information_海",
+    "identityConfirmation": "à_Identity Confirmation_海"
+  },
+  "validations": {
+    "currentSchoolDisallowed": "à_This employer only accepts completed degrees._海",
+    "dateInThePast": "à_Please choose a past date._海",
+    "dateFormat": "à_Please format date correctly. e.g. %{format}._海",
+    "dateAfter": "à_Please choose a date after %{dateCompared}._海",
+    "email": "à_Please enter a valid email address._海",
+    "fieldLength": "à_Response exceeds max length._海",
+    "fieldLengthMin": "à_Response fails minimum length requirement._海",
+    "nameForm": "à_Your name may only contain letters, numbers, spaces, hyphens, apostrophes, periods, and commas._海",
+    "lastNameForm": "à_Your name must contain at least 2 letters._海",
+    "licenseNumber": "à_Please provide a valid license number._海",
+    "previousName": "à_Please provide a valid full name._海",
+    "required": "à_Required._海",
+    "requiredDocuments": {
+      "one": "à_A minimum of %{minDocuments} document is required._海",
+      "many": "à_A minimum of %{minDocuments} documents is required._海"
+    },
+    "signatureFormat": "à_Your signature must match the name you submitted: %{firstName} %{middleName} %{lastName}._海",
+    "validSSN": "à_Please provide a valid SSN_海",
+    "validSSNFormat": "à_Please format SSN correctly. e.g. XXX-XX-XXXX_海",
+    "validUrlFormat": "à_Please enter a correct URL, e.g. www.google.com._海",
+    "unmatchedSSN": "à_SSN does not match_海",
+    "validCC": "à_Incomplete card details._海",
+    "validCounty": "à_Please enter a valid county_海",
+    "zipcodeFormatUS": "à_Please format zip code correctly. e.g. XXXXX._海",
+    "zipcode": "à_Please format postal code correctly, or if none exists, enter 'none'._海",
+    "taxpayerId": "à_Please enter a valid Taxpayer ID._海",
+    "noUsAddressHistory": "à_Please do not include any U.S. address history in this section._海",
+    "dateWithinFiveYears": "à_Please do not include address history that concluded more than 5 years ago._海",
+    "poBoxFormat": "à_Mailing address must be a street address, and cannot be a PO Box._海",
+    "onlyNumbers": "à_Response can only include numbers._海",
+    "lastName": "à_Please enter at least two alphabetic characters._海"
+  },
+  "i18nInternational": {
+    "validations": {
+      "dateFormat": "à_Please format date correctly. e.g. {{var}}._海",
+      "dateAfter": "à_Please choose a date after {{var}}._海",
+      "issueDateMustPrecedeExpirationDate": "à_Issue date must precede the expiration date._海",
+      "signatureFormat": "à_Your signature must match the name you submitted: {{var}} {{var2}} {{var3}}._海"
+    },
+    "errorTitle": "à_Whoops!_海",
+    "landingPage": {
+      "welcome": "à_Welcome_海",
+      "contactInformation": "à_Contact Information_海",
+      "welcomeDesc": "à_{{var}} (the \"Company\") has engaged Checkr, Inc. to  obtain a consumer report and/or investigative consumer report, as defined in California, for employment purposes. Checkr Inc. will provide a background investigation as a pre-condition of your engagement with the Company and in compliance with applicable law._海",
+      "outsideCountryDesc": "à_{{var}} ordered a background check for candidates living outside the United States, but you entered a U.S. address. Please confirm your current address. If you live in the United States, please contact {{var}} so that they can order the appropriate background check for candidates living in the United States._海",
+      "personalInformation": "à_Personal Information_海",
+      "pleaseProvideLegalName": "à_Please provide your full legal name_海",
+      "dualCitizenship": "à_Dual citizens: Choose your preferred citizenship_海",
+      "addressHistory": "à_Address History_海",
+      "pleaseProvideAddressHistory": "à_Please provide address history for the past 5 years._海",
+      "teslaWelcomeDesc": "à_Congratulations on your conditional offer of employment with Tesla! All offers of employment with Tesla are conditioned upon your successful completion of all pre-employment requirements. All candidates must provide information and authorization for Tesla's Pre-Employment Screening Process. <br><br> Tesla’s Pre-Employment Assessment is conducted by a third-party vendor in compliance with applicable laws. Tesla has partnered with Checkr to conduct your pre-employment screening. <br><br> Disclosures from Tesla regarding this Pre-Employment Assessment will be provided, and your consent will be required before Checkr can begin processing your Pre-Employment Assessment. <br><br> The Pre-Employment Assessment requires that you complete this pre-employment screening application truthfully and accurately. Any attempts to withhold or falsify information will potentially disqualify you for any Tesla position. <br><br> If you fail to complete the authorization within 3 calendar days, the request will be canceled and you will need to contact Tesla at employmentscreening@tesla.com to have the authorization link reactivated. <br><br> Once you’ve submitted your information and authorization, you can check the status or view a copy of your report on the <a href='https://candidate.checkr.com' target='_blank'>Checkr Candidate Portal</a>. Please also see Checkr's Candidate Help Center for answers to frequently asked questions. <br><br> Thank you for your assistance and timely response to this request._海",
+      "messages": {
+        "pleaseProvideAddressHistory": "à_Please provide 5 years of address history_海",
+        "addressCannotShareStartDate": "à_Addresses cannot share start date_海",
+        "doNotIncludeHistory": "à_Do not include address history prior to 5 years_海",
+        "canHaveCurrentAddress": "à_Can only have 1 current address_海",
+        "pleaseProvideCurrentAddress": "à_Please provide current address_海",
+        "addressOverlaps": "à_Address from {{var}} to {{var2}} overlaps with address history ending at {{var3}}_海",
+        "addressGapHistory": "à_There is a gap in address history from {{var}} to {{var2}}_海"
+      }
+    },
+    "identityVerification": {
+      "identityVerification": "à_Identity Verification_海",
+      "redirectedToVendor": "à_Upon clicking 'Continue,' you will be directed to an external website to verify your identity in compliance with the Royal Canadian Mounted Police through Checkr's vendor, ModoHR._海",
+      "pleaseHaveApprovedID": "à_Please have an approved Government ID (Passport / Drivers License) available for verification._海"
+    },
+    "intlSuccess": {
+      "thankYou": "à_Thank you for completing your background check application_海",
+      "thanksForSubmitting": "à_Checkr will notify you when your background check is complete, or if any further action is needed on your part. View the <a href='{{var}}' target='_blank' rel='noopener noreferrer'>status of your background check</a> at anytime._海"
+    },
+    "navigation": {
+      "back": "à_Back_海",
+      "save": "à_Save_海",
+      "submit": "à_Submit_海",
+      "continue": "à_Continue_海",
+      "submitAndContinue": "à_Submit and Continue_海"
+    },
+    "stateLogin": {
+      "cannotFindApplication": "à_We can’t find an application for you in our system. Please check the information you entered to log in. It must match the information used to start your background check application._海",
+      "someTips": "à_Some tips:_海",
+      "checkYourEmailAddress": "à_ Check your email address to be sure it’s the same you used for your application._海",
+      "checkWithCompany": "à_ Check with the company you applied with to confirm that they have submitted a request for a background check._海",
+      "completeSavedInformation": "à_If you still can’t log in to complete your saved information, you can _海",
+      "restartYourApplication": "à_re-start your application_海",
+      "resumeBackgroundCheck": "à_Resume Your Background Check Application_海",
+      "pleaseFillYourInformation": "à_Please fill in your information below and we will look for your application so you can continue where you left off._海",
+      "personalInformation": "à_Personal Information_海",
+      "dualCitizens": "à_Dual citizens: Choose your preferred citizenship_海",
+      "continue": "à_Continue_海",
+      "errorTitle": "à_Whoops!_海"
+    },
+    "stateToastSuccess": {
+      "youSavedApplication": "à_You saved your application_海",
+      "youCanResume": "à_You can resume your background check application at any time using the same link._海"
+    },
+    "screeningPage": {
+      "selectDocument": "à_Select a document_海",
+      "selectDocumentToProvide": "à_Select a document to provide*_海",
+      "documentLabel": "à_{{var}} and {{var2}}_海"
+    },
+    "signature": {
+      "electronicSignature": "à_Electronic Signature_海",
+      "byTypingMyName": "à_By typing my name below, I consent to having Checkr Inc., its affiliates, and its third-party agents, collect and process certain Personal Data about me for the purposes of completing my background check._海",
+      "fullName": "à_Full Name_海"
+    },
+    "downloadAcknowledgement": {
+      "download": "à_Download_海"
+    },
+    "instructions": {
+      "download": "à_Download_海"
+    },
+    "requiredFieldAsterisk": {
+      "requiredField": "à_* denotes required field_海"
+    },
+    "fieldArrayWrapper": {
+      "noEmploymentHistory": "à_No employment history. By checking this, you certify that you have no employment to verify_海",
+      "noEducationHistory": "à_No education history. By checking this, you certify that you have no education to verify_海",
+      "recordSuspension": "à_By clicking this, you certify that you have never been convicted of a crime in Canada, for which you have not received a pardon or record suspension._海",
+      "noOtherNames": "à_By clicking this, you certify that there are no other names that you have legally held (maiden name, aliases, etc)._海",
+      "addAnother": "à_Add another_海",
+      "remove": "à_Remove_海",
+      "formValidationError": "à_Form Validation Error_海"
+    },
+    "addressField": {
+      "startDateMustPrecede": "à_Start date must precede end date_海",
+      "myCurrentAddress": "à_This is my current address_海",
+      "provideDateOrCheck": "à_Provide date or check \"This is my current address\"_海",
+      "stateAbbreviation": "à_Please enter US State as two-letter abbreviation_海",
+      "streetTooltip": "à_Include all primary address information (street number and name) and secondary address information (apartment number or unit number)._海"
+    },
+    "educationField": {
+      "startDateMustPrecede": "à_Start date must precede end date_海",
+      "myCurrentEducation": "à_I am currently a student here_海",
+      "provideDateOrCheck": "à_Provide both \"To\" date and \"Year Awarded\", or check \"I am currently a student here\"_海"
+    },
+    "employmentField": {
+      "startDateMustPrecede": "à_Start date must precede end date_海",
+      "companyContactInfo": "à_Company Contact Information_海",
+      "doNotContactThisEmployer": "à_Do not contact this employer. <span style=\"font-weight:bold\">By checking this, you will be required to provide document proof of your employment.</span>_海",
+      "employmentInfo": "à_Employment Information_海",
+      "myCurrentPosition": "à_I currently work here_海",
+      "pleaseProvideInformation": "à_Please provide information to verify your employer_海",
+      "pleaseProvideProof": "à_Please provide written proof of employment. Accepted documents include:_海",
+      "provideDateOrCheck": "à_Provide date or check \"I currently work here\"_海",
+      "governmentIssued": "à_Government issued documents (such as paystubs or tax documents)._海",
+      "employerIssued": "à_Employer issued letter on the company letter head._海",
+      "documentsMustInclude": "à_Documents must include the employer name and be in English when possible. They will be used only for verification purposes._海"
+    },
+    "form": {
+      "disclosure": "à_Disclosure_海",
+      "disclosureContent": "à_<h1 id='disclosure-regarding-background-investigation'>Disclosure Regarding Background Investigation</h1> <p>Checkr (the “Company”) may obtain information about you from a third party consumer reporting agency for employment purposes. Thus, you may be the subject of a “consumer report” which may include information about your character, general reputation, personal characteristics, and/or mode of living. These reports may contain information regarding your credit history, criminal history, motor vehicle records (“driving records”), verification of your education or employment history, or other background checks.</p> <p>You have the right, upon written request made within a reasonable time, to request whether a consumer report has been run about you and to request a copy of your report. These searches will be conducted by <strong>Checkr, Inc., One Montgomery Street, Suite 2400, San Francisco, CA 94104 | support@checkr.com | <a href='https://candidate.checkr.com' target='_blank'>https://candidate.checkr.com</a>.</strong></p>_海",
+      "disclosureCheckLabel": "à_I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document._海",
+      "legalAgreementLabel": "à_Please confirm you have read and agree to the above document_海"
+    },
+    "saveStateForm": {
+      "header": {
+        "aboutUs": "à_About Us_海",
+        "contactUs": "à_Contact Us_海",
+        "checkr": "à_Checkr.com_海"
+      }
+    },
+    "identityDocument": {
+      "mustUploadSecondImage": "à_For {{var}} you must upload a second image._海",
+      "mayUploadSecondImage": "à_If they are on separate pages, you may upload a second image._海",
+      "mustBeValid": "à_{{var}} must be <b>valid and unexpired</b>, and your uploaded image must include <b>both your photo and your signature</b>. {{var2}}_海",
+      "documents": "à_Documents_海",
+      "frontOfId": "à_Front of ID_海",
+      "backOfId": "à_Back of ID_海",
+      "signaturePage": "à_Signature page (if on different page than photo)_海",
+      "plural": {
+        "passport": "à_Passports_海",
+        "nationalId": "à_National IDs_海",
+        "driverLicense": "à_Driver licenses_海",
+        "voterRegistration": "à_Voter registrations_海",
+        "residencePermit": "à_Residence permits_海"
+      }
+    },
+    "identityConfirmation": {
+      "title": "à_Identity Confirmation_海",
+      "almostThere": "à_Almost there!_海",
+      "description": "à_<h2>Almost there!</h2> <p>Local law requires that you confirm your identity in order to start running your background check.</p><br> <p>You can get your completed report faster by doing this online now with our secure, UK-approved vendor, <b>Yoti</b>. Or, you can choose to confirm your identity later in person.  <a href='https://help.checkr.com/hc/en-us/articles/10249601186583' target='_blank'>Learn more</a></p>_海"
+    },
+    "footer": {
+      "checkrPrivacyPolicyUrl": "à_https://checkr.com/privacy-policy_海",
+      "checkrTermsOfServiceUrl": "à_https://checkr.com/terms-of-service_海",
+      "checkrFaqUrl": "à_https://checkr.com/my-background-check_海"
+    },
+    "closeNotification": "à_Close Notification_海",
+    "pleaseViewOrDownloadHere": "à_Please view on a desktop or <a href={{var}}>download here</a>._海"
+  },
+  "errors": {
+    "internalServerErrorOurEngineersHaveBeenNotified": "à_Internal Server Error, our engineers have been notified._海",
+    "internalServerErrorOurEngineersHaveBeenNotifiedNumber": "à_Internal Server Error, our engineers have been notified.: {{var}}_海",
+    "invitationNotFound": "à_Invitation not found_海",
+    "invitationHasExpired": "à_Invitation has expired_海",
+    "invitationHasAlreadyBeenCompleted": "à_Invitation has already been completed_海",
+    "employerSalaryIsNotANumber": "à_Employer salary is not a number_海",
+    "employerStartDateCantBeBlank": "à_Employer start date can't be blank_海",
+    "employerStartDateMustBeRealistic": "à_Employer start date must be realistic_海",
+    "employerEndDateMustBeRealistic": "à_Employer end date must be realistic_海",
+    "employerEndDateMustBeEqualToOrAfterStartDate": "à_Employer end date must be equal to or after start date_海",
+    "schoolEndDateMustBeAfterStartDate": "à_School end date must be after start date_海",
+    "candidateFirstNameNameContainsInvalidCharacters": "à_Candidate first name contains invalid characters_海",
+    "failureSavingYourApplication": "à_Failure saving your application_海",
+    "missingRequiredFields": "à_Missing required fields {{var}}_海",
+    "candidateLastNameNameContainsInvalidCharacters": "à_Candidate last name contains invalid characters_海",
+    "candidateLastNameMustContainAtLeast2AlphaCharacters": "à_Candidate last name must contain at least 2 alpha characters_海",
+    "failedToUpdateCandidateLocale": "à_Failed to update candidate locale_海",
+    "failedToUpdate": "à_Failed to update_海",
+    "candidateMiddleNameNameContainsInvalidCharacters": "à_Candidate middle name contains invalid characters_海",
+    "candidateAddressCityCantBeBlank": "à_Candidate address city can't be blank_海",
+    "candidateAddressCountryCodeCantBeBlank": "à_Candidate address country code can't be blank_海",
+    "candidateAddressCountryCodeIsNotIncludedInTheList": "à_Candidate address country code is not included in the list_海",
+    "candidateAddressCountryCodeIsTheWrongLengthShouldBeNumberCharacters": "à_Candidate address country code is the wrong length (should be {{var}} characters)_海",
+    "candidateAddressStateCantBeBlank": "à_Candidate address state can't be blank_海",
+    "candidateAddressStreetCantBeBlank": "à_Candidate address street can't be blank_海",
+    "candidateLastNameMustContainAtLeastNumberAlphaCharacters": "à_Candidate last name must contain at least {{var}} alpha characters_海",
+    "candidateMustBeAtLeastYearsOld": "à_Candidate must be at least {{var}} years old_海",
+    "idvNotFound": "à_Identity verification page not found_海"
+  }
+}
