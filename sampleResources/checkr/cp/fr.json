@@ -1,12 +1,12 @@
 {
   "address": "One Montgomery Street, Suite 2400, San Francisco, CA 94104",
   "loading": "Loading...",
-  "oops": "Oops, something went wrong...",
+  "oops": "Oops, something went wrongg...",
   "applyFor": "Apply for %{accountName}",
   "checkrLogo": "Checkr logo",
   "components": {
     "Addresses": {
-      "Add": "Add an address"
+      "Add": "Add an addresss"
     },
     "ApplicantInformationForm": {
       "additionalText": "Please submit your full legal name",
@@ -16,7 +16,7 @@
     "ApplyForm": {
       "sumbitErrors": {
         "candidateMatchesAProtectProfile": {
-          "title": "Oh no! Something is amiss…",
+          "title": "Oh no! Something is a miss…",
           "message": "<p>We were unable to complete your background check with the information that you provided. To proceed, please contact %{accountName}.<p>"
         }
       }
@@ -26,7 +26,7 @@
       "multipleIncident": "System incident: Checkr is currently experiencing some technical difficulties - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details."
     },
     "AuthenticateInvitationForm": {
-      "title": "Verify Identity"
+      "title": "Verify Identityy"
     },
     "Article23aDisclosure": {
       "title": "Article 23-A",
