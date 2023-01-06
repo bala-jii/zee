@@ -3,7 +3,7 @@
   "loading": "Loading...",
   "oops": "Oops, something went wrong...",
   "applyFor": "Apply for %{accountName}",
-  "checkrLogo": "Checkr logoo",
+  "checkrLogo": "Checkr logo",
   "components": {
     "Addresses": {
       "Add": "Add an address"
