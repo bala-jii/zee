@@ -1,0 +1,30 @@
+en:
+  email_verification:
+    title: "Great! We've verified your email address."
+    success: "Great! You should now be all set."
+    error: "Sorry, that is not a valid verification link."
+    notice:
+      message: "Now, you can get back to closing more deals with Marketo Sales Connect."
+      button_text: "Get Started &rarr;"
+    notice_default:
+      message: "Now, let's set up your SMTP server"
+      button_text: "Set up SMTP Server"
+
+  person_export:
+    headers:
+      first_name: "First Name"
+      last_name: "Last Name"
+      main_email: "Main Email"
+      job_title: "Job title"
+      company: "Company"
+      campaign: "Campaign"
+      _events: "# Events"
+      _activities: "# Activities"
+      groups: "Groups"
+    export_worker:
+      unsubscribed: "Unsubscribed"
+
+  form_validation:
+    error:
+      logged_in_to_access: "You must be logged in to access this page"
+      logged_out_to_access: "You must be logged out to access this page"

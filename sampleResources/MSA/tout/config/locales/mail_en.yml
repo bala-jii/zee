@@ -1,0 +1,265 @@
+en:
+  pitch_mailer:
+    invitation:
+      subject: "Welcome to Marketo for Sales!"
+      greeting: "Hi %{user_name},"
+      head_invite: "You've been invited to Marketo for Sales"
+      invitation_text: "<p>You have been invited by %{inviter_name_html} to your company's Marketo for Sales account.</p><p>To get started click the button below or use the direct link listed.</p>"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+      button_text: "Get Started"
+    invitation_text:
+      greeting: "Hi %{user_name},"
+      head_invite: "You've been invited to Marketo for Sales"
+      invitation_text: "You have been invited by %{inviter_name} to your company's Marketo for Sales account.\n\nTo get started click the button below or use the direct link listed."
+      gratitude: "Thanks,\nYour Marketo Team"
+      button_text: "Get Started"
+
+
+    migration_invitation:
+      subject: "Marketo for Sales: Added to Team"
+      header: "Join Team"
+      greeting: "Hi %{user_name},"
+      invitation_text: "You've been invited to join a new team on your company's Marketo for Sales account by %{admin_name_html}. They want you to join their team so you can share templates, campaigns, and groups. Click Join Team below to get started!"
+      an_administrator: "an administrator"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+      button_text: "Join Team"
+    migration_invitation_text:
+      header: "Join Team"
+      greeting: "Hi %{user_name},"
+      invitation_text: "You've been invited to join a new team on your company's Marketo for Sales account by %{admin_name}. They want you to join their team so you can share templates, campaigns, and groups. Click Join Team below to get started!"
+      an_administrator: "an administrator"
+      gratitude: "Thanks,\nYour Marketo Team"
+      button_text: "Join Team"
+
+
+    invitation_expired:
+      subject: "Invitation has been expired"
+      greeting: "Hi %{user_name},"
+      head_invite: "You've been invited to Marketo for Sales"
+      text: "Invitation sent by you to <span style=\"color: \#000;\"><b>%{invitation_email}</b></span> has been expired"
+      text_second: "You can resend invite on the Invitees Management page"
+      button_text: "Manage Invitees"
+
+
+    invitation_expires_for:
+      subject_expired_today: "Your invitation will be expired today"
+      subject_expired_in: "Your invitation will be expired in %{in_n_days} days!"
+      greeting: "Hi %{user_name},"
+      invitation_text: "You've been invited to your organization's Marketo for Sales account by <span style=\"color: \#000;\"><b>%{name}!</b></span>"
+      text_expired_today: "Your invitation will be expired <span style=\"color: \#000;\"><b>today</b></span>"
+      expired_in_n_day: "Your invitation will be expired in <span style=\"color: \#000;\"><b>%{in_n_days} days</b></span>"
+      button_text: "Create My Account"
+
+    onboarding_notification:
+      subject: "Welcome to Marketo for Sales!"
+      head: "Want to resume your onboarding?"
+      greeting: "Hi %{user_name},"
+      text: "<p>We see that you may have left in the middle of your onboarding process.</p><p>Wanted to make sure that you had an easy way to resume your MSI set-up and onboarding process so you can take advantage of its awesome features.</p>"
+      gratitude: "Thanks,<br />Your Marketo Team"
+      button_text: "Resume Onboarding"
+
+    invitation_exchange:
+      subject: "You've been invited to enable Reply Tracking with your Exchange Environment"
+      greeting: "Hi %{user_name},"
+      text: "You've been invited to link your organization's Exchange account with your sales account by <span style=\"color: \#000;\"><b> %{name}</b></span> to enable reply tracking."
+      button_text: "Link my Exchange Account"
+
+
+    account_activation:
+      subject: "Welcome to Marketo for Sales!"
+      greeting: "Hi %{first_name},"
+      head_invite: "You've been invited to Marketo for Sales"
+      invitation_text: "You have been invited to your company's Marketo for Sales account.<br/><br/>To get started click the button below."
+      marketo_invitation_text: "You have been invited as an admin to your Marketo for Sales account.<br/><br/>Your instance includes %{seats} seats.<br/><br/>You will be able to invite additional users from the user management page under the settings section."
+      gratitude: "Thanks,<br/>Your Marketo Team"
+      button_text: "Get Started"
+    account_activation_text:
+      greeting: "Hi %{first_name},"
+      head_invite: "You've been invited to Marketo for Sales"
+      invitation_text: "You have been invited to your company's Marketo for Sales account.\n\nTo get started click the button below or use the direct link listed."
+      gratitude: "Thanks,\nYour Marketo Team"
+      button_text: "Get Started"
+    new_exchange_connection_failed:
+      subject: "Marketo for Sales: Broken Exchange Connection"
+      head_text: "Your Exchange Connection"
+      greeting: "Hi %{user_name},"
+      body_text: "<p>We have lost connection with your Exchange account.</p><p>Your reply tracking is currently not active, use the link to update the connection details.</p>"
+      button_text: "Update Connection"
+      gratitude: "Thank you,<br/>Your Marketo Team"
+
+    new_exchange_service_connection_failed:
+      subject: "Marketo for Sales: Broken Exchange Connection"
+      head_text: "Your Exchange Connection"
+      greeting: "Hi %{user_name},"
+      body_tepassword_resetxt: "<p>We have lost connection with your Exchange server. This means your 'Exchange Reply Tracking' is not active.</p><p>In order to reconnect, you'll need to contact your Admin %{admin_name_html}, who we've added to this email, and ask them to help.</p>"
+      button_text: "Update Connection"
+      gratitude: "Thank you,<br/>Your Marketo Team"
+    password_reset:
+      subject: "Marketo for Sales: Password Reset"
+      header: "Reset Your Password"
+      greeting: "Hello %{user_name},"
+      text_first_part: "<p>You have requested to reset your password for your Sales account.</p><p>Please use the following link to reset your password.</p>"
+      text_second_part: "<p>If you did not request a password reset, please ignore this email and no changes will be made.<p/><p>For any questions or help, just respond to this email and we will be in touch.</p>"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+      button_text: "Reset Password"
+
+    password_reset_text:
+      subject: "Marketo for Sales: Password Reset"
+      header: "Reset Your Password"
+      greeting: "Hello %{user_name},"
+      text_first_part: "You have requested to reset your password for your Sales account.\n\nPlease use the following link to reset your password."
+      text_second_part: "If you did not request a password reset, please ignore this email and no changes will be made.<br/>For any questions or help, just respond to this email and we will be in touch."
+      gratitude: "Thanks,\nYour Marketo Team"
+      button_text: "Reset Password"
+
+    msi_install_success:
+      subject: "Marketo Sales Insight Installed!"
+      greeting: "Hi Marketo Admin,"
+      header: "Marketo Sales Insight Installed Successfully"
+      text: "Your organization's Marketo Sales Insight installed successfully. Please click the button below to see your Salesforce deployment summary."
+      button_text: "View Details"
+      gratitude: "Thanks,<br/>Your Marketo Sales Insight Team"
+
+    msi_install_error:
+      subject: "Marketo Sales Insight encountered a Problem"
+      greeting: "Hi Marketo Admin,"
+      header: "Marketo Sales Insight Installation Error"
+      text: "We're sorry, your organization's Marketo Sales Insight encountered a problem while installing."
+      error_header: "The following error occurred during installation:"
+      error_link_text: "Please click the button below to see your Salesforce deployment summary."
+      button_text: "View Details"
+      gratitude: "Thanks,<br/>Your Marketo Sales Insight Team"
+
+  engagement_mailer:
+    email_verification:
+      greeting: "Hello %{user_name},"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+      button_text: "Verify Email Address"
+
+  team_management_mailer:
+    new_admin:
+      subject: "Marketo for Sales: Admin Access Granted"
+      admin_access_granted: "Admin Access Granted"
+      greetings: "Hey %{user_name_html},"
+      master: "Master"
+      team: "Team"
+      invitation_text: "You've been made a %{master_or_team} Admin of your subscription on Marketo for Sales by"
+      an_administrator: "An administrator"
+      you_are_able_to: "As a %{master_or_team} Admin, you are able to:"
+      abilities_for_master: "<li>Invite brand new users to your team</li>
+                             <li>Delete users from your organization</li>
+                             <li>Grant Master Admin to other users</li>
+                             <li>Grant Team Admin to other users</li>
+                             <li>Create new teams</li>
+                             <li>Edit users and their associated teams</li>"
+      abilities_for_team: "<li>Invite existing users to your team</li>
+                           <li>Remove users from your team</li>
+                           <li>Grant Team Admin to another user on your team</li>"
+      get_started_text: "Log in to get started!"
+      log_in: "Log In"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+    new_admin_text:
+      subject: "Marketo for Sales: Admin Access Granted"
+      admin_access_granted: "Admin Access Granted"
+      greetings: "Hey %{user_name},"
+      master: "Master"
+      team: "Team"
+      invitation_text: "You've been made a %{master_or_team} Admin of your subscription on Marketo for Sales by"
+      an_administrator: "An administrator"
+      you_are_able_to: "As a %{master_or_team} Admin, you are able to:"
+      abilities_for_master: "Invite brand new users to your team\n Delete users from your organization\n Grant Master Admin to other users\n Grant Team Admin to other users\n Create new teams\n Edit users and their associated teams"
+      abilities_for_team: "Invite existing users to your team\n Remove users from your team\n Grant Team Admin to another user on your team"
+      log_in: "Log In"
+      get_started_text: "Log in to get started!"
+      gratitude: "Thanks,\nYour Marketo Team"
+
+
+    new_teams:
+      subject: "Marketo for Sales: Added to Team"
+      header: "Join Team"
+      greeting: "Hi %{user_name},"
+      invitation_text: "You've been invited to join %{new_team} on your company's Marketo for Sales account by %{admin_name_html}. They want you to join their %{team} so you can share templates, campaigns, and groups. Click %{button} below to get started!"
+      new_team: "a new team"
+      new_teams: "new teams"
+      team: "team"
+      teams: "teams"
+      join_team: "Join Team"
+      join_teams: "Join Teams"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+    new_teams_text:
+      header: "Join Team"
+      greeting: "Hi %{user_name},"
+      invitation_text: "You've been invited to join %{new_team} on your company's Marketo for Sales account by %{admin_name}. They want you to join their %{team} so you can share templates, campaigns, and groups. Click %{button} below to get started!"
+      new_team: "a new team"
+      new_teams: "new teams"
+      team: "team"
+      teams: "teams"
+      join_team: "Join Team"
+      join_teams: "Join Teams"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+    seats_added_admin:
+      header: "You’ve purchased additional seats for your Marketo for Sales Account"
+      subject: "You’ve purchased additional seats for your Marketo for Sales Account"
+      greeting: "Hi %{user_name},"
+      begining_text: "We are confirming your recent order for additional seats."
+      ordered_by: "<b>Ordered by</b>: %{name} (%{email})"
+      order_date: "<b>Date</b>: %{order_date}"
+      number_of_seats: "<b>Number of seats added</b>: %{seats}"
+      closing_text: "You will automatically be charged for the additional users"
+      closing_text_enterprise: "You will receive an invoice for payment shortly."
+
+  spam_management_mailer:
+    subscription_suspension_notice:
+      subject: "Marketo for Sales: Account Deactivated"
+      header: "Account Deactivated"
+      text: "<p>Your Marketo Sales account has been deactivated. If this is incorrect, please reach out to your account manager or open a ticket with support.</p>"
+      button_text: "Contact Support"
+      gratitude: "Thanks, Your Adobe Marketo Engage Team"
+
+
+  authentication_mailer:
+    password_expires_for:
+      subject: "Marketo for Sales: Password Expiring %{days}"
+      tomorrow: "tomorrow"
+      in_n_days: "in %{days} days"
+      header: "Your Password Is Expiring"
+      greeting: "Hi %{user_name},"
+      button_text: "Reset Password"
+      expire_text_first: "Password to your Marketo for Sales account expires %{in_n_days}. Please change your password prior to the expiration."
+      expire_text_third: "To get started click the button below or use the direct link listed."
+      gratitude: "Thanks,<br/>Your Marketo Team"
+    authorization_error_email:
+      subject: "Marketo for Sales has lost connection to your %{auth_name} account"
+      auth_error_text_first: "It seems that connection lost with your %{auth_name} account! Please use the link below to reconnect %{auth_name}:"
+      auth_error_text_second: "(NOTE: If you were using Gmail as your delivery channel, please go to MSC Settings and reset it as your delivery channel)"
+      header: "Marketo for Sales has lost connection"
+      button_text: "Reconnect %{auth_name}"
+      greeting: "Hi %{user_name},"
+      gratitude: "Thanks,<br/>Your Marketo Team"
+
+  export_mailer:
+    export_people:
+      subject: "Marketo for Sales: Export group \"%{group_name}\""
+      header: "Export Complete"
+      greeting: "Hello %{user_name},"
+      text_first_part: "Attached is your requested export of \"%{group_name}\" people group."
+      gratitude: "Thanks,<br/>Your Marketo Team"
+
+  email_settings_mailer:
+    email_verification:
+      subject: "Please Verify Email Address"
+      header: "Verify Email Address"
+      greeting: "Hello %{user_name},"
+      text: "Please click on the link below to verify your email address."
+      gratitude: "Thanks,<br/>Your Marketo Team"
+    email_verification_smtp:
+      subject: "Please Verify Email & Set Up SMTP Server"
+      header: "Verify Email & Set Up SMTP Server"
+      greeting: "Hello %{user_name},"
+      text: "Please click on the link below to verify your email address and set up your SMTP Server."
+      gratitude: "Thanks,<br/>Your Marketo Team"
+
+  mail_layout:
+    mail_layout_new:
+      your_marketo_team: "Your Marketo Team"
+      gratitude: "Thanks,<br/>Your Marketo Team"

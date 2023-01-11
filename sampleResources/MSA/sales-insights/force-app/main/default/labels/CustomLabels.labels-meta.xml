@@ -1,0 +1,4393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+  <labels>
+    <fullName>AND</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>AND</shortDescription>
+    <value>AND</value>
+  </labels>
+  <labels>
+    <fullName>API_Secret_Key</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>API Secret Key</shortDescription>
+    <value>API Secret Key</value>
+  </labels>
+  <labels>
+    <fullName>API_URL</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>API URL</shortDescription>
+    <value>API URL</value>
+  </labels>
+  <labels>
+    <fullName>API_User_Id</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>API User Id</shortDescription>
+    <value>API User Id</value>
+  </labels>
+  <labels>
+    <fullName>Apply_Changes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Apply Changes</shortDescription>
+    <value>Apply Changes</value>
+  </labels>
+  <labels>
+    <fullName>A_test_email_has_been_sent_to_X</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>A test email has been sent to</shortDescription>
+    <value>A test email has been sent to {0}</value>
+  </labels>
+  <labels>
+    <fullName>Access_the_Marketo_Opportunity_Influence_Analyzer</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Access the Marketo Opportunity Influence Analyzer</shortDescription>
+    <value>Access the Marketo Opportunity Influence Analyzer</value>
+  </labels>
+  <labels>
+    <fullName>Account</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Account</shortDescription>
+    <value>Account</value>
+  </labels>
+  <labels>
+    <fullName>Account_Name_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Account Name Header</shortDescription>
+    <value>Account</value>
+  </labels>
+  <labels>
+    <fullName>Actions</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Actions</shortDescription>
+    <value>Actions</value>
+  </labels>
+  <labels>
+    <fullName>Add</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Add</shortDescription>
+    <value>Add</value>
+  </labels>
+  <labels>
+    <fullName>Add_any_leads_or_contacts_to_your_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Add any leads/contacts to your Watch List.</shortDescription>
+    <value>Add any leads/contacts to your Watch List.</value>
+  </labels>
+  <labels>
+    <fullName>Add_to_Marketo_Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Add to Marketo Campaign</shortDescription>
+    <value>Add to Marketo Campaign</value>
+  </labels>
+  <labels>
+    <fullName>Add_To_Marketo_Campaign_Deprecated</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Add To Marketo Campaign Deprecated</shortDescription>
+    <value>This page has been deprecated. Please use the new Add to Marketo Campaign button. Click {0} to learn more</value>
+  </labels>
+  <labels>
+    <fullName>Add_To_Marketo_Campaign_Deprecated_Here_For_Click</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Word here for click link</shortDescription>
+    <value>here</value>
+  </labels>
+  <labels>
+    <fullName>Add_to_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Add to Watch List</shortDescription>
+    <value>Add to Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Added_to_watch_list</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>added to watch list</shortDescription>
+    <value>added to watch list</value>
+  </labels>
+  <labels>
+    <fullName>All_Tests_Passed_Your_Marketo_Sales_Insight_is_properly_configured</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>All Tests Passed: Your Marketo Sales Insight is properly configured!</shortDescription>
+    <value>All Tests Passed: Your Marketo Sales Insight is properly configured!</value>
+  </labels>
+  <labels>
+    <fullName>Always_use_HTTPS_for_the_API_URL_and_your_remote_site_settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Always use HTTPS for the API URL and your remote site settings.</shortDescription>
+    <value>Always use HTTPS for the API URL and your remote site settings.</value>
+  </labels>
+  <labels>
+    <fullName>Anon_Web_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Anon Web Activity</shortDescription>
+    <value>Anon Web Activity</value>
+  </labels>
+  <labels>
+    <fullName>Anonymous_Web_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Anonymous Web Activity</shortDescription>
+    <value>Anonymous Web Activity</value>
+  </labels>
+  <labels>
+    <fullName>Application_Title</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Application title</shortDescription>
+    <value>Marketo Sales Insight</value>
+  </labels>
+  <labels>
+    <fullName>Sales_Insight</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sales_Insight</shortDescription>
+    <value>Sales Insight</value>
+  </labels>
+  <labels>
+    <fullName>Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo</shortDescription>
+    <value>Marketo</value>
+  </labels>
+  <labels>
+    <fullName>Authentication_failed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Authentication failed</shortDescription>
+    <value>Authentication failed</value>
+  </labels>
+  <labels>
+    <fullName>Authentication_failed_Check_your_Marketo_Sales_Insight_config</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Authentication failed. Check your Marketo Sales Insight config</shortDescription>
+    <value>Authentication failed. Check your Marketo Sales Insight config</value>
+  </labels>
+  <labels>
+    <fullName>Available_Contact_Fields</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Available Contact Fields</shortDescription>
+    <value>Available Contact Fields</value>
+  </labels>
+  <labels>
+    <fullName>Available_Lead_Fields</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Available Lead Fields</shortDescription>
+    <value>Available Lead Fields</value>
+  </labels>
+  <labels>
+    <fullName>Back</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Back</shortDescription>
+    <value>Back</value>
+  </labels>
+  <labels>
+    <fullName>Best_Bet</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Best Bet</shortDescription>
+    <value>Best Bets</value>
+  </labels>
+  <labels>
+    <fullName>Best_Bets</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Best Bets</shortDescription>
+    <value>Best Bets</value>
+  </labels>
+  <labels>
+    <fullName>Best_Bets_Debug_Mode</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Best Bets Debug Mode</shortDescription>
+    <value>Best Bets Debug Mode</value>
+  </labels>
+  <labels>
+    <fullName>Best_Bets_View_Name_cannot_be_empty</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Best Bets View Name cannot be empty</shortDescription>
+    <value>Best Bets View Name cannot be empty</value>
+  </labels>
+  <labels>
+    <fullName>Best_Quality</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Best Quality</shortDescription>
+    <value>Best Quality</value>
+  </labels>
+  <labels>
+    <fullName>Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Campaign</shortDescription>
+    <value>Campaign</value>
+  </labels>
+  <labels>
+    <fullName>Campaign_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Campaign Name</shortDescription>
+    <value>Campaign Name</value>
+  </labels>
+  <labels>
+    <fullName>Cancel</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Cancel</shortDescription>
+    <value>Cancel</value>
+  </labels>
+  <labels>
+    <fullName>Cancel_Fast</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Cancel Fast</shortDescription>
+    <value>Cancel Fast</value>
+  </labels>
+  <labels>
+    <fullName>Cause</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Cause</shortDescription>
+    <value>Cause</value>
+  </labels>
+  <labels>
+    <fullName>Change</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Change</shortDescription>
+    <value>Change</value>
+  </labels>
+  <labels>
+    <fullName>Changed_ScoreName_from_oldValue_to_newValue</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Changed ScoreName from oldValue to newValue</shortDescription>
+    <value>Changed {0} from &quot;{1}&quot; to &quot;{2}&quot;</value>
+  </labels>
+  <labels>
+    <fullName>Choose_Action</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose Action...</shortDescription>
+    <value>Choose Action...</value>
+  </labels>
+  <labels>
+    <fullName>Choose_Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose Campaign</shortDescription>
+    <value>Choose Campaign</value>
+  </labels>
+  <labels>
+    <fullName>Choose_Territory</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose Territory</shortDescription>
+    <value>Choose Territory</value>
+  </labels>
+  <labels>
+    <fullName>Choose_a_campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose a campaign</shortDescription>
+    <value>Choose a campaign</value>
+  </labels>
+  <labels>
+    <fullName>Choose_your_territory</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose your territory</shortDescription>
+    <value>Choose your territory</value>
+  </labels>
+  <labels>
+    <fullName>Choose_your_territory_to_view_anonymous_web_activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Choose your territory to view anonymous web activity</shortDescription>
+    <value>Choose your territory to view anonymous web activity</value>
+  </labels>
+  <labels>
+    <fullName>Click_to_sort</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Click to sort</shortDescription>
+    <value>Click to sort</value>
+  </labels>
+  <labels>
+    <fullName>Clicked</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Clicked</shortDescription>
+    <value>Clicked</value>
+  </labels>
+  <labels>
+    <fullName>Clicked_link_in_email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Clicked link in email</shortDescription>
+    <value>Clicked link in email</value>
+  </labels>
+  <labels>
+    <fullName>Close</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Close</shortDescription>
+    <value>Close</value>
+  </labels>
+  <labels>
+    <fullName>Company</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Company</shortDescription>
+    <value>Company</value>
+  </labels>
+  <labels>
+    <fullName>Config_page_when_contacting_support</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Sales Insight Config page when contacting support.</shortDescription>
+    <value>and your Marketo Sales Insight Config page when contacting support.</value>
+  </labels>
+  <labels>
+    <fullName>Configuration_error_Check_your_Marketo_Sales_Insight_config</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Configuration error. Check your Marketo Sales Insight config</shortDescription>
+    <value>Configuration error. Check your Marketo Sales Insight config</value>
+  </labels>
+  <labels>
+    <fullName>Configure_your_Marketo_API_settings_and_Sales_Insight_options</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Configure your Marketo API settings and Sales Insight options</shortDescription>
+    <value>Configure your Marketo API settings and Sales Insight options</value>
+  </labels>
+  <labels>
+    <fullName>Contact_Status_Field</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Contact Status Field</shortDescription>
+    <value>Contact Status Field</value>
+  </labels>
+  <labels>
+    <fullName>Contact_does_not_have_an_email_address</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Contact does not have an email address</shortDescription>
+    <value>{0} does not have an email address</value>
+  </labels>
+  <labels>
+    <fullName>Create_New_View</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Create New View</shortDescription>
+    <value>Create New View</value>
+  </labels>
+  <labels>
+    <fullName>Custom_Views</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Custom Views</shortDescription>
+    <value>Custom Views</value>
+  </labels>
+  <labels>
+    <fullName>Date</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Date</shortDescription>
+    <value>Date</value>
+  </labels>
+  <labels>
+    <fullName>Default_Hide</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Default Hide</shortDescription>
+    <value>Default Hide</value>
+  </labels>
+  <labels>
+    <fullName>Delete</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Delete</shortDescription>
+    <value>Delete</value>
+  </labels>
+  <labels>
+    <fullName>Delivered_by_Marketo_campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Delivered by Marketo campaign</shortDescription>
+    <value>Delivered by Marketo campaign</value>
+  </labels>
+  <labels>
+    <fullName>Description</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Description</shortDescription>
+    <value>Description</value>
+  </labels>
+  <labels>
+    <fullName>Diagnostics_Test_Failed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Diagnostics Test Failed!</shortDescription>
+    <value>Diagnostics Test Failed!</value>
+  </labels>
+  <labels>
+    <fullName>Diagnostics_Test_Passed_Your_Sales_Insight_installation_is_properly_configured</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Diagnostics Test Passed: Your Sales Insight installation is properly configured!</shortDescription>
+    <value>Diagnostics Test Passed: Your Sales Insight installation is properly configured!</value>
+  </labels>
+  <labels>
+    <fullName>Did_you_add_a_remote_site_for_the_Marketo_API</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Did you add a remote site for the Marketo API?</shortDescription>
+    <value>Did you add a remote site for the Marketo API? (SalesForce: Setup-&gt;Security-&gt;Remote site settings)</value>
+  </labels>
+  <labels>
+    <fullName>Did_you_click_the_Enable_Marketo_API_checkbox</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Did you click the &quot;Enable Marketo API&quot; checkbox?</shortDescription>
+    <value>Did you click the &quot;Enable Marketo API&quot; checkbox?</value>
+  </labels>
+  <labels>
+    <fullName>Did_you_deploy_the_package</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Did you deploy the package?</shortDescription>
+    <value>Did you deploy the package? (SalesForce: Setup -&gt; View Installed Packages -&gt; Marketo Sales Insight -&gt; Deploy button</value>
+  </labels>
+  <labels>
+    <fullName>Do_your_configuration_settings_match_those_in_Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Do your configuration settings match those in Marketo?</shortDescription>
+    <value>Do your configuration settings match those in Marketo? (Marketo: Admin -&gt; Sales Insight)</value>
+  </labels>
+  <labels>
+    <fullName>Dont_show_again</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Don&#39;t show again</shortDescription>
+    <value>Don&#39;t show again</value>
+  </labels>
+  <labels>
+    <fullName>Edit</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Edit</shortDescription>
+    <value>Edit</value>
+  </labels>
+  <labels>
+    <fullName>Edit_View</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Edit_View</shortDescription>
+    <value>Edit View</value>
+  </labels>
+  <labels>
+    <fullName>Edit_the_view</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Edit the view</shortDescription>
+    <value>Edit the view</value>
+  </labels>
+  <labels>
+    <fullName>Either_contacts_or_leads_should_be_selected_as_view_content</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Either contacts or leads should be selected as view content</shortDescription>
+    <value>Either contacts or leads should be selected as view content</value>
+  </labels>
+  <labels>
+    <fullName>Email</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Email</shortDescription>
+    <value>Email</value>
+  </labels>
+  <labels>
+    <fullName>Email_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Activity</shortDescription>
+    <value>Email Activity</value>
+  </labels>
+  <labels>
+    <fullName>Email_Subscription</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Subscription</shortDescription>
+    <value>Email Subscription</value>
+  </labels>
+  <labels>
+    <fullName>Email_Tab</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Tab</shortDescription>
+    <value>Email</value>
+  </labels>  
+  <labels>
+    <fullName>Call_Tab</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Call Tab</shortDescription>
+    <value>Call</value>
+  </labels>
+  <labels>
+    <fullName>Email_Template_Folders</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Template Folders</shortDescription>
+    <value>Email Template Folders</value>
+  </labels>
+  <labels>
+    <fullName>Email_templates_are_not_currently_available</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email templates are not currently available</shortDescription>
+    <value>Email templates are not currently available</value>
+  </labels>
+  <labels>
+    <fullName>Enable_Marketo_API</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Enable Marketo API</shortDescription>
+    <value>Enable Marketo API</value>
+  </labels>
+  <labels>
+    <fullName>Disable_Marketo_Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Disable add to Marketo campaign</shortDescription>
+    <value>Disable add to Marketo campaign</value>
+  </labels>
+  <labels>
+    <fullName>Disable_Marketo_Email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Disable send Marketo email</shortDescription>
+    <value>Disable send Marketo email</value>
+  </labels>
+  <labels>
+    <fullName>Error_Account_Analyzer_Permissions</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Error Account Analyzer Permissions</shortDescription>
+    <value>This report requires access to all Contacts within this Opportunity. Please contact your administrator to request permission.</value>
+  </labels>
+  <labels>
+    <fullName>Field</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Field</shortDescription>
+    <value>Field</value>
+  </labels>
+  <labels>
+    <fullName>Field_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Field Name</shortDescription>
+    <value>Field Name</value>
+  </labels>
+  <labels>
+    <fullName>Field_Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Field Type</shortDescription>
+    <value>Field Type</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Contains</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>contains</shortDescription>
+    <value>contains</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Does_Not_Contain</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>does not contain</shortDescription>
+    <value>does not contain</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Equals</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>equals</shortDescription>
+    <value>equals</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Greater_Than</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>greater than</shortDescription>
+    <value>greater than</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Greater_or_Equal</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>greater or equal</shortDescription>
+    <value>greater or equal</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Is</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>is</shortDescription>
+    <value>is</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Less_Or_Equal</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>less or equal</shortDescription>
+    <value>less or equal</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Less_Than</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>less than</shortDescription>
+    <value>less than</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Not_Equals_To</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>not equal to</shortDescription>
+    <value>not equal to</value>
+  </labels>
+  <labels>
+    <fullName>Filter_Item_Starts_With</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>starts with</shortDescription>
+    <value>starts with</value>
+  </labels>
+  <labels>
+    <fullName>Filter_by_Owner</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Filter by Owner</shortDescription>
+    <value>Filter by Owner</value>
+  </labels>
+  <labels>
+    <fullName>Flames</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Flames</shortDescription>
+    <value>Flames</value>
+  </labels>
+  <labels>
+    <fullName>Give_Feedback</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Give Feedback</shortDescription>
+    <value>Give Feedback</value>
+  </labels>
+  <labels>
+    <fullName>Go</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Go</shortDescription>
+    <value>Go</value>
+  </labels>
+  <labels>
+    <fullName>Go_Back</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Go Back</shortDescription>
+    <value>Go Back</value>
+  </labels>
+  <labels>
+    <fullName>Go_to_list</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Go to list</shortDescription>
+    <value>Go to list</value>
+  </labels>
+  <labels>
+    <fullName>Good_Quality</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Good Quality</shortDescription>
+    <value>Good Quality</value>
+  </labels>
+  <labels>
+    <fullName>Grouped_Web_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Grouped Web Activity</shortDescription>
+    <value>Grouped Web Activity</value>
+  </labels>
+  <labels>
+    <fullName>Help</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Help</shortDescription>
+    <value>Help</value>
+  </labels>
+  <labels>
+    <fullName>Help_for_this_Page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Help for this Page</shortDescription>
+    <value>Help for this Page</value>
+  </labels>
+  <labels>
+    <fullName>Help_for_this_Page_New_Window</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Help for this Page (New Window)</shortDescription>
+    <value>Help for this Page (New Window)</value>
+  </labels>
+  <labels>
+    <fullName>Hide_Action</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Hide Action</shortDescription>
+    <value>Hide</value>
+  </labels>
+  <labels>
+    <fullName>Hide_Best_Bet_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Hide Best Bet for</shortDescription>
+    <value>Hide Best Bet for</value>
+  </labels>
+  <labels>
+    <fullName>Hot</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Hot</shortDescription>
+    <value>Hot</value>
+  </labels>
+  <labels>
+    <fullName>In_Past_x_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>in past x days</shortDescription>
+    <value>in past {0} days</value>
+  </labels>
+  <labels>
+    <fullName>In_past_two_weeks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Interesting Moments 2 Weeks Message</shortDescription>
+    <value>in past two weeks</value>
+  </labels>
+  <labels>
+    <fullName>Info</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Info</shortDescription>
+    <value>Info</value>
+  </labels>
+  <labels>
+    <fullName>Information_synchronizing_with_Marketo_try_again_in_a_few_minutes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Information synchronizing with Marketo. Try again in a few minutes</shortDescription>
+    <value>Information synchronizing with Marketo. Try again in a few minutes</value>
+  </labels>
+  <labels>
+    <fullName>Information_took_too_long_to_retrieve_try_again_in_a_few_minutes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Server timed out. Try again in a few minutes</shortDescription>
+    <value>Server timed out. Try again in a few minutes</value>
+  </labels>
+  <labels>
+    <fullName>Interesting_Moment_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Interesting Moment Header</shortDescription>
+    <value>Interesting Moment</value>
+  </labels>
+  <labels>
+    <fullName>Interesting_Moments</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Interesting Moments</shortDescription>
+    <value>Interesting Moments</value>
+  </labels>
+  <labels>
+    <fullName>Interesting_Moments_Tab</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Interesting Moments Tab</shortDescription>
+    <value>Interesting Moments</value>
+  </labels>
+  <labels>
+    <fullName>Invalid_lookup_value</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Invalid lookup value</shortDescription>
+    <value>Invalid lookup value</value>
+  </labels>
+  <labels>
+    <fullName>Invalid_template_id</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Invalid template id</shortDescription>
+    <value>Invalid template id</value>
+  </labels>
+  <labels>
+    <fullName>Invalid_view</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Invalid view</shortDescription>
+    <value>Invalid view</value>
+  </labels>
+  <labels>
+    <fullName>Last_Interesting_Moment_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Last Interesting Moment Header</shortDescription>
+    <value>Last Interesting Moment</value>
+  </labels>
+  <labels>
+    <fullName>Last_Visit</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Last Visit</shortDescription>
+    <value>Last Visit</value>
+  </labels>
+  <labels>
+    <fullName>Lead_Feed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Lead Feed</shortDescription>
+    <value>Lead Feed</value>
+  </labels>
+  <labels>
+    <fullName>Lead_Feed_Empty_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Interesting Moments 2 Weeks Message</shortDescription>
+    <value>No interesting moments br() in past two weeks</value>
+  </labels>
+  <labels>
+    <fullName>Lead_Feed_Subscribe</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Subscribe to Lead Feed</shortDescription>
+    <value>Subscribe to Lead Feed</value>
+  </labels>
+  <labels>
+    <fullName>Lead_Name_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Lead Name Header</shortDescription>
+    <value>Lead</value>
+  </labels>
+  <labels>
+    <fullName>Learn_how</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Learn how</shortDescription>
+    <value>Learn how</value>
+  </labels>
+  <labels>
+    <fullName>Live_Feed_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Live Feed Settings</shortDescription>
+    <value>Live Feed Settings</value>
+  </labels>
+  <labels>
+    <fullName>Live_Feed_All</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show Live Feed and Lead Feed (default)</shortDescription>
+    <value>Show Live Feed and Lead Feed (default)</value>
+  </labels>
+  <labels>
+    <fullName>Live_Feed_Only</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Only Show Live Feed</shortDescription>
+    <value>Only Show Live Feed</value>
+  </labels>
+  <labels>
+    <fullName>Lead_Feed_Only</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Only Show Lead Feed</shortDescription>
+    <value>Only Show Lead Feed</value>
+  </labels>
+  <labels>
+    <fullName>Loading_Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Loading Marketo</shortDescription>
+    <value>Loading Marketo...</value>
+  </labels>
+  <labels>
+    <fullName>Loading_Marketo_Sales_Insight</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Loading Marketo Sales Insight...</shortDescription>
+    <value>Loading Marketo Sales Insight...</value>
+  </labels>
+  <labels>
+    <fullName>Configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Configuration</shortDescription>
+    <value>Configuration</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_REST_API_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo REST API Settings</shortDescription>
+    <value>Marketo REST API Settings</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_REST_API_Client_Id</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo REST API Client Id</shortDescription>
+    <value>Marketo REST API Client Id</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_REST_API_Client_Secret</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo REST API Client Secret</shortDescription>
+    <value>Marketo REST API Client Secret</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_REST_API_URL</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo REST API URL</shortDescription>
+    <value>Marketo REST API URL</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_API_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo API Settings</shortDescription>
+    <value>Marketo API Settings</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Host</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Host</shortDescription>
+    <value>Marketo Host</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Logo_16</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>16x16 Marketo logo</shortDescription>
+    <value>https://app.marketo.com/images/icons16/marketo16.png</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Opportunity_Analysis</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Opportunity Analysis</shortDescription>
+    <value>Marketo Opportunity Analysis</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Sales_Insight_Config</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Sales Insight Config</shortDescription>
+    <value>Marketo Sales Insight Config</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Sales_Insight_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Sales Insight Settings</shortDescription>
+    <value>Marketo Sales Insight Settings</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Sales_Insight_is_not_configured</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Sales Insight is not configured</shortDescription>
+    <value>Marketo Sales Insight is not configured</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Sales_Insight_is_not_enabled</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Sales Insight is not enabled</shortDescription>
+    <value>Marketo Sales Insight is not enabled</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketo Settings</shortDescription>
+    <value>Marketo Settings</value>
+  </labels>
+  <labels>
+    <fullName>Max_Pages</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Max Pages</shortDescription>
+    <value>Max Pages</value>
+  </labels>
+  <labels>
+    <fullName>Maximum_Pages</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Maximum Pages</shortDescription>
+    <value>Maximum Pages</value>
+  </labels>
+  <labels>
+    <fullName>Maximum_Pages_cannot_be_greater_than_20</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Maximum Pages cannot be greater than 20</shortDescription>
+    <value>Maximum Pages cannot be greater than 20</value>
+  </labels>
+  <labels>
+    <fullName>Maximum_pages_reached</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Maximum pages reached</shortDescription>
+    <value>Maximum pages reached</value>
+  </labels>
+  <labels>
+    <fullName>Medium_Quality</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Medium Quality</shortDescription>
+    <value>Medium Quality</value>
+  </labels>
+  <labels>
+    <fullName>Migrating_existing_configuration_please_wait</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Migrating existing configuration, please wait...</shortDescription>
+    <value>Migrating existing configuration, please wait...</value>
+  </labels>
+  <labels>
+    <fullName>Milestone</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Milestone</shortDescription>
+    <value>Milestone</value>
+  </labels>
+  <labels>
+    <fullName>Mobile_Phone_Options</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Mobile Phone Options</shortDescription>
+    <value>Mobile Phone Options</value>
+  </labels>
+  <labels>
+    <fullName>My_Best_Bets</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Best Bets</shortDescription>
+    <value>My Best Bets</value>
+  </labels>
+  <labels>
+    <fullName>My_Best_Bets_Hidden</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Best Bets Hidden</shortDescription>
+    <value>My Best Bets (Hidden)</value>
+  </labels>
+  <labels>
+    <fullName>My_Email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Email</shortDescription>
+    <value>My Email</value>
+  </labels>
+  <labels>
+    <fullName>My_Team_Best_Bets</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Team&#39;s Best Bets</shortDescription>
+    <value>My Team&#39;s Best Bets</value>
+  </labels>
+  <labels>
+    <fullName>My_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Watch List</shortDescription>
+    <value>My Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Name</shortDescription>
+    <value>Name</value>
+  </labels>
+  <labels>
+    <fullName>Next_Page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Next Page</shortDescription>
+    <value>Next Page</value>
+  </labels>
+  <labels>
+    <fullName>No_Interesting_Moments</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Interesting Moments 2 Weeks Message</shortDescription>
+    <value>No interesting moments</value>
+  </labels>
+  <labels>
+    <fullName>No_Interesting_Moments_for_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Interesting Moments for Message</shortDescription>
+    <value>No interesting moments for</value>
+  </labels>
+  <labels>
+    <fullName>No_Template</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Template</shortDescription>
+    <value>No Template</value>
+  </labels>
+  <labels>
+    <fullName>No_anonymous_web_visitors_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No anonymous web visitors for</shortDescription>
+    <value>No anonymous web visitors for</value>
+  </labels>
+  <labels>
+    <fullName>No_best_bets_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No best bets for</shortDescription>
+    <value>No best bets for</value>
+  </labels>
+  <labels>
+    <fullName>No_hidden_best_bets_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No hidden best bets for</shortDescription>
+    <value>No hidden best bets for</value>
+  </labels>
+  <labels>
+    <fullName>No_best_bets_for_team</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No best bets for team</shortDescription>
+    <value>No best bets for {0} team</value>
+  </labels>
+  <labels>
+    <fullName>No_email_activity_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No email activity for</shortDescription>
+    <value>No email activity for</value>
+  </labels>
+  <labels>
+    <fullName>No_call_activity_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No call activity for</shortDescription>
+    <value>No call activity for</value>
+  </labels>
+  <labels>
+    <fullName>No_leads_added_to_watch_list</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No leads added to watch list</shortDescription>
+    <value>No leads added to watch list</value>
+  </labels>
+  <labels>
+    <fullName>No_more_than_1000_leads_can_be_added</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No more than 1,000 leads can be added</shortDescription>
+    <value>No more than 1,000 leads can be added</value>
+  </labels>
+  <labels>
+    <fullName>No_scores_for_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No scores for</shortDescription>
+    <value>No scores for</value>
+  </labels>
+  <labels>
+    <fullName>No_web_activity_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No web activity for</shortDescription>
+    <value>No web activity for</value>
+  </labels>
+  <labels>
+    <fullName>Not_Found</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Not Found</shortDescription>
+    <value>Not Found</value>
+  </labels>
+  <labels>
+    <fullName>Notice</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Notice</shortDescription>
+    <value>Notice</value>
+  </labels>
+  <labels>
+    <fullName>One_or_more_recipients_are_synchronizing</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>One or more recipients are synchronizing with Marketo;</shortDescription>
+    <value>One or more recipients are synchronizing with Marketo;</value>
+  </labels>
+  <labels>
+    <fullName>One_or_more_recipients_has_a_missing_or_invalid_email_address</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>One or more recipients has a missing or invalid email address</shortDescription>
+    <value>One or more recipients has a missing or invalid email address</value>
+  </labels>
+  <labels>
+    <fullName>One_or_more_tokens_in_the_email_were_not_recognized</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>One or more tokens in the email were not recognized</shortDescription>
+    <value>Could not send email. One or more tokens in the email were not recognized. Confirm the tokens and try again.</value>
+  </labels>
+  <labels>
+    <fullName>Open_Live_Feed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Open Live Feed</shortDescription>
+    <value>Open Live Feed</value>
+  </labels>
+  <labels>
+    <fullName>Opened</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opened</shortDescription>
+    <value>Opened</value>
+  </labels>
+  <labels>
+    <fullName>Opened_at_least_once</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opened at least once</shortDescription>
+    <value>Opened at least once</value>
+  </labels>
+  <labels>
+    <fullName>Operator</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Operator</shortDescription>
+    <value>Operator</value>
+  </labels>
+  <labels>
+    <fullName>Opportunity_Influence_Analyzer</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opportunity Influence Analyzer</shortDescription>
+    <value>Opportunity Influence Analyzer</value>
+  </labels>
+  <labels>
+    <fullName>Opportunity_Stage_default</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opportunity Stage (default)</shortDescription>
+    <value>Opportunity Stage (default)</value>
+  </labels>
+  <labels>
+    <fullName>Option_Account</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>---- Account ----</shortDescription>
+    <value>---- Account ----</value>
+  </labels>
+  <labels>
+    <fullName>Option_All_Contacts</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>All Contacts</shortDescription>
+    <value>All Contacts</value>
+  </labels>
+  <labels>
+    <fullName>Option_All_Leads</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>All Leads</shortDescription>
+    <value>All Leads</value>
+  </labels>
+  <labels>
+    <fullName>Option_My_Contacts</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Contacts</shortDescription>
+    <value>My Contacts</value>
+  </labels>
+  <labels>
+    <fullName>Option_My_Leads</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Leads</shortDescription>
+    <value>My Leads</value>
+  </labels>
+  <labels>
+    <fullName>Option_My_Teams_Contacts</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Team&#39;s Contacts</shortDescription>
+    <value>My Team&#39;s Contacts</value>
+  </labels>
+  <labels>
+    <fullName>Option_My_Teams_Leads</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>My Team&#39;s Leads</shortDescription>
+    <value>My Team&#39;s Leads</value>
+  </labels>
+  <labels>
+    <fullName>Option_None</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>--None--</shortDescription>
+    <value>--None--</value>
+  </labels>
+  <labels>
+    <fullName>Owner_Name_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Owner Name Header</shortDescription>
+    <value>Owner Name</value>
+  </labels>
+  <labels>
+    <fullName>Page_Views</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Page Views</shortDescription>
+    <value>Page Views</value>
+  </labels>
+  <labels>
+    <fullName>Please_choose_at_least_one_contactType</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Please choose at least one contactType to add to the Marketo campaign.</shortDescription>
+    <value>Please choose at least one {0} to add to the Marketo campaign.</value>
+  </labels>
+  <labels>
+    <fullName>Please_choose_at_least_one_contact_account_opportunity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This Account/Opportunity has no contacts to add to the Marketo Campaign.</shortDescription>
+    <value>This {0} has no contacts to add to the Marketo Campaign.</value>
+  </labels>
+  <labels>
+    <fullName>Please_include_a_screenshot_of_this_page_when_contacting_support</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Please include a screenshot of this page when contacting support.</shortDescription>
+    <value>Please include a screenshot of this page when contacting support.</value>
+  </labels>
+  <labels>
+    <fullName>Please_include_screenshots_of_this_page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Please include screenshots of this page</shortDescription>
+    <value>Please include screenshots of this page</value>
+  </labels>
+  <labels>
+    <fullName>Previous_Page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Previous Page</shortDescription>
+    <value>Previous Page</value>
+  </labels>
+  <labels>
+    <fullName>Priority_Detail_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Priority_Header</shortDescription>
+    <value>Engagement</value>
+  </labels>
+  <labels>
+    <fullName>Priority_Score_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Priority Score Header</shortDescription>
+    <value>Engagement</value>
+  </labels>
+  <labels>
+    <fullName>Quick_Search</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Quick Search...</shortDescription>
+    <value>Quick Search...</value>
+  </labels>
+  <labels>
+    <fullName>RCA_Enabled</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>RCA Enabled</shortDescription>
+    <value>RCA Enabled</value>
+  </labels>
+  <labels>
+    <fullName>RSS_Feed_Enabled</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>RSS Feed Enabled</shortDescription>
+    <value>RSS Feed Enabled</value>
+  </labels>
+  <labels>
+    <fullName>Raw_Value</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Raw Value</shortDescription>
+    <value>Raw Value</value>
+  </labels>
+  <labels>
+    <fullName>Remove</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Remove</shortDescription>
+    <value>Remove</value>
+  </labels>
+  <labels>
+    <fullName>Remove_from_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Remove from Watch List</shortDescription>
+    <value>Remove from Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Requires_Marketo_RCA_subscription</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Requires Marketo RCA subscription</shortDescription>
+    <value>Requires Marketo RCA subscription</value>
+  </labels>
+  <labels>
+    <fullName>Research</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Research</shortDescription>
+    <value>Research</value>
+  </labels>
+  <labels>
+    <fullName>Reset_Configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Status Reset Configuration</shortDescription>
+    <value>Reset Configuration</value>
+  </labels>
+  <labels>
+    <fullName>Sales_Insight_Options</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sales Insight Options</shortDescription>
+    <value>Sales Insight Options</value>
+  </labels>
+  <labels>
+    <fullName>Save</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Save</shortDescription>
+    <value>Save</value>
+  </labels>
+  <labels>
+    <fullName>Save_Changes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Save Changes</shortDescription>
+    <value>Save Changes</value>
+  </labels>
+  <labels>
+    <fullName>Score_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Score Name</shortDescription>
+    <value>Score Name</value>
+  </labels>
+  <labels>
+    <fullName>Score_Tab</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Score Tab</shortDescription>
+    <value>Score</value>
+  </labels>
+  <labels>
+    <fullName>Scoring</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Scoring</shortDescription>
+    <value>Scoring</value>
+  </labels>
+  <labels>
+    <fullName>Scoring_Fields</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Scoring Fields</shortDescription>
+    <value>Scoring Fields</value>
+  </labels>
+  <labels>
+    <fullName>Search_Linked_In</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Search Linked In</shortDescription>
+    <value>Search Linked In</value>
+  </labels>
+  <labels>
+    <fullName>Search_or_Referrer</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Search / Referrer</shortDescription>
+    <value>Search / Referrer</value>
+  </labels>
+  <labels>
+    <fullName>Select_Option</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>-- Select --</shortDescription>
+    <value>-- Select --</value>
+  </labels>
+  <labels>
+    <fullName>Selected</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Selected</shortDescription>
+    <value>Selected</value>
+  </labels>
+  <labels>
+    <fullName>Send_Email_To</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Send Email To</shortDescription>
+    <value>Send Email To</value>
+  </labels>
+  <labels>
+    <fullName>Send_Marketo_Email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Send Marketo Email</shortDescription>
+    <value>Send Marketo Email</value>
+  </labels>
+  <labels>
+    <fullName>Send_Marketo_Email_success_Campaign_ID</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Send Marketo Email success - Campaign ID</shortDescription>
+    <value>Send Marketo Email success - Campaign ID</value>
+  </labels>
+  <labels>
+    <fullName>Show_Only</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show Only</shortDescription>
+    <value>Show Only</value>
+  </labels>
+  <labels>
+    <fullName>Show_records_with_negative_score</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show records with negative score</shortDescription>
+    <value>Show records with negative score</value>
+  </labels>
+  <labels>
+    <fullName>Skip_Welcome_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Skip welcome message</shortDescription>
+    <value>Skip welcome message</value>
+  </labels>
+  <labels>
+    <fullName>Stars</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Stars</shortDescription>
+    <value>Stars</value>
+  </labels>
+  <labels>
+    <fullName>Status_Header</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Status Header</shortDescription>
+    <value>Status Header</value>
+  </labels>
+  <labels>
+    <fullName>Status_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Status Message</shortDescription>
+    <value>Status</value>
+  </labels>
+  <labels>
+    <fullName>Step_1_Enter_View_Information</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Step 1. Enter View Information</shortDescription>
+    <value>Step 1. Enter View Information</value>
+  </labels>
+  <labels>
+    <fullName>Step_2_Filter_by_Additional_Fields</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Step 2. Filter by Additional Fields (Optional)</shortDescription>
+    <value>Step 2. Filter by Additional Fields (Optional)</value>
+  </labels>
+  <labels>
+    <fullName>Step_4_Select_Additional_Fields_to_Display</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Step 4. Select Additional Fields to Display (Optional)</shortDescription>
+    <value>Step 4. Select Additional Fields to Display (Optional)</value>
+  </labels>
+  <labels>
+    <fullName>Stream</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Stream</shortDescription>
+    <value>Stream</value>
+  </labels>
+  <labels>
+    <fullName>Subject</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Subject</shortDescription>
+    <value>Subject</value>
+  </labels>
+  <labels>
+    <fullName>Subscribe</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Subscribe</shortDescription>
+    <value>Subscribe</value>
+  </labels>
+  <labels>
+    <fullName>Subscribe_to_email_alerts_for_this_kind_of_Interesting_Moment</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Subscribe to email alerts for this kind of Interesting Moment</shortDescription>
+    <value>Subscribe to email alerts for this kind of Interesting Moment</value>
+  </labels>
+  <labels>
+    <fullName>Super_Hot</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Super Hot!</shortDescription>
+    <value>Super Hot!</value>
+  </labels>
+  <labels>
+    <fullName>Template</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Template</shortDescription>
+    <value>Template</value>
+  </labels>
+  <labels>
+    <fullName>Template_Description</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Template Description</shortDescription>
+    <value>Template Description</value>
+  </labels>
+  <labels>
+    <fullName>Test_Failed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Test Failed</shortDescription>
+    <value>Test Failed</value>
+  </labels>
+  <labels>
+    <fullName>That_email_template_does_not_exist</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>That email template does not exist; choose a different template</shortDescription>
+    <value>That email template does not exist; choose a different template</value>
+  </labels>
+  <labels>
+    <fullName>There_are_no_Marketo_campaigns_available</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There are no Marketo campaigns available</shortDescription>
+    <value>There are no Marketo campaigns available</value>
+  </labels>
+  <labels>
+    <fullName>There_are_no_valid_email_recipients</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There are no valid email recipients</shortDescription>
+    <value>There are no valid email recipients</value>
+  </labels>
+  <labels>
+    <fullName>There_was_a_problem_retrieving_this_information</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There was a problem retrieving information</shortDescription>
+    <value>There was a problem retrieving information</value>
+  </labels>
+  <labels>
+    <fullName>There_was_a_problem_retrieving_this_information_no_response_from_server</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There was a problem retrieving information (no response from server)</shortDescription>
+    <value>There was a problem retrieving information (no response from server)</value>
+  </labels>
+  <labels>
+    <fullName>This_custom_view_is_not_behaving</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This custom view is not behaving, please</shortDescription>
+    <value>This custom view is not behaving, please</value>
+  </labels>
+  <labels>
+    <fullName>This_lead_has_no_contact</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This lead has no contact</shortDescription>
+    <value>This lead has no contact</value>
+  </labels>
+  <labels>
+    <fullName>This_person_is_not_yet_ready_in_Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This person is not yet ready in Marketo. Please try again in a few minutes</shortDescription>
+    <value>This person is not yet ready in Marketo. Please try again in a few minutes</value>
+  </labels>
+  <labels>
+    <fullName>This_user_does_not_yet_exist_in_Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This user does not yet exist in Marketo</shortDescription>
+    <value>This user does not yet exist in Marketo</value>
+  </labels>
+  <labels>
+    <fullName>This_will_erase_all_configuration_settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This will erase all configuration settings</shortDescription>
+    <value>This will erase all configuration settings</value>
+  </labels>
+  <labels>
+    <fullName>Time_Frame</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Time Frame</shortDescription>
+    <value>Time Frame</value>
+  </labels>
+  <labels>
+    <fullName>Time_s</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>time(s)</shortDescription>
+    <value>time(s)</value>
+  </labels>
+  <labels>
+    <fullName>To_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>To</shortDescription>
+    <value>To</value>
+  </labels>
+  <labels>
+    <fullName>Today</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>today</shortDescription>
+    <value>today</value>
+  </labels>
+  <labels>
+    <fullName>Total</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Total</shortDescription>
+    <value>Total</value>
+  </labels>
+  <labels>
+    <fullName>Troubleshooting</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Troubleshooting</shortDescription>
+    <value>Troubleshooting</value>
+  </labels>
+  <labels>
+    <fullName>Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Type</shortDescription>
+    <value>Type</value>
+  </labels>
+  <labels>
+    <fullName>Unhide_Action</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Unhide Action</shortDescription>
+    <value>Unhide</value>
+  </labels>
+  <labels>
+    <fullName>Unhide_Best_Bet</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Unhide Best Bet Action</shortDescription>
+    <value>Unhide Best Bet</value>
+  </labels>
+  <labels>
+    <fullName>Value</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Value</shortDescription>
+    <value>Value</value>
+  </labels>
+  <labels>
+    <fullName>Value_Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Value Type</shortDescription>
+    <value>Value Type</value>
+  </labels>
+  <labels>
+    <fullName>View</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View</shortDescription>
+    <value>View</value>
+  </labels>
+  <labels>
+    <fullName>View_Account</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View Account</shortDescription>
+    <value>View Account</value>
+  </labels>
+  <labels>
+    <fullName>View_Contact</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View Contact</shortDescription>
+    <value>View Contact</value>
+  </labels>
+  <labels>
+    <fullName>View_Email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View email</shortDescription>
+    <value>View email</value>
+  </labels>
+  <labels>
+    <fullName>View_In_Marketo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View in Marketo</shortDescription>
+    <value>View in Marketo</value>
+  </labels>
+  <labels>
+    <fullName>View_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View Name</shortDescription>
+    <value>View Name</value>
+  </labels>
+  <labels>
+    <fullName>View_Properties</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View Properties</shortDescription>
+    <value>View Properties</value>
+  </labels>
+  <labels>
+    <fullName>View_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>View Watch List</shortDescription>
+    <value>View Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Warm</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Warm</shortDescription>
+    <value>Warm</value>
+  </labels>
+  <labels>
+    <fullName>Watch</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Watch</shortDescription>
+    <value>Watch</value>
+  </labels>
+  <labels>
+    <fullName>Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Watch List</shortDescription>
+    <value>Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Watched</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Watched</shortDescription>
+    <value>Watched</value>
+  </labels>
+  <labels>
+    <fullName>Web</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Web</shortDescription>
+    <value>Web</value>
+  </labels>
+  <labels>
+    <fullName>Web_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Web Activity</shortDescription>
+    <value>Web Activity</value>
+  </labels>
+  <labels>
+    <fullName>Web_Activity_Tab</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Web Activity Tab</shortDescription>
+    <value>Web Activity</value>
+  </labels>
+  <labels>
+    <fullName>Web_Page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Web Page</shortDescription>
+    <value>Web Page</value>
+  </labels>
+  <labels>
+    <fullName>What_Is_New</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>What&#39;s New</shortDescription>
+    <value>What&#39;s New</value>
+  </labels>
+  <labels>
+    <fullName>Yesterday</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Yesterday</shortDescription>
+    <value>Yesterday</value>
+  </labels>
+  <labels>
+    <fullName>You_do_not_have_sufficient_permissions_to_perform_this_action</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>You do not have sufficient permissions to perform this action</shortDescription>
+    <value>You do not have sufficient permissions to perform this action</value>
+  </labels>
+  <labels>
+    <fullName>You_do_not_have_sufficient_permissions_to_send_email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>You do not have sufficient permissions to send email</shortDescription>
+    <value>You do not have sufficient permissions to send email</value>
+  </labels>
+  <labels>
+    <fullName>Your_Email_Templates_are_now_organized_into_folders</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your Email Templates are now organized into folders</shortDescription>
+    <value>Your Email Templates are now organized into folders</value>
+  </labels>
+  <labels>
+    <fullName>Your_email_body_has_HTML_errors</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your email body has HTML errors</shortDescription>
+    <value>Your email body has HTML errors</value>
+  </labels>
+  <labels>
+    <fullName>Your_email_contains_an_invalid_token</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your email contains an invalid token</shortDescription>
+    <value>Your email contains an invalid token</value>
+  </labels>
+  <labels>
+    <fullName>Your_email_could_not_be_sent</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your email could not be sent</shortDescription>
+    <value>Your email could not be sent</value>
+  </labels>
+  <labels>
+    <fullName>Your_email_needs_a_body</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your email needs a body</shortDescription>
+    <value>Your email needs a body</value>
+  </labels>
+  <labels>
+    <fullName>Your_email_needs_a_subject</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Your email needs a subject</shortDescription>
+    <value>Your email needs a subject</value>
+  </labels>
+  <labels>
+    <fullName>currentSObjectType_not_found</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>currentSObjectType not found (id: sObjectId)</shortDescription>
+    <value>{0} not found (id: {1})</value>
+  </labels>
+  <labels>
+    <fullName>days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>days</shortDescription>
+    <value>days</value>
+  </labels>
+  <labels>
+    <fullName>days_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>days ago</shortDescription>
+    <value>days ago</value>
+  </labels>
+  <labels>
+    <fullName>edit_the_view_link</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>edit the view link</shortDescription>
+    <value>edit the view</value>
+  </labels>
+  <labels>
+    <fullName>for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>for</shortDescription>
+    <value>for</value>
+  </labels>
+  <labels>
+    <fullName>for_Not_Found</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>for Not Found</shortDescription>
+    <value>for Not Found</value>
+  </labels>
+  <labels>
+    <fullName>hours_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>hours ago</shortDescription>
+    <value>hours ago</value>
+  </labels>
+  <labels>
+    <fullName>is_no_longer_hidden</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>is no longer hidden</shortDescription>
+    <value>is no longer hidden</value>
+  </labels>
+  <labels>
+    <fullName>just_now</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>just now</shortDescription>
+    <value>just now</value>
+  </labels>
+  <labels>
+    <fullName>linebreak</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>linebreak</shortDescription>
+    <value>-
+-</value>
+  </labels>
+  <labels>
+    <fullName>minutes_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>1 minute ago</shortDescription>
+    <value>minutes ago ago</value>
+  </labels>
+  <labels>
+    <fullName>months_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>months ago</shortDescription>
+    <value>months ago</value>
+  </labels>
+  <labels>
+    <fullName>one_hour_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>1 hour ago</shortDescription>
+    <value>1 hour ago</value>
+  </labels>
+  <labels>
+    <fullName>one_minute_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>1 minute ago</shortDescription>
+    <value>1 minute ago</value>
+  </labels>
+  <labels>
+    <fullName>past_14_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>past 14 days</shortDescription>
+    <value>past 14 days</value>
+  </labels>
+  <labels>
+    <fullName>past_2_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>past 2 days</shortDescription>
+    <value>past 2 days</value>
+  </labels>
+  <labels>
+    <fullName>past_3_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>past 3 days</shortDescription>
+    <value>past 3 days</value>
+  </labels>
+  <labels>
+    <fullName>past_5_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>past 5 days</shortDescription>
+    <value>past 5 days</value>
+  </labels>
+  <labels>
+    <fullName>past_7_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>past 7 days</shortDescription>
+    <value>past 7 days</value>
+  </labels>
+  <labels>
+    <fullName>You_will_receive_a_test_email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>You will receive a test email</shortDescription>
+    <value>You will receive a test email with data populated for every lead or contact selected below. They will not receive a copy of the email. Editing this list will not affect your official recipient list.</value>
+  </labels>
+  <labels>
+    <fullName>Preview_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Preview List</shortDescription>
+    <value>Preview List</value>
+  </labels>
+  <labels>
+    <fullName>to_increase_pages_or</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>to increase pages or</shortDescription>
+    <value>to increase pages or</value>
+  </labels>
+  <labels>
+    <fullName>to_view_anonymous_web_activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>to view anonymous web activity</shortDescription>
+    <value>to view anonymous web activity</value>
+  </labels>
+  <labels>
+    <fullName>try_again_in_a_few_minutes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>try again in a few minutes</shortDescription>
+    <value>try again in a few minutes</value>
+  </labels>
+  <labels>
+    <fullName>undo</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>undo</shortDescription>
+    <value>undo</value>
+  </labels>
+  <labels>
+    <fullName>use_comma_separated_for_multiple_addresses</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>use comma separated for multiple addresses</shortDescription>
+    <value>use comma separated for multiple addresses</value>
+  </labels>
+  <labels>
+    <fullName>was_removed_from_your_watch_list</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>was removed from your watch list</shortDescription>
+    <value>was removed from your watch list</value>
+  </labels>
+  <labels>
+    <fullName>weeks_ago</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>weeks ago</shortDescription>
+    <value>weeks ago</value>
+  </labels>
+  <labels>
+    <fullName>will_be_hidden_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>will be hidden for</shortDescription>
+    <value>will be hidden for</value>
+  </labels>
+  <labels>
+    <fullName>Change_in_Score_over_Past_X_Days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Change in Score over Past X Days</shortDescription>
+    <value>Change in Score over Past {0} Days</value>
+  </labels>
+  <labels>
+    <fullName>There_has_been_no_activity_in_this_week</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There has been no activity in this week</shortDescription>
+    <value>There has been no activity in this week</value>
+  </labels>
+  <labels>
+    <fullName>Opens</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opens</shortDescription>
+    <value>Opens</value>
+  </labels>
+  <labels>
+    <fullName>Click_to_reveal_activity_stats</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Click to reveal activity stats</shortDescription>
+    <value>Click to reveal activity stats</value>
+  </labels>
+  <labels>
+    <fullName>Clicks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Clicks</shortDescription>
+    <value>Clicks</value>
+  </labels>
+  <labels>
+    <fullName>Replies</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Replies</shortDescription>
+    <value>Replies</value>
+  </labels>
+  <labels>
+    <fullName>Source</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Source</shortDescription>
+    <value>Source</value>
+  </labels>
+  <labels>
+    <fullName>Send_Test_Email_for_Preview</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Send Test Email for Preview</shortDescription>
+    <value>Send Test Email for Preview</value>
+  </labels>
+  <labels>
+    <fullName>Sent_by</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sent by</shortDescription>
+    <value>Sent by</value>
+  </labels>
+  <labels>
+    <fullName>Email_Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Campaign</shortDescription>
+    <value>Email Campaign</value>
+  </labels>
+  <labels>
+    <fullName>There_are_no_Upcoming_Events_For_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There are no Upcoming Events in the next X days</shortDescription>
+    <value>There are no Upcoming Events in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>There_are_no_Upcoming_Tasks_in_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There are no Upcoming Tasks in the next X days</shortDescription>
+    <value>There are no Upcoming Tasks in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>There_are_no_X_in_the_next_Y_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There are no X in the next Y days</shortDescription>
+    <value>There are no {0} in the next {1} days</value>
+  </labels>
+  <labels>
+    <fullName>There_has_been_no_activity_from_this_Type_in_the_last_X_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>There has been no activity from this TYPE in the last X days</shortDescription>
+    <value>There has been no activity from this {0} in the last {1} days</value>
+  </labels>
+  <labels>
+    <fullName>Activity_Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Activity Type</shortDescription>
+    <value>Activity Type</value>
+  </labels>
+  <labels>
+    <fullName>Time</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Time</shortDescription>
+    <value>Time</value>
+  </labels>
+  <labels>
+    <fullName>Link</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Link</shortDescription>
+    <value>Link</value>
+  </labels>
+  <labels>
+    <fullName>Show_Account_Activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show Account Activity</shortDescription>
+    <value>Show Account Activity</value>
+  </labels>
+  <labels>
+    <fullName>Past_X_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Past X days</shortDescription>
+    <value>Past {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Upcoming_Events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Events</shortDescription>
+    <value>Upcoming Events</value>
+  </labels>
+  <labels>
+    <fullName>Webinar</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Webinar</shortDescription>
+    <value>Webinar</value>
+  </labels>
+  <labels>
+    <fullName>Email_Body</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Body</shortDescription>
+    <value>Email Body</value>
+  </labels>
+  <labels>
+    <fullName>Timeline</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Timeline</shortDescription>
+    <value>Timeline</value>
+  </labels>
+  <labels>
+    <fullName>This_Week</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This Week</shortDescription>
+    <value>This Week</value>
+  </labels>
+  <labels>
+    <fullName>Week_of_Dates</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Week of Dates</shortDescription>
+    <value>Week of {0}</value>
+  </labels>
+  <labels>
+    <fullName>Week</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Week</shortDescription>
+    <value>Week</value>
+  </labels>
+  <labels>
+    <fullName>This</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This</shortDescription>
+    <value>This</value>
+  </labels>
+  <labels>
+    <fullName>Insights</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Insights</shortDescription>
+    <value>Insights</value>
+  </labels>
+  <labels>
+    <fullName>Program</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Program</shortDescription>
+    <value>Program</value>
+  </labels>
+  <labels>
+    <fullName>Send_Date</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Send Date</shortDescription>
+    <value>Send Date</value>
+  </labels>
+  <labels>
+    <fullName>Event</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Event</shortDescription>
+    <value>Event</value>
+  </labels>
+  <labels>
+    <fullName>Title</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Title</shortDescription>
+    <value>Title</value>
+  </labels>
+  <labels>
+    <fullName>Partner</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Partner</shortDescription>
+    <value>Partner</value>
+  </labels>
+  <labels>
+    <fullName>Member</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Member</shortDescription>
+    <value>Member</value>
+  </labels>
+  <labels>
+    <fullName>Registered</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Registered</shortDescription>
+    <value>Registered</value>
+  </labels>
+  <labels>
+    <fullName>Invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Invited</shortDescription>
+    <value>Invited</value>
+  </labels>
+  <labels>
+    <fullName>Not_Invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Not Invited</shortDescription>
+    <value>Not Invited</value>
+  </labels>
+  <labels>
+    <fullName>Waitlisted</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Waitlisted</shortDescription>
+    <value>Waitlisted</value>
+  </labels>
+  <labels>
+    <fullName>Attended_On_demand</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Attended On-demand</shortDescription>
+    <value>Attended On-demand</value>
+  </labels>
+  <labels>
+    <fullName>No_Show</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No Showd</shortDescription>
+    <value>No Show</value>
+  </labels>
+  <labels>
+    <fullName>Visited_Booth</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Visited Booth</shortDescription>
+    <value>Visited Booth</value>
+  </labels>
+  <labels>
+    <fullName>Influenced</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Influencedh</shortDescription>
+    <value>Influenced</value>
+  </labels>
+  <labels>
+    <fullName>Attended</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Attended</shortDescription>
+    <value>Attended</value>
+  </labels>
+  <labels>
+    <fullName>No_one_from_account_invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No one from this account has been invited</shortDescription>
+    <value>No one from this account has been invited</value>
+  </labels>
+  <labels>
+    <fullName>No_one_from_opportunity_invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No one from this opportunity has been invited</shortDescription>
+    <value>No one from this opportunity has been invited</value>
+  </labels>
+  <labels>
+    <fullName>X_is_not_invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This Lead is not invited</shortDescription>
+    <value>{0} is not invited</value>
+  </labels>
+  <labels>
+    <fullName>All_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>All Campaigns</shortDescription>
+    <value>All Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Events</shortDescription>
+    <value>Events</value>
+  </labels>
+  <labels>
+    <fullName>Filter_by_Search_Term</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Filter by Search Term</shortDescription>
+    <value>Filter by Search Term</value>
+  </labels>
+  <labels>
+    <fullName>Show_only_invited_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show only invited events</shortDescription>
+    <value>Show only invited events</value>
+  </labels>
+  <labels>
+    <fullName>Date_Range</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Date Range</shortDescription>
+    <value>Date Range</value>
+  </labels>
+  <labels>
+    <fullName>Reset</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Reset</shortDescription>
+    <value>Reset</value>
+  </labels>
+  <labels>
+    <fullName>Apply</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Apply</shortDescription>
+    <value>Apply</value>
+  </labels>
+  <labels>
+    <fullName>Sort_by</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sort by</shortDescription>
+    <value>Sort by</value>
+  </labels>
+  <labels>
+    <fullName>Filter_by_type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Filter by type</shortDescription>
+    <value>Filter by type</value>
+  </labels>
+  <labels>
+    <fullName>All_types</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>All types</shortDescription>
+    <value>All types</value>
+  </labels>
+<labels>
+    <fullName>Show_all_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show all upcoming events</shortDescription>
+    <value>Show all upcoming events</value>
+  </labels>
+  <labels>
+    <fullName>Show_invited_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show only upcoming invited events</shortDescription>
+    <value>Show only upcoming invited events</value>
+  </labels>
+  <labels>
+    <fullName>Do_not_show_any_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Do not show any upcoming events</shortDescription>
+    <value>Do not show any upcoming events</value>
+  </labels>
+  <labels>
+    <fullName>Campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Campaigns</shortDescription>
+    <value>Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Do_not_show_any_campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Do not show any campaigns</shortDescription>
+    <value>Do not show any campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Settings</shortDescription>
+    <value>Settings</value>
+  </labels>
+  <labels>
+    <fullName>Actions_Drop_Down</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Actions Drop Down</shortDescription>
+    <value>Actions Drop Down</value>
+  </labels>
+  <labels>
+    <fullName>Select_Campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Select Campaign</shortDescription>
+    <value>Select Campaign</value>
+  </labels>
+  <labels>
+    <fullName>Deprecated</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Deprecated</shortDescription>
+    <value>Deprecated</value>
+  </labels>
+  <labels>
+    <fullName>Please_request_Rest_API_configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Please request your SFDC Admin to set up Rest API configuration</shortDescription>
+    <value>Please request your SFDC Admin to set up Rest API configuration in order to see this feature</value>
+  </labels>
+  <labels>
+    <fullName>You_can_still_access_the_other_sections</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>You can still access the other sections</shortDescription>
+    <value>You can still access the other sections</value>
+  </labels>
+  <labels>
+    <fullName>Ok_hide_this_for_now</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Ok, hide this for now</shortDescription>
+    <value>Ok, hide this for now</value>
+  </labels>
+  <labels>
+    <fullName>Go_to_the_page_view</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Go to the page view</shortDescription>
+    <value>Go to the page view</value>
+  </labels>
+  <labels>
+    <fullName>System_Newline</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This label keeps newline symbol do not translate and do not edit</shortDescription>
+    <value>--linebreak--&#x000D;&#x000A;--linebreak--</value>
+  </labels>
+  <labels>
+    <fullName>Program_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Program Name</shortDescription>
+    <value>Program Name</value>
+  </labels>
+  <labels>
+    <fullName>Event_Date</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Event Date</shortDescription>
+    <value>Event Date</value>
+  </labels>
+  <labels>
+    <fullName>Email_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email Name</shortDescription>
+    <value>Email Name</value>
+  </labels>
+  <labels>
+    <fullName>No_Description_Added</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No description added</shortDescription>
+    <value>No description added</value>
+  </labels>
+  <labels>
+    <fullName>Contacts_from_this_X_are_not_invited_to_any_events_in_the_next_Y_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Contacts from this X are not invited to any events in the next Y days</shortDescription>
+    <value>Contacts from this {0} are not invited to any events in the next {1} days</value>
+  </labels>
+  <labels>
+    <fullName>This_X_is_not_invited_to_any_events_in_the_next_Y_days</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This X is not invited to any events in the next Y days</shortDescription>
+    <value>This {0} is not invited to any events in the next {1} days</value>
+  </labels>
+  <labels>
+    <fullName>Contact</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Contact</shortDescription>
+    <value>Contact</value>
+  </labels>
+  <labels>
+    <fullName>Opportunity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opportunity</shortDescription>
+    <value>Opportunity</value>
+  </labels>
+  <labels>
+    <fullName>Event_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Event Name</shortDescription>
+    <value>Event Name</value>
+  </labels>
+  <labels>
+    <fullName>General_Configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>General Configuration</shortDescription>
+    <value>General Configuration</value>
+  </labels>
+  <labels>
+    <fullName>MSI_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>MSI Settings</shortDescription>
+    <value>MSI Settings</value>
+  </labels>
+  <labels>
+    <fullName>Rest_API_Credentials</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Rest API Credentials</shortDescription>
+    <value>Rest API Credentials</value>
+  </labels>
+  <labels>
+    <fullName>Action_and_Display_Settings</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Action and Display Settings</shortDescription>
+    <value>Action and Display Settings</value>
+  </labels>
+  <labels>
+    <fullName>Reset_MSI_Configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Reset MSI Configuration</shortDescription>
+    <value>Reset MSI Configuration</value>
+  </labels>
+  <labels>
+    <fullName>I_acknowledge_that_this_will_reset_all_settings_in_the_MSI_instance</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>I acknowledge that this will reset all settings in the MSI instance</shortDescription>
+    <value>I acknowledge that this will reset all settings in the MSI instance</value>
+  </labels>
+  <labels>
+    <fullName>Munchkin_Account_ID</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Munchkin Account ID</shortDescription>
+    <value>Munchkin Account ID</value>
+  </labels>
+  <labels>
+    <fullName>Client_ID</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Client ID</shortDescription>
+    <value>Client ID</value>
+  </labels>
+  <labels>
+    <fullName>Client_Secret</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Client Secret</shortDescription>
+    <value>Client Secret</value>
+  </labels>
+  <labels>
+    <fullName>Upcoming_Events_and_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Events and Campaigns</shortDescription>
+    <value>Upcoming Events and Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Show_all_upcoming_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show all events</shortDescription>
+    <value>Show all events</value>
+  </labels>
+  <labels>
+    <fullName>Show_invited_events_only</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show invited events only</shortDescription>
+    <value>Show invited events only</value>
+  </labels>
+  <labels>
+    <fullName>Do_not_show_events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Do not show events</shortDescription>
+    <value>Do not show events</value>
+  </labels>
+  <labels>
+    <fullName>Do_not_show_campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Do not show campaigns</shortDescription>
+    <value>Do not show campaigns</value>
+  </labels>
+  <labels>
+    <fullName>which_match_your_filter_conditions</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>which match your filter conditions</shortDescription>
+    <value>which match your filter conditions</value>
+  </labels>
+  <labels>
+    <fullName>REST_API_Error</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>REST API Error</shortDescription>
+    <value>REST API Error</value>
+  </labels>
+  <labels>
+    <fullName>No_one_from_this_account_has_been_invited</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No one from this account has been invited</shortDescription>
+    <value>No one from this account has been invited</value>
+  </labels>
+  <labels>
+    <fullName>Please_note_this_will_reset_all_MSI_configuration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Please note: this will reset all MSI configuration</shortDescription>
+    <value>Please note: this will reset all MSI configuration</value>
+  </labels>
+  <labels>
+    <fullName>Are_you_sure</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Are you sure?</shortDescription>
+    <value>Are you sure?</value>
+  </labels>
+  <labels>
+    <fullName>SOAP_API_Call_Timeout</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>SOAP API Call Timeout</shortDescription>
+    <value>SOAP API Call Timeout</value>
+  </labels>
+  <labels>
+    <fullName>REST_API_Call_Timeout</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>REST API Call Timeout</shortDescription>
+    <value>REST API Call Timeout</value>
+  </labels>
+  <labels>
+    <fullName>seconds</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>seconds</shortDescription>
+    <value>seconds</value>
+  </labels>
+  <labels>
+    <fullName>Landing_Page</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Landing Page</shortDescription>
+    <value>Landing Page</value>
+  </labels>
+  <labels>
+    <fullName>Email_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Email Campaigns</shortDescription>
+    <value>Email Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>All_email_programs_scheduled_in_your_Marketo_instance_in_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>All email programs scheduled in your Marketo instance in the next X days</shortDescription>
+    <value>All email programs scheduled in your Marketo instance in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Activity_Date</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Activity Date</shortDescription>
+    <value>Activity Date</value>
+  </labels>
+  <labels>
+    <fullName>Scheduled_Date</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Scheduled Date</shortDescription>
+    <value>Scheduled Date</value>
+  </labels>
+  <labels>
+    <fullName>Operational_Settings</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Operational Settings</shortDescription>
+    <value>Operational Settings</value>
+  </labels>
+  <labels>
+    <fullName>SOAP_API</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>SOAP API</shortDescription>
+    <value>SOAP API</value>
+  </labels>
+  <labels>
+    <fullName>REST_API</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>REST API</shortDescription>
+    <value>REST API</value>
+  </labels>
+  <labels>
+    <fullName>User_ID</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>User ID</shortDescription>
+    <value>User ID</value>
+  </labels>
+  <labels>
+    <fullName>API_Timeout</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>API Timeout</shortDescription>
+    <value>API Timeout</value>
+  </labels>
+  <labels>
+    <fullName>Enter_a_value_between_X_and_Y_seconds</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Enter a value between X and Y seconds</shortDescription>
+    <value>Enter a value between {0} and {1} seconds</value>
+  </labels>
+  <labels>
+    <fullName>MSI_Configuration</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>MSI Configuration</shortDescription>
+    <value>MSI Configuration</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Global_Tab</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo_Global_Tab</shortDescription>
+    <value>Marketo Global Tab</value>
+  </labels>
+  <labels>
+    <fullName>VisualForce_Panel</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>VisualForce Panel</shortDescription>
+    <value>VisualForce Panel</value>
+  </labels>
+  <labels>
+    <fullName>Data_Display</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Data Display</shortDescription>
+    <value>Data Display</value>
+  </labels>
+  <labels>
+    <fullName>Action_Settings</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Action Settings</shortDescription>
+    <value>Action Settings</value>
+  </labels>
+  <labels>
+    <fullName>Marketo_Tab_Settings</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo Tab Settings</shortDescription>
+    <value>Marketo Tab Settings</value>
+  </labels>
+  <labels>
+    <fullName>VisualForce_Page_Settings</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>VisualForce Page Settings</shortDescription>
+    <value>VisualForce Page Settings</value>
+  </labels>
+  <labels>
+    <fullName>Disable_in_Actions_Drop_Down</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Disable in Actions Drop Down</shortDescription>
+    <value>Disable in Actions Drop Down</value>
+  </labels>
+  <labels>
+    <fullName>Upcoming_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Upcoming Campaigns</shortDescription>
+    <value>Upcoming Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Load_Upcoming_Campaigns_And_Events</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Show Load Upcoming Activity Button</shortDescription>
+    <value>Load Upcoming Activity Button</value>
+  </labels>
+  <labels>
+    <fullName>Do_Not_Load_Events_And_Campaigns_Start</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Enabling this will reduce number of Rest API calls</shortDescription>
+    <value>Enabling this will reduce number of Rest API calls</value>
+  </labels>
+  <labels>
+    <fullName>Do_Not_Load_Events_And_Campaigns_End</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>made by hiding upcoming activities behind a button until user clicks on it</shortDescription>
+    <value>made by hiding upcoming activities behind a button until user clicks on it</value>
+  </labels>
+  <labels>
+    <fullName>You_can_reduce_the_number_of_REST_API_calls</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Reduce the number of REST API calls</shortDescription>
+    <value>You can reduce the number of REST API calls made by enabling the Load Upcoming Activity Button. Upcoming Activity tabs will be visible once the user clicks on the button</value>
+  </labels>
+  <labels>
+    <fullName>The_following_actions_are_available</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Action Settings checkbox list description</shortDescription>
+    <value>The following actions are available in Lead, Contact, Account &amp; Opportunity panels. When unchecked, they will be hidden from all 4 panels</value>
+  </labels>
+  <labels>
+    <fullName>Load_Upcoming_Items</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Load Upcoming Items</shortDescription>
+    <value>Load Upcoming Items</value>
+  </labels>
+  <labels>
+    <fullName>Reset_Marketo_Sales_Insights</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Reset Marketo Sales Insights</shortDescription>
+    <value>Reset Marketo Sales Insights</value>
+  </labels>
+  <labels>
+    <fullName>panel_loading_header</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Please be patient</shortDescription>
+    <value>Please be patient</value>
+  </labels>
+  <labels>
+    <fullName>panel_loading_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>We are currently loading your data</shortDescription>
+    <value>We are currently loading your data</value>
+  </labels>
+  <labels>
+    <fullName>concurrency_error_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>There were too many server requests. Please refresh the panel.</shortDescription>
+    <value>There were too many server requests. Please refresh the panel.</value>
+  </labels>
+  <labels>
+    <fullName>concurrency_error_hint</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>There were too many server requests.</shortDescription>
+    <value>There were too many server requests.</value>
+  </labels>
+  <labels>
+    <fullName>concurrency_error_action</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Please refresh the panel.</shortDescription>
+    <value>Please refresh the panel.</value>
+  </labels>
+  <labels>
+    <fullName>concurrency_error_header</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Server timed out</shortDescription>
+    <value>Server timed out</value>
+  </labels>
+  <labels>
+    <fullName>refresh</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Refresh</shortDescription>
+    <value>Refresh</value>
+  </labels>
+  <labels>
+    <fullName>Standard_Views</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Standard Views</shortDescription>
+    <value>Standard Views</value>
+  </labels>
+  <labels>
+    <fullName>tab_settings_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Tab Settings</shortDescription>
+    <value>Tab Settings</value>
+  </labels>
+  <labels>
+    <fullName>available_tabs_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Available Tabs</shortDescription>
+    <value>Available Tabs</value>
+  </labels>
+  <labels>
+    <fullName>order_of_tabs_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Order of Tabs</shortDescription>
+    <value>Order of Tabs</value>
+  </labels>
+  <labels>
+    <fullName>activities_days_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Upcoming activities in the next X days</shortDescription>
+    <value>Upcoming activities in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Open_Tasks_in_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Open Tasks in the next X days</shortDescription>
+    <value>Open Tasks in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Overdue_Tasks_in_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Overdue Tasks in the last X days</shortDescription>
+    <value>Overdue Tasks in the last {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Open_and_Overdue_Tasks_for_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Open and Overdue Tasks for X days</shortDescription>
+    <value>Overdue Tasks from the last {0} days and Open tasks in the next {1} days</value>
+  </labels>
+  <labels>
+    <fullName>Tasks_completed_in_the_last_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Tasks completed in the last X days</shortDescription>
+    <value>Tasks completed in the last {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Campaigns_in_progress_in_the_next_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Campaigns in progress in the next X days</shortDescription>
+    <value>Campaigns in progress in the next {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Overdue_Campaigns_from_the_last_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Overdue Campaigns from the last X days</shortDescription>
+    <value>Overdue Campaigns from the last {0} days</value>
+  </labels>
+  <labels>
+    <fullName>Overdue_and_In_progress_Campaigns_for_X_days</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Overdue and In progress Campaigns for X days</shortDescription>
+    <value>Overdue Campaigns from the last {0} days and Campaigns in progress in the next {1} days</value>
+  </labels>
+  <labels>
+    <fullName>Load_More</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Load More</shortDescription>
+    <value>Load More</value>
+  </labels>
+  <labels>
+    <fullName>number_of_activities_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Number of Activities in the Smart Grid</shortDescription>
+    <value>Smart Grid</value>
+  </labels>
+  <labels>
+    <fullName>number_of_events_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Number of Events</shortDescription>
+    <value>Events</value>
+  </labels>
+  <labels>
+    <fullName>number_of_campaigns_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Number of Email Campaigns</shortDescription>
+    <value>Email Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>items</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>items</shortDescription>
+    <value>items</value>
+  </labels>
+  <labels>
+    <fullName>max</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Max</shortDescription>
+    <value>Max</value>
+  </labels>
+  <labels>
+    <fullName>admin_limit_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Your admin has set X limit to be Y</shortDescription>
+    <value>Your admin has set {0} limit to be {1}</value>
+  </labels>
+  <labels>
+    <fullName>none</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>None</shortDescription>
+    <value>None</value>
+  </labels>
+  <labels>
+    <fullName>select_campaign_validation</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Please select a campaign</shortDescription>
+    <value>Please select a campaign</value>
+  </labels>
+  <labels>
+    <fullName>campaign_triggered_success</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo Campaign triggered successfully</shortDescription>
+    <value>Marketo Campaign triggered successfully</value>
+  </labels>
+  <labels>
+    <fullName>leads</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Lead(s)</shortDescription>
+    <value>Lead(s)</value>
+  </labels>
+  <labels>
+    <fullName>contacts</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Contact(s)</shortDescription>
+    <value>Contact(s)</value>
+  </labels>
+  <labels>
+    <fullName>accounts</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Account(s)</shortDescription>
+    <value>Account(s)</value>
+  </labels>
+  <labels>
+    <fullName>send_test_warning</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Test email is sent only for the first contact from the list</shortDescription>
+    <value>Test email is sent only for the first contact from the list</value>
+  </labels>
+  <labels>
+    <fullName>send_test</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Send Test</shortDescription>
+    <value>Send Test</value>
+  </labels>
+  <labels>
+    <fullName>send_with_marketo</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Send with Marketo</shortDescription>
+    <value>Send with Marketo</value>
+  </labels>
+  <labels>
+    <fullName>send_email_success</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo Email sent successfully</shortDescription>
+    <value>Marketo Email sent successfully</value>
+  </labels>
+  <labels>
+    <fullName>blank_email</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Blank email</shortDescription>
+    <value>Blank email</value>
+  </labels>
+  <labels>
+    <fullName>message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Message</shortDescription>
+    <value>Message</value>
+  </labels>
+  <labels>
+    <fullName>limits</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Limits</shortDescription>
+    <value>Limits</value>
+  </labels>
+  <labels>
+    <fullName>marketo_user</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo User</shortDescription>
+    <value>Marketo User</value>
+  </labels>
+  <labels>
+    <fullName>languages</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Languages</shortDescription>
+    <value>Languages</value>
+  </labels>
+  <labels>
+    <fullName>level</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Level</shortDescription>
+    <value>Level</value>
+  </labels>
+  <labels>
+    <fullName>low_quality_label</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Low Quality</shortDescription>
+    <value>Low Quality</value>
+  </labels>
+  <labels>
+    <fullName>urgency</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Urgency</shortDescription>
+    <value>Urgency</value>
+  </labels>
+  <labels>
+    <fullName>cold</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Cold</shortDescription>
+    <value>Cold</value>
+  </labels>
+  <labels>
+    <fullName>rest_validation_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>All Rest API Credentials fields should be populated or empty</shortDescription>
+    <value>All Rest API Credentials fields should be populated or empty</value>
+  </labels>
+  <labels>
+    <fullName>not_limited_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Not limited to qualified leads</shortDescription>
+    <value>Not limited to qualified leads</value>
+  </labels>
+  <labels>
+    <fullName>contacts_plural</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Contacts</shortDescription>
+    <value>Contacts</value>
+  </labels>
+  <labels>
+    <fullName>leads_plural</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Leads</shortDescription>
+    <value>Leads</value>
+  </labels>
+  <labels>
+    <fullName>email_marked_invalid</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Email address marked as invalid in Marketo</shortDescription>
+    <value>Email address marked as invalid in Marketo</value>
+  </labels>
+  <labels>
+    <fullName>email_address_not_found</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Email address not found</shortDescription>
+    <value>No email address found</value>
+  </labels>
+  <labels>
+    <fullName>unsubscribed</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Unsubscribed</shortDescription>
+    <value>Unsubscribed</value>
+  </labels>
+  <labels>
+    <fullName>invalid_email_address_format</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Invalid email address format</shortDescription>
+    <value>Invalid email address format</value>
+  </labels>
+  <labels>
+    <fullName>check_email_status_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Check email status message</shortDescription>
+    <value>You can check email status in the Sales Insight Email Tab once this email is sent</value>
+  </labels>
+  <labels>
+    <fullName>recipients_may_not_receive_emails</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>The following recipients may not receive emails</shortDescription>
+    <value>The following recipients may not receive emails</value>
+  </labels>
+  <labels>
+    <fullName>check_email_status_after</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>You can check email status in the Sales Insight Email Tab</shortDescription>
+    <value>You can check email status in the Sales Insight Email Tab</value>
+  </labels>
+  <labels>
+    <fullName>you_should_add_test_recipients</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>You should add test recipients</shortDescription>
+    <value>You should add test recipients</value>
+  </labels>
+  <labels>
+    <fullName>send_sales_email</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Send Sales Email</shortDescription>
+    <value>Send Sales Email</value>
+  </labels>
+  <labels>
+    <fullName>add_to_sales_campaign</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Add to Sales Campaign</shortDescription>
+    <value>Add to Sales Campaign</value>
+  </labels>
+  <labels>
+    <fullName>sales_call</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Sales Call</shortDescription>
+    <value>Sales Call</value>
+  </labels>
+  <labels>
+    <fullName>please_select_at_least_one_row</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Please select at least one row</shortDescription>
+    <value>Please select at least one row</value>
+  </labels>
+  <labels>
+    <fullName>no_delivery_status_for_msi_emails</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Delivery status for emails sent from Sales Insight is unavailable</shortDescription>
+    <value>Delivery status for emails sent from Sales Insight Salesforce CRM is unavailable.</value>
+  </labels>
+  <labels>
+    <fullName>no_delivery_status_for_msc_emails</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Delivery status for emails sent from MSC is unavailable</shortDescription>
+    <value>Delivery status for emails sent from MSC is unavailable.</value>
+  </labels>
+  <labels>
+    <fullName>no_subject_for_marketo_emails</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>There is no subject for emails sent from Marketo</shortDescription>
+    <value>This tab reflects template name for emails sent from Marketo and actual subject line for emails sent from Sales Insight. Please open preview mode to see subject line of sent email or refer to email tab.</value>
+  </labels>
+  <labels>
+    <fullName>delivery_status</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Email delivery status column name</shortDescription>
+    <value>Status</value>
+  </labels>
+  <labels>
+    <fullName>show_details</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show details</shortDescription>
+    <value>Show details</value>
+  </labels>
+  <labels>
+    <fullName>data_receiving_error</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>An error occurred while receiving data</shortDescription>
+    <value>An error occurred while receiving data</value>
+  </labels>
+  <labels>
+    <fullName>email_delivery_status</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Page header: Email Delivery Status</shortDescription>
+    <value>Email Delivery Status</value>
+  </labels>
+  <labels>
+    <fullName>email_delivery_status_for</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Page header: Email Delivery Status for</shortDescription>
+    <value>Email Delivery Status for</value>
+  </labels>
+  <labels>
+    <fullName>check_delivery_status</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Check Delivery Status</shortDescription>
+    <value>Check Delivery Status</value>
+  </labels>
+  <labels>
+    <fullName>no_msi_plus_access_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>You do not have access to this feature, please contact your admin</shortDescription>
+    <value>You do not have access to this feature, please contact your admin</value>
+  </labels>
+  <labels>
+    <fullName>calls</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Calls</shortDescription>
+    <value>Calls</value>
+  </labels>
+  <labels>
+    <fullName>chat</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Chat</shortDescription>
+    <value>Chat</value>
+  </labels>
+  <labels>
+    <fullName>marketo_sales_outbox</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketo Sales Outbox</shortDescription>
+    <value>Marketo Sales Outbox</value>
+  </labels>
+  <labels>
+    <fullName>sales_insights</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Sales Insights</shortDescription>
+    <value>Sales Insights</value>
+  </labels>
+  <labels>
+    <fullName>subscribe_multi_email_message</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>For multiple email addresses, separate with a comma</shortDescription>
+    <value>For multiple email addresses, separate with a comma</value>
+  </labels>
+  <labels>
+    <fullName>troubleshooting_tips</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Troubleshooting Tips</shortDescription>
+    <value>Troubleshooting Tips</value>
+  </labels>
+  <labels>
+    <fullName>validation_error</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Validation Error</shortDescription>
+    <value>Validation Error</value>
+  </labels>
+  <labels>
+    <fullName>change_template_header_question</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Change Template?</shortDescription>
+    <value>Change Template?</value>
+  </labels>
+  <labels>
+    <fullName>change_template</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Change Template</shortDescription>
+    <value>Change Template</value>
+  </labels>
+  <labels>
+    <fullName>change_template_message_question</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Changing templates will DISCARD all of your edits. Are you sure?</shortDescription>
+    <value>Changing templates will DISCARD all of your edits. Are you sure?</value>
+  </labels>
+  <labels>
+    <fullName>Page</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Page</shortDescription>
+    <value>Page</value>
+  </labels>
+  <labels>
+    <fullName>go_to_watch_list</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Go to Watch List</shortDescription>
+    <value>Go to Watch List</value>
+  </labels>
+  <labels>
+    <fullName>successfully_added_to_Watch_List</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>successfully added to Watch List</shortDescription>
+    <value>successfully added to Watch List</value>
+  </labels>
+  <labels>
+    <fullName>Learn_more</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Learn more</shortDescription>
+    <value>Learn more</value>
+  </labels>
+  <labels>
+    <fullName>Configure_Sales_Insight</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Configure Sales Insight</shortDescription>
+    <value>Configure Sales Insight</value>
+  </labels>
+  <labels>
+    <fullName>Version</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Version</shortDescription>
+    <value>Version</value>
+  </labels>
+  <labels>
+    <fullName>Enable_MSI_Actions</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Enable MSI Actions</shortDescription>
+    <value>Enable MSI Actions</value>
+  </labels>
+  <labels>
+    <fullName>You_can_reduce_timeout_errors</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Reduce timeout errors by limiting the number of activities</shortDescription>
+    <value>You can reduce timeout errors by limiting the number of activities visible in the Insights Dashboard</value>
+  </labels>
+  <labels>
+    <fullName>Upcoming_Marketing_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Marketing Campaigns</shortDescription>
+    <value>Upcoming Marketing Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>Upcoming_Marketing_Events</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Marketing Events</shortDescription>
+    <value>Upcoming Marketing Events</value>
+  </labels>
+  <labels>
+    <fullName>Marketing_Event_Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketing Event Types</shortDescription>
+    <value>Marketing Event Type</value>
+  </labels>
+  <labels>
+    <fullName>The_following_tabs_are_available</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show/hide upcoming Campians, Events and Tasks tabs</shortDescription>
+    <value>The following tabs are available in Lead, Contact, Account &amp; Opportunity panels. When unchecked, they will be hidden from all 4 panels</value>
+  </labels>
+  <labels>
+    <fullName>Phone_Number</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Phone Number</shortDescription>
+    <value>Phone Number</value>
+  </labels>
+  <labels>
+    <fullName>Answered_by</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Call Answered by</shortDescription>
+    <value>Answered by</value>
+  </labels>
+  <labels>
+    <fullName>Duration</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Call Durationy</shortDescription>
+    <value>Duration</value>
+  </labels>
+  <labels>
+    <fullName>Outcome</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Call Outcome</shortDescription>
+    <value>Outcome</value>
+  </labels>
+  <labels>
+    <fullName>Notes</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Call Notes</shortDescription>
+    <value>Notes</value>
+  </labels>
+  <labels>
+    <fullName>add_task</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Add Task</shortDescription>
+    <value>Add Task</value>
+  </labels>
+  <labels>
+    <fullName>redirecting_in</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Redirecting you in X seconds..</shortDescription>
+    <value>Redirecting you in {0} seconds...</value>
+  </labels>
+  <labels>
+    <fullName>task_created</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Task has been created</shortDescription>
+    <value>Task has been created</value>
+  </labels>
+  <labels>
+    <fullName>task_deleted</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Task has been deleted</shortDescription>
+    <value>Task has been deleted</value>
+  </labels>
+  <labels>
+    <fullName>campaign_triggered</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Campaign has been triggered</shortDescription>
+    <value>Campaign has been triggered</value>
+  </labels>
+  <labels>
+    <fullName>call_logged</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Call logged successfully</shortDescription>
+    <value>Call logged successfully</value>
+  </labels>
+  <labels>
+    <fullName>call_check_details</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>To see details, check Call Tab</shortDescription>
+    <value>To see details, check Call Tab</value>
+  </labels>
+  <labels>
+    <fullName>sales_campaigns</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Sales Campaigns</shortDescription>
+    <value>Sales Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>sales_tasks</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Sales Tasks</shortDescription>
+    <value>Sales Tasks</value>
+  </labels>
+  <labels>
+    <fullName>marketing_campaigns</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketing Campaigns</shortDescription>
+    <value>Marketing Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>marketing_events</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Marketing Events</shortDescription>
+    <value>Marketing Events</value>
+  </labels>
+  <labels>
+    <fullName>user_management_tab</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>User Management and Settings</shortDescription>
+    <value>User Management &#38; Settings</value>
+  </labels>
+  <labels>
+    <fullName>user_management_help_link</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Set up Sales Insight for your team</shortDescription>
+    <value>Set up Sales Insight for your team</value>
+  </labels>
+  <labels>
+    <fullName>Tasks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Insights Tasks Tab</shortDescription>
+    <value>Tasks</value>
+  </labels>
+  <labels>
+    <fullName>upcoming_sales_campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Sales Campaigns</shortDescription>
+    <value>Upcoming Sales Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>upcoming_sales_tasks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Upcoming Sales Tasks</shortDescription>
+    <value>Upcoming Sales Tasks</value>
+  </labels>
+  <labels>
+    <fullName>sales_campaign</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sales Campaign</shortDescription>
+    <value>Sales Campaign</value>
+  </labels>
+  <labels>
+    <fullName>call_tab_summary</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Here’s a summary of all your call activity</shortDescription>
+    <value>Here’s a summary of all your call activity</value>
+  </labels>
+  <labels>
+    <fullName>Sales</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sales</shortDescription>
+    <value>Sales</value>
+  </labels>
+  <labels>
+    <fullName>Marketing</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketing</shortDescription>
+    <value>Marketing</value>
+  </labels>
+  <labels>
+    <fullName>Live_Feed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Live Feed</shortDescription>
+    <value>Live Feed</value>
+  </labels>
+  <labels>
+    <fullName>Open</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Open</shortDescription>
+    <value>Open</value>
+  </labels>
+  <labels>
+    <fullName>Completed</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Completed</shortDescription>
+    <value>Completed</value>
+  </labels>
+  <labels>
+    <fullName>Overdue</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Overdue</shortDescription>
+    <value>Overdue</value>
+  </labels>
+  <labels>
+    <fullName>In_Progress</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>In Progress</shortDescription>
+    <value>In Progress</value>
+  </labels>
+  <labels>
+    <fullName>In_Progress_and_Overdue</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>In Progress and Overdue</shortDescription>
+    <value>In Progress &amp; Overdue</value>
+  </labels>
+  <labels>
+    <fullName>Open_and_Overdue</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Open and Overdue</shortDescription>
+    <value>Open &amp; Overdue</value>
+  </labels>
+  <labels>
+    <fullName>Open_Tasks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Open Tasks</shortDescription>
+    <value>Open Tasks</value>
+  </labels>
+  <labels>
+    <fullName>Overdue_Tasks</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Overdue Tasks</shortDescription>
+    <value>Overdue Tasks</value>
+  </labels>
+  <labels>
+    <fullName>Campaigns_in_progress</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Campaigns in progress</shortDescription>
+    <value>Campaigns in progress</value>
+  </labels>
+  <labels>
+    <fullName>Overdue_Campaigns</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Overdue Campaigns</shortDescription>
+    <value>Overdue Campaigns</value>
+  </labels>
+  <labels>
+    <fullName>InMail</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>InMail</shortDescription>
+    <value>InMail</value>
+  </labels>
+  <labels>
+    <fullName>Custom</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Custom</shortDescription>
+    <value>Custom</value>
+  </labels>
+  <labels>
+    <fullName>Edit_Task</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Edit Task</shortDescription>
+    <value>Edit Task</value>
+  </labels>
+  <labels>
+    <fullName>Task_Updated</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>Task has been updated</shortDescription>
+    <value>Task has been updated</value>
+  </labels>
+  <labels>
+    <fullName>Secret_Key_Validation</fullName>
+    <language>en_US</language>
+    <protected>false</protected>
+    <shortDescription>API Secret Key is required</shortDescription>
+    <value>API Secret Key is required</value>
+  </labels>
+  <labels>
+    <fullName>Replied_at_least_once</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Replied at least once</shortDescription>
+    <value>Replied at least once</value>
+  </labels>
+  <labels>
+    <fullName>MSI_Actions_Validation</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>REST API credentials are required for MSI Actions</shortDescription>
+    <value>REST API credentials are required for MSI Actions</value>
+  </labels>
+  <labels>
+    <fullName>Replied</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Replied</shortDescription>
+    <value>Replied</value>
+  </labels>
+  <labels>
+    <fullName>Sender</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Sender</shortDescription>
+    <value>Sender</value>
+  </labels>
+  <labels>
+    <fullName>Person</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Person</shortDescription>
+    <value>Person</value>
+  </labels>
+  <labels>
+    <fullName>Account_Contacts</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Account Contacts</shortDescription>
+    <value>Account Contacts</value>
+  </labels>
+  <labels>
+    <fullName>Opportunity_Contacts</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Opportunity Contacts</shortDescription>
+    <value>Opportunity Contacts</value>
+  </labels>
+  <labels>
+    <fullName>Showing</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Showing</shortDescription>
+    <value>Showing</value>
+  </labels>
+  <labels>
+    <fullName>Marketer</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Marketer</shortDescription>
+    <value>Marketer</value>
+  </labels>
+  <labels>
+    <fullName>Created_by_X_on_X</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Created_by_X_on_X</shortDescription>
+    <value>Created by {0} on {1}</value>
+  </labels>
+  <labels>
+    <fullName>Added_by_X_on_X</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Added_by_X_on_X</shortDescription>
+    <value>Added by {0} on {1}</value>
+  </labels>
+  <labels>
+    <fullName>Day</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Day</shortDescription>
+    <value>Day</value>
+  </labels>
+  <labels>
+    <fullName>Step</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Step</shortDescription>
+    <value>Step</value>
+  </labels>
+  <labels>
+    <fullName>Details</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Details</shortDescription>
+    <value>Details</value>
+  </labels>
+  <labels>
+    <fullName>No_details_added</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>No_details_added</shortDescription>
+    <value>No details added</value>
+  </labels>
+  <labels>
+    <fullName>Preview_Email</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Preview Email</shortDescription>
+    <value>Preview Email</value>
+  </labels>
+  <labels>
+    <fullName>Bes_Bets_Button_Validation</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Bes Bets Button Validation</shortDescription>
+    <value>At least one Best Bets filter should be selected</value>
+  </labels>
+  <labels>
+    <fullName>Bes_Bets_Hide_Tooltip</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Account Bes Bets Hide Button Tooltip</shortDescription>
+    <value>You can hide a contact from Best Bets page only if you are the Contact's Salesforce Owner</value>
+  </labels>
+  <labels>
+    <fullName>Exceeded_Max_Contacts_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Exceeded max contacts message</shortDescription>
+    <value>We are unable to display this dashboard since your account has more than {0} contacts</value>
+  </labels>
+  <labels>
+    <fullName>Cant_Use_Actions_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Cant use actions message</shortDescription>
+    <value>You will not be able to use &quot;Send Email&quot; &amp; &quot;Add to Campaign&quot; functionality from the Account view but you will be able to do so from individual contact views, list view &amp; Best Bets tab</value>
+  </labels>
+  <labels>
+    <fullName>Can_See_Other_Tabs_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Can see all the other tabs message</shortDescription>
+    <value>However, you will be able to see activities on all the other tabs</value>
+  </labels>
+  <labels>
+    <fullName>Big_Account_Tooltip_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Big account tooltip message</shortDescription>
+    <value>We are unable to display account level activity on this dashboard since your account has more than {0} contacts.</value>
+  </labels>
+  <labels>
+    <fullName>This_email_includes_reply_tracking</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This_email_includes_reply_tracking</shortDescription>
+    <value>This email includes reply tracking since it was sent using your Outlook/Gmail delivery channel</value>
+  </labels>
+  <labels>
+    <fullName>This_email_does_not_include_reply_tracking</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>This_email_includes_reply_tracking</shortDescription>
+    <value>This email does not include reply tracking since it was sent using Marketo delivery channel</value>
+  </labels>
+  <labels>
+    <fullName>Created_on</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Created on</shortDescription>
+    <value>Created on</value>
+  </labels>
+  <labels>
+    <fullName>Big_Account_Status_Page_Message</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Big Account Status Page Message</shortDescription>
+    <value>We are unable to display activities in Delivery Status page since the account has more than {0} contacts</value>
+  </labels>
+  <labels>
+    <fullName>Are_we_in_full_list_mode</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Are we in full list mode</shortDescription>
+    <value>Are we in full list mode</value>
+  </labels>
+  <labels>
+    <fullName>Configuration_Test</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Configuration Test</shortDescription>
+    <value>Configuration Test</value>
+  </labels>
+  <labels>
+    <fullName>Current_view_ID</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Current view ID</shortDescription>
+    <value>Current view ID</value>
+  </labels>
+  <labels>
+    <fullName>Custom_List_Controller</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Custom List Controller</shortDescription>
+    <value>Custom List Controller</value>
+  </labels>
+  <labels>
+    <fullName>Is_Data_Escaped</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Is Data Escaped</shortDescription>
+    <value>Is Data Escaped</value>
+  </labels>
+  <labels>
+    <fullName>Is_it_grouped_web_activity</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Is it grouped web activity</shortDescription>
+    <value>Is it grouped web activity</value>
+  </labels>
+  <labels>
+    <fullName>Lead_mobile</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Lead mobile</shortDescription>
+    <value>Lead mobile</value>
+  </labels>
+  <labels>
+    <fullName>Number_of_default_hide_days_for_best_bet</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Number of default hide days for best bet</shortDescription>
+    <value>Number of default hide days for best bet</value>
+  </labels>
+  <labels>
+    <fullName>Pass_to_inputText</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Pass to inputText</shortDescription>
+    <value>Pass to inputText</value>
+  </labels>
+  <labels>
+    <fullName>SFDC_Object_Name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>SFDC Object Name</shortDescription>
+    <value>SFDC Object Name</value>
+  </labels>
+  <labels>
+    <fullName>SFDC_Object_Type</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>SFDC Object Type</shortDescription>
+    <value>SFDC Object Type</value>
+  </labels>
+  <labels>
+    <fullName>SFDC_object_Id</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>SFDC object Id</shortDescription>
+    <value>SFDC object Id</value>
+  </labels>
+  <labels>
+    <fullName>Show_the_account_name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show the account name</shortDescription>
+    <value>Show the account name</value>
+  </labels>
+  <labels>
+    <fullName>Show_the_name</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show the name</shortDescription>
+    <value>Show the name</value>
+  </labels>
+  <labels>
+    <fullName>Watch_List_Help_Link</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Watch List Help Link</shortDescription>
+    <value>Watch List Help Link</value>
+  </labels>
+  <labels>
+    <fullName>Show_Campaign_Details</fullName>
+    <language>en_US</language>
+    <protected>true</protected>
+    <shortDescription>Show campaign details</shortDescription>
+    <value>Show campaign details</value>
+  </labels>
+</CustomLabels>
