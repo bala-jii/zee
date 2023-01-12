@@ -3849,7 +3849,7 @@ Mkt3L10n.AdvancedFlowWait = {
 };
 Mkt3L10n.TreasureChest ={
   Treasure_Chest_Feature: "Schatzkistenfunktion",
-  This_field_is_required: "Dieses Feld ist erforderlich",
+  This_field_is_required: "Dieses Feld ist erforderlich edited",
   Save: "Speichern",
   Treasure_Chest: "Schatzkiste",
   Password: "Passwort",
