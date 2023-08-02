@@ -16,7 +16,7 @@
     "ApplyForm": {
       "sumbitErrors": {
         "candidateMatchesAProtectProfile": {
-          "title": "Oh no! Something is amiss…",
+          "title": "Oh no! Something is amiss something…",
           "message": "<p>We were unable to complete your background check with the information that you provided. To proceed, please contact %{accountName}.<p>"
         }
       }
