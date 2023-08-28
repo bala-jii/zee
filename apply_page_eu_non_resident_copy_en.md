@@ -1,0 +1,1 @@
+Checkr does not conduct screening services on EU residents. By submitting your information you certify that any EU address is a **PRIOR** address and you are not currently residing or located within the EU.
