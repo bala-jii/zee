@@ -1,0 +1,260 @@
+{
+  "screenings": {
+    "criminal": {
+      "additional_instructions": {
+        "title": "Additional instructions for next steps",
+        "body": "Please download and follow the instructions in the form.",
+        "acknowledgement": "I acknowledge receipt of this document and certify that I have read and understand this document."
+      },
+      "canada": {
+        "candidate_regular_informed_consent_form": {
+          "title": "Informed consent",
+          "body": "To complete your background check, you must download the Reason for the criminal record verification and Canadian informed consent.",
+          "acknowledgement": "I acknowledge receipt of the Reason for the criminal record verification and Canadian informed consent and certify that I have read and understand this document."
+        },
+        "candidate_british_columbia_informed_consent_form": {
+          "title": "Informed consent",
+          "body": "To complete your background check, you must download, read and acknowledge the British Columbia Enhanced Criminal consent form.",
+          "acknowledgement": "I acknowledge that I have received and read the British Columbia Enhanced Criminal Consent Form."
+        },
+        "instructions": {
+          "title": "Important",
+          "body": "Under Canadian federal law, you must declare past criminal records. Having a criminal record does not automatically disqualify you from employment and should not discourage you from completing your application. The background check process investigates your records and determines if what appears matches what you’ve stated. If your records match, you will be evaluated for employment. If your records do not match, you will not be considered for employment. A Certified Criminal Record is only issued with the submission of fingerprints to the RCMP National Repository of Criminal Record. Do not declare the following:• A conviction for which you have received a Record Suspension (formerly pardon) in accordance with the Criminal Records Act.\n• A conviction where you were a “young person” under the Youth Criminal Justice Act.\n• An Absolute or Conditional Discharge, pursuant to section 730 of the Criminal Code;\n• An offence for which you were not convicted,\n• Any provincial or municipal offence, and;\n• Any charges dealt with outside of Canada."
+        }
+      },
+      "australia": {
+        "passport": {
+          "display_name": "Passport (70 points)"
+        },
+        "citizenship": {
+          "display_name": "Australian Citizenship Certificate (70 points)"
+        },
+        "driver_license": {
+          "display_name": "Australian Driver’s License / Learners Permit (40 points)"
+        },
+        "government_id": {
+          "display_name": "Australian Government Employee ID (40 points)"
+        },
+        "military_id": {
+          "display_name": "Defense Force Identity Card with photo or signature (40 points)"
+        },
+        "photo_id": {
+          "display_name": "Photo Identification Card - Aviation/Maritime Security identification, security industry, etc (40 points)"
+        },
+        "alien_id": {
+          "display_name": "Australian Certificate of Alien Registration (40 points)"
+        },
+        "student_id": {
+          "display_name": "Australian Tertiary Student Identification Card (40 points)"
+        },
+        "instructions": {
+          "title": "Important",
+          "body": "A minimum of 100 points of identification has to be provided with your application. You must supply at least one primary document. Foreign documents must be accompanied by an official translation.  Download Australia's Special Application form for more information and the point value for accepted documentation."
+        },
+        "international_consent_form": {
+          "display_name": "Australian Criminal Consent Form"
+        },
+        "international_consent_form_instructions": {
+          "title": "Important",
+          "body": "You may disregard section 7 of the Police Check Form. No payment information is required."
+        },
+        "bank_statement": {
+          "display_name": "Australian Tertiary Bank statement (25 points)"
+        },
+        "utility_bill": {
+          "display_name": "Australian Tertiary Utility Bill - electricity, gas, telephone (less than 12 months old) (20 points)"
+        }
+      },
+      "france": {
+        "additional_instructions": {
+          "title": "Additional instructions for next steps",
+          "body": "Please download and follow the instructions in the form.",
+          "acknowledgement": "I acknowledge receipt of this document and certify that I have read and understand this document."
+        }
+      },
+      "norway": {
+        "additional_instructions": {
+          "title": "Additional instructions for next steps",
+          "body": "Please download and follow the instructions in the form.",
+          "acknowledgement": "I acknowledge receipt of this document and certify that I have read and understand this document."
+        }
+      },
+      "portugal": {
+        "instructions": {
+          "title": "Important",
+          "body": "Please fill and sign the consent form and power of attorney forms by hand, using blue ink."
+        }
+      },
+      "taiwan": {
+        "localized_first_name": {
+          "display_name": "First Name in Chinese Characters"
+        },
+        "localized_last_name": {
+          "display_name": "Last Name in Chinese Characters"
+        }
+      }
+    },
+    "motor_vehicle_report": {
+      "canada": {
+        "abstract_authorization_form": {
+          "AB": {
+            "title": "Provincial requirement",
+            "body": "Open <a href=\"https://www.alberta.ca/get-drivers-abstract.aspx\">Get a Driver Abstract</a> in a new tab or window. Before proceeding with those instructions, complete the steps required for your background check. Return to the <a href=\"https://www.alberta.ca/get-drivers-abstract.aspx\">Get a Driver Abstract</a> instructions to obtain your abstract. You will receive an email with instructions for uploading an electronic version of your abstract to Checkr."
+          },
+          "BC": {
+            "display_name": "Authorization Form for British Columbia",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Companies with access…” and “Driver information.” Do not enter any payment information. Ensure you have signed the form before uploading the completed document below."
+          },
+          "MB": {
+            "display_name": "Authorization Form for Manitoba",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Driver information.” Do not enter any payment information. Ensure you have signed the form before uploading the completed document below."
+          },
+          "NL": {
+            "display_name": "Authorization Form for Newfoundland and Labrador",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under sections 2 and 4. Do not enter any payment information. Ensure you have signed the form in section 5 before uploading the completed document below."
+          },
+          "NS": {
+            "display_name": "Authorization Form for Nova Scotia",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Client Information.” Do not enter any payment information. Ensure you have signed the form at the top before uploading the completed document below."
+          },
+          "NT": {
+            "display_name": "Authorization Form for Northwest Territories",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields. Do not enter any payment information. Ensure you have signed the form before uploading the completed document below."
+          },
+          "NU": {
+            "display_name": "Authorization Form for Nunavut",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Driver’s Abstract,” and “Authorization to Release of Information.” Do not enter any payment information. Ensure you have signed the form at the top before uploading the completed document below."
+          },
+          "PE": {
+            "display_name": "Authorization Form for Prince Edward Island",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields. Do not enter any payment information. Ensure you have signed the form before uploading the completed document below."
+          },
+          "QC": {
+            "display_name": "Authorization Form for Quebec",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Authorization of Driver’s Licence Holder.” Ensure you have signed the form before uploading the completed document below."
+          },
+          "SK": {
+            "display_name": "Authorization Form for Saskatchewan",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under section 4. Do not enter any payment information. Ensure you have signed the form before uploading the completed document below."
+          },
+          "YT": {
+            "display_name": "Authorization Form for Yukon",
+            "title": "Provincial requirement",
+            "body": "Download the authorization form and complete the relevant fields under “Driver information.” Ensure you have signed the form before uploading the completed document below."
+          }
+        },
+        "province_of_issue": {
+          "AB" : "Alberta",
+          "BC" : "British Columbia",
+          "MB" : "Manitoba",
+          "NB" : "New Brunswick",
+          "NL" : "Newfoundland and Labrador",
+          "NS" : "Nova Scotia",
+          "NT" : "Northwest Territories",
+          "NU" : "Nunavut",
+          "ON" : "Ontario",
+          "PE" : "Prince Edward Island",
+          "QC" : "Quebec",
+          "SK" : "Saskatchewan",
+          "YT" : "Yukon"
+        },
+        "driver_license": {
+          "display_name": "Verify driver’s license by image",
+          "instructions": "Accepted images include a scanned copy or clear photo of the front of the licence. Images must be of readable quality and will only be used for verification purposes."
+        }
+      }
+    }
+  },
+  "landingPage": {
+    "commonWorkLocation": {
+      "section1Header": "Start your {company} background check",
+      "section1Text": "You’ve been asked to complete a background check with Checkr as a precondition of your engagement with {company}. Let’s get started.",
+      "section2Header": "Here’s what to expect:",
+      "section2TextItem1": "You’ll be asked to enter basic information about yourself, such as your legal name, places you’ve lived, and your date of birth.",
+      "section2TextItem2": "You’ll be guided to upload documents that support your entries. Then, we’ll get to work on your background check.",
+      "section2TextItem3": "Once your background check is complete, you and {company} will be able to view your report.",
+      "section3Header": "What you’ll need:",
+      "section3ProofOfIdentity": "Proof of identity (valid passport, driver’s license, national ID, etc).",
+      "section3SignConsentForm": "As part of the process, you may also need to sign an included consent form.",
+      "multipleCountriesWarning": "If you have lived in multiple countries over the last {address_history_required_years} years, you may be asked to supply additional information.",
+      "additionalInformationHeader": "Additional information:",
+      "addtlInfoLocalLevel": "The search is conducted at the local level.",
+      "addtlInfoNationalLevel": "The search is conducted at the national level.",
+      "summaryCompletionTime": "Average time to complete <p><b>15-20 minutes</b></p>",
+      "summaryYourInformation": "<b>We keep your personal information safe</b><p>Checkr encrypts your information and values your privacy.</p>"
+    },
+    "genericWorkLocation": {
+      "section3Header": "What you’ll need (based on location):",
+      "section3TextItem1": "Proof of identity",
+      "section3TextItem2": "Proof of address (where applicable)",
+      "section3TextItem3": "As part of the process, you may need to provide consent forms (as applicable)",
+      "summaryTurnAroundTime": "<b>Turn around time varies based on location.</b><p><a href=\"https://help.checkr.com/hc/en-us/articles/8086434006679\">Learn more.</a></p>"
+    },
+    "AR": {
+      "section3TextItem2": "As part of the process, you may also need to sign an included authorization form.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>5-6 days</b></p>"
+    },
+    "AU": {
+      "section3TextItem2": "As part of the process, you’ll also need to download and sign an included consent form.",
+      "additionalInformationText2": "The included consent form requires submission of photo IDs based on the numerical value assigned to each ID.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>18-20 days</b></p>"
+    },
+    "CA": {
+      "section3TextItem2": "As part of the process, you may also need to download and acknowledge receipt of the consent document.",
+      "additionalInformationText": "As part of the process, you may be directed to verify your identity in compliance with the Royal Canadian Mounted Police.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>1 day</b></p>"
+    },
+    "DE": {
+      "section3TextItem1": "Proof of identity (valid passport or national ID).",
+      "section3TextItem2": "Proof of current residence (driver’s license with current address, utility bill, bank statement, etc).",
+      "section3TextItem3": "As part of the process, you’ll be asked to apply for a certificate of conduct.<p><ul><li>If you live in Germany, you’ll receive an email with instructions on how to apply.</li><li>If you live outside of Germany, you’ll be provided with an application form in your background check, which will need to be hand-signed and notarized.</li></ul>",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>25-31 days</b></p>"
+    },
+    "ES": {
+      "summaryTurnAroundTime": "Average turnaround time <p><b>5 days</b></p>"
+    },
+    "FR": {
+      "section3TextItem2": "As part of the process, 48-72 hours after submission of your application, you will receive an email from the French authorities to which you need to respond to confirm your application, following which you will receive an email with the result/certificate. You must submit this certificate to support@checkr.com.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>11 days</b></p>"
+    },
+    "GB": {
+      "section2TextItem2": "You’ll be guided to upload documents that support your entries. Then, we’ll get to work on your background check. For residents of England and Wales, you'll need to confirm your identity digitally or in person.",
+      "section3TextItem2": "Proof of current residence (driver’s license with current address, utility bill, bank statement, etc).",
+      "additionalInformationText1": "The search is conducted at a Nationwide level. The search only returns criminal offenses that are reportable under the Rehabilitation of Offenders Act.",
+      "additionalInformationText2": "As part of the process you may be asked to submit your identification to your employer for physical verification after submission of your application with Checkr.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>14-15 days</b></p>"
+    },
+    "IE": {
+      "summaryTurnAroundTime": "Average turnaround time <p><b>2-8 days</b></p>"
+    },
+    "IN": {
+      "section3TextItem1": "Proof of identity (valid passport, driver’s license, PAN card, etc)",
+      "section3TextItem2": "You’ll be asked to enter your full address in India; please include all parts of your address",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>6-8 days</b></p>"
+    },
+    "MX": {
+      "section3TextItem2": "Your CURP number, or national ID and a license certificate.",
+      "section3TextItem3": "As part of the process, you’ll also need to sign an included consent form.",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>6-8 days</b></p>"
+    },
+    "NL": {
+      "section3TextItem3": "As part of the process, you’ll be asked to apply for a certificate of conduct with a Special Application Form.<p><ul><li>If you live in the  Netherlands, you may be required to apply in person for the certificate at the Municipality where they are registered in the Municipal Personal Records Database (BRP).</li><li>If you live outside of the Netherlands, you’ll be provided with an application form in your background check, which will need to be hand-signed and notarized.</li></ul>",
+      "summaryTurnAroundTime": "Average turnaround time <p><b>42 days</b></p>"
+    },
+    "PH": {
+      "summaryTurnAroundTime": "Average turnaround time <p><b>5-6 days</b></p>"
+    },
+    "SG": {
+      "summaryTurnAroundTime": "Average turnaround time <p><b>5-8 days</b></p>"
+    }
+  }
+}
